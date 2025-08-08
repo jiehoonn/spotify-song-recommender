@@ -2,6 +2,7 @@ import requests
 import json
 from dotenv import load_dotenv
 import os
+import lyricsgenius
 # import musicbrainzngs
 
 load_dotenv() # Load environment variables from .env.
@@ -230,9 +231,25 @@ def search_spotify_track_artist(song_title, artist_name):
         print(f"Error response exported to: {output_file}")
         return None
 
+def test_genius_lyrics_api():
+    """Test the Genius Lyrics API endpoint."""
+    api_key = os.getenv("GENIUS_API_KEY")
+    base_url = os.getenv("GENIUS_API_URL")
+    access_token = os.getenv("GENIUS_ACCESS_TOKEN")
+    
+    print("\nTesting Genius Lyrics API...")
+    
+    genius = lyricsgenius.Genius(access_token)
+    
+    song = genius.search_song("No One Noticed", "The Marias")
+    if song:
+        print(song.lyrics)
+    else:
+        print("Song not found on Genius.")
+
 if __name__ == "__main__":
-    test_reccobeats_api()
-    print("ReccoBeats API tests completed.")
+    # test_reccobeats_api()
+    # print("ReccoBeats API tests completed.")
     # ----------------------------------------
     # test_lastfm_api()
     # print("Last.fm API tests completed.")
@@ -249,6 +266,9 @@ if __name__ == "__main__":
     # ----------------------------------------
     # print("\n--- ReccoBeats GET Multiple Track API ---")
     # get_reccobeats_multiple_tracks(["3siwsiaEoU4Kuuc9WKMUy5"])
+    # ----------------------------------------
+    test_genius_lyrics_api()
+    print("Genius Lyrics API tests completed.")
     
     
 # 1 Pull top 50 charting songs from Last.fm

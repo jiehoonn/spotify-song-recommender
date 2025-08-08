@@ -12,7 +12,7 @@ class Song(Base):
     lastfm_url = Column(String)
     lastfm_playcount = Column(Integer)
     lastfm_listeners = Column(Integer)
-    spotify_id = Column(String(64))
+    spotify_id = Column(String(64), unique=True)
     spotify_title = Column(String(255))
     spotify_artist = Column(String(255))
     spotify_album = Column(String(255))

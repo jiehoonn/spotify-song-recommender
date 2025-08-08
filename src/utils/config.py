@@ -21,4 +21,8 @@ def get_config() -> Dict[str, Any]:
         
         # ReccoBeats API
         'RECCOBEATS_API_URL': os.getenv('RECCOBEATS_API_URL'),
+        
+        # Spotify API
+        'SPOTIFY_CLIENT_ID': os.getenv('SPOTIFY_CLIENT_ID'),
+        'SPOTIFY_CLIENT_SECRET': os.getenv('SPOTIFY_CLIENT_SECRET'),
     }

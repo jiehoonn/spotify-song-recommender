@@ -1,2 +1,19 @@
-.env
-/data
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env.*
+*.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store

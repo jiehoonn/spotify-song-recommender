@@ -1,0 +1,2281 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?offset=0&limit=20&query=No%20One%20Noticed%20The%20Marias&type=track&market=US&include_external=audio",
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?offset=20&limit=20&query=No%20One%20Noticed%20The%20Marias&type=track&market=US&include_external=audio",
+    "offset": 0,
+    "previous": null,
+    "total": 1000,
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+          },
+          "href": "https://api.spotify.com/v1/albums/03guxdOi12XJbnvxvxbpwG",
+          "id": "03guxdOi12XJbnvxvxbpwG",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024d070fdf58fad8c54c5beb85"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514d070fdf58fad8c54c5beb85"
+            }
+          ],
+          "is_playable": true,
+          "name": "Submarine",
+          "release_date": "2024-05-31",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:03guxdOi12XJbnvxvxbpwG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22307579"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3siwsiaEoU4Kuuc9WKMUy5",
+        "id": "3siwsiaEoU4Kuuc9WKMUy5",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed",
+        "popularity": 91,
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+              },
+              "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+              "id": "1QAJqy2dA3ihHBFIHRphZj",
+              "name": "Cigarettes After Sex",
+              "type": "artist",
+              "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
+          },
+          "href": "https://api.spotify.com/v1/albums/5chTLnnxlxQVAgEv6YbEBe",
+          "id": "5chTLnnxlxQVAgEv6YbEBe",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851dfed999f959177dfc4f33cdc"
+            }
+          ],
+          "is_playable": true,
+          "name": "Cigarettes After Sex",
+          "release_date": "2017-06-09",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5chTLnnxlxQVAgEv6YbEBe"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+            "id": "1QAJqy2dA3ihHBFIHRphZj",
+            "name": "Cigarettes After Sex",
+            "type": "artist",
+            "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 319560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USBQU1700031"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2xGjfbXZnI8uQDhukoQURQ",
+        "id": "2xGjfbXZnI8uQDhukoQURQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "K.",
+        "popularity": 85,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC"
+          },
+          "href": "https://api.spotify.com/v1/albums/6FkCugnh8o4VjxMMw4xlRC",
+          "id": "6FkCugnh8o4VjxMMw4xlRC",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273930087aba0907f1b0f291230"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02930087aba0907f1b0f291230"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851930087aba0907f1b0f291230"
+            }
+          ],
+          "is_playable": true,
+          "name": "No One Noticed (Extended)",
+          "release_date": "2024-11-15",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:6FkCugnh8o4VjxMMw4xlRC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284466,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22410707"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2kn0fLwt9QRorHuGdmk6ze",
+        "id": "2kn0fLwt9QRorHuGdmk6ze",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed (Extended Spanish)",
+        "popularity": 83,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2kn0fLwt9QRorHuGdmk6ze"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+              },
+              "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+              "id": "06HL4z0CvFAxyc27GXpf02",
+              "name": "Taylor Swift",
+              "type": "artist",
+              "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
+          "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33"
+            }
+          ],
+          "is_playable": true,
+          "name": "THE TORTURED POETS DEPARTMENT",
+          "release_date": "2024-04-18",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+            },
+            "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+            "id": "246dkjvS1zLTtiykXe5h60",
+            "name": "Post Malone",
+            "type": "artist",
+            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228965,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUG12401028"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2OzhQlSqBEmt7hmkYxfT6m",
+        "id": "2OzhQlSqBEmt7hmkYxfT6m",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fortnight (feat. Post Malone)",
+        "popularity": 83,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC"
+          },
+          "href": "https://api.spotify.com/v1/albums/6FkCugnh8o4VjxMMw4xlRC",
+          "id": "6FkCugnh8o4VjxMMw4xlRC",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273930087aba0907f1b0f291230"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02930087aba0907f1b0f291230"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851930087aba0907f1b0f291230"
+            }
+          ],
+          "is_playable": true,
+          "name": "No One Noticed (Extended)",
+          "release_date": "2024-11-15",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:6FkCugnh8o4VjxMMw4xlRC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284466,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22410706"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Q9qkdqu0qKKjaftRrAK9C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Q9qkdqu0qKKjaftRrAK9C",
+        "id": "4Q9qkdqu0qKKjaftRrAK9C",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed (Extended English)",
+        "popularity": 77,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Q9qkdqu0qKKjaftRrAK9C"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+              },
+              "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+              "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+              "name": "Billie Eilish",
+              "type": "artist",
+              "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+          },
+          "href": "https://api.spotify.com/v1/albums/4i3rAwPw7Ln2YrKDusaWyT",
+          "id": "4i3rAwPw7Ln2YrKDusaWyT",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f2248cf6dad1d6c062587249"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f2248cf6dad1d6c062587249"
+            }
+          ],
+          "is_playable": true,
+          "name": "everything i wanted",
+          "release_date": "2019-11-13",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4i3rAwPw7Ln2YrKDusaWyT"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "type": "artist",
+            "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245425,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71922577"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ZCTVFBt2Brf31RLEnCkWJ",
+        "id": "3ZCTVFBt2Brf31RLEnCkWJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "everything i wanted",
+        "popularity": 84,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3ZCTVFBt2Brf31RLEnCkWJ"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2jGnW9YHP10ap7fPvq93zO"
+          },
+          "href": "https://api.spotify.com/v1/albums/2jGnW9YHP10ap7fPvq93zO",
+          "id": "2jGnW9YHP10ap7fPvq93zO",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326561dfe2701348e63575f42"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226561dfe2701348e63575f42"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126561dfe2701348e63575f42"
+            }
+          ],
+          "is_playable": true,
+          "name": "No One Noticed",
+          "release_date": "2024-05-31",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2jGnW9YHP10ap7fPvq93zO"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22307579"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HvBuEmvCqRrF0swwY7BKg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3HvBuEmvCqRrF0swwY7BKg",
+        "id": "3HvBuEmvCqRrF0swwY7BKg",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3HvBuEmvCqRrF0swwY7BKg"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+              },
+              "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+              "id": "02kJSzxNuaWGqwubyUba0Z",
+              "name": "G-Eazy",
+              "type": "artist",
+              "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl"
+          },
+          "href": "https://api.spotify.com/v1/albums/6wDc63NhKy2PyXdbhkRmrl",
+          "id": "6wDc63NhKy2PyXdbhkRmrl",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bdfe4efd674482cf5ac88c99"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02bdfe4efd674482cf5ac88c99"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851bdfe4efd674482cf5ac88c99"
+            }
+          ],
+          "is_playable": true,
+          "name": "These Things Happen",
+          "release_date": "2014-06-23",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6wDc63NhKy2PyXdbhkRmrl"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+            },
+            "href": "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+            "id": "02kJSzxNuaWGqwubyUba0Z",
+            "name": "G-Eazy",
+            "type": "artist",
+            "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+            },
+            "href": "https://api.spotify.com/v1/artists/2dTGHCFyCD8uj6tAM9q8ED",
+            "id": "2dTGHCFyCD8uj6tAM9q8ED",
+            "name": "Christoph Andersson",
+            "type": "artist",
+            "uri": "spotify:artist:2dTGHCFyCD8uj6tAM9q8ED"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 255680,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USRC11400750"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Fv6wNYUixnYkj3Dgfrls8",
+        "id": "4Fv6wNYUixnYkj3Dgfrls8",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tumblr Girls (feat. Christoph Andersson)",
+        "popularity": 80,
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:4Fv6wNYUixnYkj3Dgfrls8"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+          },
+          "href": "https://api.spotify.com/v1/albums/5TkaDC4mYSLBvdG6UrIB0v",
+          "id": "5TkaDC4mYSLBvdG6UrIB0v",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ec93734d42345154b422c8d5"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ec93734d42345154b422c8d5"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ec93734d42345154b422c8d5"
+            }
+          ],
+          "is_playable": true,
+          "name": "CINEMA",
+          "release_date": "2021-06-25",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:5TkaDC4mYSLBvdG6UrIB0v"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253213,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22100694"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ShRHPAiiIrh0arZbSFmx1",
+        "id": "1ShRHPAiiIrh0arZbSFmx1",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Heavy",
+        "popularity": 84,
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1ShRHPAiiIrh0arZbSFmx1"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0PlELtAaDHSNbYpHIdXvNF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0PlELtAaDHSNbYpHIdXvNF",
+              "id": "0PlELtAaDHSNbYpHIdXvNF",
+              "name": "KheaYF",
+              "type": "artist",
+              "uri": "spotify:artist:0PlELtAaDHSNbYpHIdXvNF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/46CoSf2O2n73u4thJspJj8"
+          },
+          "href": "https://api.spotify.com/v1/albums/46CoSf2O2n73u4thJspJj8",
+          "id": "46CoSf2O2n73u4thJspJj8",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cfe20525aa947fba24a29fb"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026cfe20525aa947fba24a29fb"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516cfe20525aa947fba24a29fb"
+            }
+          ],
+          "is_playable": true,
+          "name": "The Marias\u2019 \u2018No One Noticed\u2019",
+          "release_date": "2025-01-09",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:46CoSf2O2n73u4thJspJj8"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PlELtAaDHSNbYpHIdXvNF"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PlELtAaDHSNbYpHIdXvNF",
+            "id": "0PlELtAaDHSNbYpHIdXvNF",
+            "name": "KheaYF",
+            "type": "artist",
+            "uri": "spotify:artist:0PlELtAaDHSNbYpHIdXvNF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191007,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MX2832503525"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15AG3sU5SANa3ZJyYOWbCs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15AG3sU5SANa3ZJyYOWbCs",
+        "id": "15AG3sU5SANa3ZJyYOWbCs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Marias\u2019 \u2018No One Noticed\u2019",
+        "popularity": 25,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:15AG3sU5SANa3ZJyYOWbCs"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5yvGiZLSWJTPBlZpVbPnEZ",
+              "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+              "name": "Julia Wolf",
+              "type": "artist",
+              "uri": "spotify:artist:5yvGiZLSWJTPBlZpVbPnEZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6rkyv9pUfW43tvcxe1N0mk"
+          },
+          "href": "https://api.spotify.com/v1/albums/6rkyv9pUfW43tvcxe1N0mk",
+          "id": "6rkyv9pUfW43tvcxe1N0mk",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27399400cbfe1f86fb1b01c9f1f"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0299400cbfe1f86fb1b01c9f1f"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485199400cbfe1f86fb1b01c9f1f"
+            }
+          ],
+          "is_playable": true,
+          "name": "Styrofoam Cup",
+          "release_date": "2020-08-27",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6rkyv9pUfW43tvcxe1N0mk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5yvGiZLSWJTPBlZpVbPnEZ",
+            "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+            "name": "Julia Wolf",
+            "type": "artist",
+            "uri": "spotify:artist:5yvGiZLSWJTPBlZpVbPnEZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173839,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZK6Q2067657"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4f95e8PZruMqjoQW8fZ9mQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4f95e8PZruMqjoQW8fZ9mQ",
+        "id": "4f95e8PZruMqjoQW8fZ9mQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Styrofoam Cup",
+        "popularity": 30,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4f95e8PZruMqjoQW8fZ9mQ"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3"
+          },
+          "href": "https://api.spotify.com/v1/albums/0CHEK7iHmeB7bZ8lqAsbS3",
+          "id": "0CHEK7iHmeB7bZ8lqAsbS3",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b59fd0d17294fc39677831d5"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b59fd0d17294fc39677831d5"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b59fd0d17294fc39677831d5"
+            }
+          ],
+          "is_playable": true,
+          "name": "Nobody New",
+          "release_date": "2025-04-02",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0CHEK7iHmeB7bZ8lqAsbS3"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215200,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22501642"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3BUc2A0MJ53FHwiy3eohBt",
+        "id": "3BUc2A0MJ53FHwiy3eohBt",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Nobody New",
+        "popularity": 78,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2OC0Nxx6DLLPlJ5J6SxvRo"
+              },
+              "href": "https://api.spotify.com/v1/artists/2OC0Nxx6DLLPlJ5J6SxvRo",
+              "id": "2OC0Nxx6DLLPlJ5J6SxvRo",
+              "name": "Birdie Ventura",
+              "type": "artist",
+              "uri": "spotify:artist:2OC0Nxx6DLLPlJ5J6SxvRo"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7u2vXKoLXyEgEdJpRVFe1T"
+          },
+          "href": "https://api.spotify.com/v1/albums/7u2vXKoLXyEgEdJpRVFe1T",
+          "id": "7u2vXKoLXyEgEdJpRVFe1T",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bdb21adf4595e6f64a9db81a"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02bdb21adf4595e6f64a9db81a"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851bdb21adf4595e6f64a9db81a"
+            }
+          ],
+          "is_playable": true,
+          "name": "No One Noticed (TikTok Piano Version Inspired by The Mar\u00edas)",
+          "release_date": "2024-11-27",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7u2vXKoLXyEgEdJpRVFe1T"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2OC0Nxx6DLLPlJ5J6SxvRo"
+            },
+            "href": "https://api.spotify.com/v1/artists/2OC0Nxx6DLLPlJ5J6SxvRo",
+            "id": "2OC0Nxx6DLLPlJ5J6SxvRo",
+            "name": "Birdie Ventura",
+            "type": "artist",
+            "uri": "spotify:artist:2OC0Nxx6DLLPlJ5J6SxvRo"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239387,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GB5L61113101"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39UbFoE5dSIfmyp52Gxwze"
+        },
+        "href": "https://api.spotify.com/v1/tracks/39UbFoE5dSIfmyp52Gxwze",
+        "id": "39UbFoE5dSIfmyp52Gxwze",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed (TikTok Piano Version Inspired by The Mar\u00edas)",
+        "popularity": 12,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:39UbFoE5dSIfmyp52Gxwze"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+              },
+              "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+              "id": "3Y7RZ31TRPVadSFVy1o8os",
+              "name": "H.E.R.",
+              "type": "artist",
+              "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+          },
+          "href": "https://api.spotify.com/v1/albums/0IMTA2Wz6p8CNZ0MDK2zvg",
+          "id": "0IMTA2Wz6p8CNZ0MDK2zvg",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732066a381ebbbb1f8312764e7"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022066a381ebbbb1f8312764e7"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512066a381ebbbb1f8312764e7"
+            }
+          ],
+          "is_playable": true,
+          "name": "I Used To Know Her",
+          "release_date": "2019-08-30",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:0IMTA2Wz6p8CNZ0MDK2zvg"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+            "id": "3Y7RZ31TRPVadSFVy1o8os",
+            "name": "H.E.R.",
+            "type": "artist",
+            "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+            },
+            "href": "https://api.spotify.com/v1/artists/0huGjMyP507tBCARyzSkrv",
+            "id": "0huGjMyP507tBCARyzSkrv",
+            "name": "Cordae",
+            "type": "artist",
+            "uri": "spotify:artist:0huGjMyP507tBCARyzSkrv"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 369013,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRC11902137"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/395jpTFcWeAKNT6Up5f07R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/395jpTFcWeAKNT6Up5f07R",
+        "id": "395jpTFcWeAKNT6Up5f07R",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Lord Is Coming (feat. YBN Cordae)",
+        "popularity": 35,
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:395jpTFcWeAKNT6Up5f07R"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+          },
+          "href": "https://api.spotify.com/v1/albums/03guxdOi12XJbnvxvxbpwG",
+          "id": "03guxdOi12XJbnvxvxbpwG",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024d070fdf58fad8c54c5beb85"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514d070fdf58fad8c54c5beb85"
+            }
+          ],
+          "is_playable": true,
+          "name": "Submarine",
+          "release_date": "2024-05-31",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:03guxdOi12XJbnvxvxbpwG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224840,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22400849"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0InIeZW4P6VO7dUGRM4AKH",
+        "id": "0InIeZW4P6VO7dUGRM4AKH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sienna",
+        "popularity": 82,
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:0InIeZW4P6VO7dUGRM4AKH"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1V0XTe71XraCqYENq5yR6M"
+              },
+              "href": "https://api.spotify.com/v1/artists/1V0XTe71XraCqYENq5yR6M",
+              "id": "1V0XTe71XraCqYENq5yR6M",
+              "name": "Clara Selty",
+              "type": "artist",
+              "uri": "spotify:artist:1V0XTe71XraCqYENq5yR6M"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2iCdeaYCpJ8R7sCGDhD49z"
+          },
+          "href": "https://api.spotify.com/v1/albums/2iCdeaYCpJ8R7sCGDhD49z",
+          "id": "2iCdeaYCpJ8R7sCGDhD49z",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730dfadd9e5817b9f6741be1c4"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e020dfadd9e5817b9f6741be1c4"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048510dfadd9e5817b9f6741be1c4"
+            }
+          ],
+          "is_playable": true,
+          "name": "No One Noticed (The Mar\u00edas Instrumental Guitar Cover Alt Ver.)",
+          "release_date": "2024-12-11",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:2iCdeaYCpJ8R7sCGDhD49z"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1V0XTe71XraCqYENq5yR6M"
+            },
+            "href": "https://api.spotify.com/v1/artists/1V0XTe71XraCqYENq5yR6M",
+            "id": "1V0XTe71XraCqYENq5yR6M",
+            "name": "Clara Selty",
+            "type": "artist",
+            "uri": "spotify:artist:1V0XTe71XraCqYENq5yR6M"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 280990,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZPEW2500982"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xuPihf2zMBjJ1Yvb9yGRp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xuPihf2zMBjJ1Yvb9yGRp",
+        "id": "0xuPihf2zMBjJ1Yvb9yGRp",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed - The Mar\u00edas Instrumental Guitar Cover Alt Ver. Slowed",
+        "popularity": 1,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0xuPihf2zMBjJ1Yvb9yGRp"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+              },
+              "href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+              "id": "7wlFDEWiM5OoIAt8RSli8b",
+              "name": "YoungBoy Never Broke Again",
+              "type": "artist",
+              "uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+          },
+          "href": "https://api.spotify.com/v1/albums/2jkrBfnQoV4eDTaoXWnVhg",
+          "id": "2jkrBfnQoV4eDTaoXWnVhg",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273808795efa3a6f246a83cd96f"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02808795efa3a6f246a83cd96f"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851808795efa3a6f246a83cd96f"
+            }
+          ],
+          "is_playable": true,
+          "name": "MASA",
+          "release_date": "2025-07-25",
+          "release_date_precision": "day",
+          "total_tracks": 30,
+          "type": "album",
+          "uri": "spotify:album:2jkrBfnQoV4eDTaoXWnVhg"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+            },
+            "href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+            "id": "7wlFDEWiM5OoIAt8RSli8b",
+            "name": "YoungBoy Never Broke Again",
+            "type": "artist",
+            "uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201481,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUG12504167"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59rvSFQuQt9nIjGS4Hul6d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59rvSFQuQt9nIjGS4Hul6d",
+        "id": "59rvSFQuQt9nIjGS4Hul6d",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Finest",
+        "popularity": 56,
+        "preview_url": null,
+        "track_number": 28,
+        "type": "track",
+        "uri": "spotify:track:59rvSFQuQt9nIjGS4Hul6d"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+              },
+              "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+              "id": "2sSGPbdZJkaSE2AbcGOACx",
+              "name": "The Mar\u00edas",
+              "type": "artist",
+              "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+          },
+          "href": "https://api.spotify.com/v1/albums/3y8LtE30zPfQ4sXYRKvt2e",
+          "id": "3y8LtE30zPfQ4sXYRKvt2e",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273228d31c8b21605ed4a04923b"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02228d31c8b21605ed4a04923b"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851228d31c8b21605ed4a04923b"
+            }
+          ],
+          "is_playable": true,
+          "name": "Back To Me",
+          "release_date": "2025-04-04",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:3y8LtE30zPfQ4sXYRKvt2e"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+            "id": "2sSGPbdZJkaSE2AbcGOACx",
+            "name": "The Mar\u00edas",
+            "type": "artist",
+            "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215200,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT22501642"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pwJ6OujVQL3IpCr8KeXIg",
+        "id": "4pwJ6OujVQL3IpCr8KeXIg",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Nobody New",
+        "popularity": 72,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4pwJ6OujVQL3IpCr8KeXIg"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1V0XTe71XraCqYENq5yR6M"
+              },
+              "href": "https://api.spotify.com/v1/artists/1V0XTe71XraCqYENq5yR6M",
+              "id": "1V0XTe71XraCqYENq5yR6M",
+              "name": "Clara Selty",
+              "type": "artist",
+              "uri": "spotify:artist:1V0XTe71XraCqYENq5yR6M"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2iCdeaYCpJ8R7sCGDhD49z"
+          },
+          "href": "https://api.spotify.com/v1/albums/2iCdeaYCpJ8R7sCGDhD49z",
+          "id": "2iCdeaYCpJ8R7sCGDhD49z",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730dfadd9e5817b9f6741be1c4"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e020dfadd9e5817b9f6741be1c4"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048510dfadd9e5817b9f6741be1c4"
+            }
+          ],
+          "is_playable": true,
+          "name": "No One Noticed (The Mar\u00edas Instrumental Guitar Cover Alt Ver.)",
+          "release_date": "2024-12-11",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:2iCdeaYCpJ8R7sCGDhD49z"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1V0XTe71XraCqYENq5yR6M"
+            },
+            "href": "https://api.spotify.com/v1/artists/1V0XTe71XraCqYENq5yR6M",
+            "id": "1V0XTe71XraCqYENq5yR6M",
+            "name": "Clara Selty",
+            "type": "artist",
+            "uri": "spotify:artist:1V0XTe71XraCqYENq5yR6M"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 177240,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZPEW2500981"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3k2t9YvUqMx1KFbvro303r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3k2t9YvUqMx1KFbvro303r",
+        "id": "3k2t9YvUqMx1KFbvro303r",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No One Noticed - The Mar\u00edas Instrumental Guitar Cover Alt Ver. Spedup",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3k2t9YvUqMx1KFbvro303r"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+              },
+              "href": "https://api.spotify.com/v1/artists/1bObiFZkYu7IfzxVlAVj5x",
+              "id": "1bObiFZkYu7IfzxVlAVj5x",
+              "name": "Danny Vera",
+              "type": "artist",
+              "uri": "spotify:artist:1bObiFZkYu7IfzxVlAVj5x"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1lugYz3eI1IeNbtdn924Ty"
+          },
+          "href": "https://api.spotify.com/v1/albums/1lugYz3eI1IeNbtdn924Ty",
+          "id": "1lugYz3eI1IeNbtdn924Ty",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273edb016020357ea8329ec9bac"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02edb016020357ea8329ec9bac"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851edb016020357ea8329ec9bac"
+            }
+          ],
+          "is_playable": true,
+          "name": "Ordinary Man",
+          "release_date": "2007-04-13",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:1lugYz3eI1IeNbtdn924Ty"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bObiFZkYu7IfzxVlAVj5x",
+            "id": "1bObiFZkYu7IfzxVlAVj5x",
+            "name": "Danny Vera",
+            "type": "artist",
+            "uri": "spotify:artist:1bObiFZkYu7IfzxVlAVj5x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "NLB601500093"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yngQFNjYLoUCkEeOivJJA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yngQFNjYLoUCkEeOivJJA",
+        "id": "1yngQFNjYLoUCkEeOivJJA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "What Life Brings",
+        "popularity": 30,
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1yngQFNjYLoUCkEeOivJJA"
+      }
+    ]
+  },
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?offset=0&limit=20&query=No%20One%20Noticed%20The%20Marias&type=artist&market=US&include_external=audio",
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?offset=20&limit=20&query=No%20One%20Noticed%20The%20Marias&type=artist&market=US&include_external=audio",
+    "offset": 0,
+    "previous": null,
+    "total": 800,
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        "followers": {
+          "href": null,
+          "total": 3204520
+        },
+        "genres": [
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+        "id": "2sSGPbdZJkaSE2AbcGOACx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174af586afa2b397f1288683a76",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178af586afa2b397f1288683a76",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "The Mar\u00edas",
+        "popularity": 86,
+        "type": "artist",
+        "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        "followers": {
+          "href": null,
+          "total": 4384638
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
+        "id": "5y8tKLUfMvliMe8IKamR32",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebee632cde061121a5fe48c1d6",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174ee632cde061121a5fe48c1d6",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178ee632cde061121a5fe48c1d6",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "d4vd",
+        "popularity": 84,
+        "type": "artist",
+        "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        "followers": {
+          "href": null,
+          "total": 6341288
+        },
+        "genres": [
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+        "id": "3l0CmX0FuQjFxr8SK7Vqag",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb4804c4a44c85afea1a72d1bd",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051744804c4a44c85afea1a72d1bd",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Clairo",
+        "popularity": 82,
+        "type": "artist",
+        "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        },
+        "followers": {
+          "href": null,
+          "total": 2032953
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5szilpXHcwOqnyKLqGco5j",
+        "id": "5szilpXHcwOqnyKLqGco5j",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb4935804c2a7f4d6a22525607",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051744935804c2a7f4d6a22525607",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1784935804c2a7f4d6a22525607",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Faye Webster",
+        "popularity": 75,
+        "type": "artist",
+        "uri": "spotify:artist:5szilpXHcwOqnyKLqGco5j"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        "followers": {
+          "href": null,
+          "total": 8557190
+        },
+        "genres": [
+          "r&b"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+        "id": "3Y7RZ31TRPVadSFVy1o8os",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb417db49cde3ed1c5a65e3514",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174417db49cde3ed1c5a65e3514",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178417db49cde3ed1c5a65e3514",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "H.E.R.",
+        "popularity": 77,
+        "type": "artist",
+        "uri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        "followers": {
+          "href": null,
+          "total": 999004
+        },
+        "genres": [
+          "alternative r&b"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7HO5fOXE4gh3lzZn64tX2E",
+        "id": "7HO5fOXE4gh3lzZn64tX2E",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb6e0ad52899974a169ab69c88",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051746e0ad52899974a169ab69c88",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1786e0ad52899974a169ab69c88",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Mariah the Scientist",
+        "popularity": 74,
+        "type": "artist",
+        "uri": "spotify:artist:7HO5fOXE4gh3lzZn64tX2E"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
+        "followers": {
+          "href": null,
+          "total": 702610
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc7c93edb239b99c22a84bdd9",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174c7c93edb239b99c22a84bdd9",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178c7c93edb239b99c22a84bdd9",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Yebba",
+        "popularity": 76,
+        "type": "artist",
+        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        },
+        "followers": {
+          "href": null,
+          "total": 2261641
+        },
+        "genres": [
+          "bedroom pop",
+          "indie pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+        "id": "3zmfs9cQwzJl575W1ZYXeT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebfd30ebd7e80dad6b2383aab0",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174fd30ebd7e80dad6b2383aab0",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178fd30ebd7e80dad6b2383aab0",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Men I Trust",
+        "popularity": 73,
+        "type": "artist",
+        "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "followers": {
+          "href": null,
+          "total": 1114757
+        },
+        "genres": [
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id": "5FxD8fkQZ6KcsSYupDVoSO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebae8080a07532b843b42acec1",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174ae8080a07532b843b42acec1",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178ae8080a07532b843b42acec1",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Omar Apollo",
+        "popularity": 71,
+        "type": "artist",
+        "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        },
+        "followers": {
+          "href": null,
+          "total": 1191885
+        },
+        "genres": [
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1AbJ2cmwK400LSvdvBL5Jc",
+        "id": "1AbJ2cmwK400LSvdvBL5Jc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb9ef984201491d362210c467c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051749ef984201491d362210c467c",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1789ef984201491d362210c467c",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Strawberry Guy",
+        "popularity": 71,
+        "type": "artist",
+        "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        "followers": {
+          "href": null,
+          "total": 616097
+        },
+        "genres": [
+          "alternative r&b"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3jk39CGeaaSO3FPKNx1RUx",
+        "id": "3jk39CGeaaSO3FPKNx1RUx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebb93c1b17e5b733ebccc7171c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174b93c1b17e5b733ebccc7171c",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178b93c1b17e5b733ebccc7171c",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Syd",
+        "popularity": 67,
+        "type": "artist",
+        "uri": "spotify:artist:3jk39CGeaaSO3FPKNx1RUx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        },
+        "followers": {
+          "href": null,
+          "total": 1082453
+        },
+        "genres": [
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+        "id": "4iMO20EPodreIaEl8qW66y",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Still Woozy",
+        "popularity": 67,
+        "type": "artist",
+        "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        "followers": {
+          "href": null,
+          "total": 415580
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7tr9pbgNEKtG0GQTKe08Tz",
+        "id": "7tr9pbgNEKtG0GQTKe08Tz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb2dc02311bf9829215cedd18d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051742dc02311bf9829215cedd18d",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1782dc02311bf9829215cedd18d",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Mk.gee",
+        "popularity": 66,
+        "type": "artist",
+        "uri": "spotify:artist:7tr9pbgNEKtG0GQTKe08Tz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "followers": {
+          "href": null,
+          "total": 652651
+        },
+        "genres": [
+          "neo-psychedelic",
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id": "4kSGbjWGxTchKpIxXPJv0B",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb6f45f5a266806440173a354c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051746f45f5a266806440173a354c",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1786f45f5a266806440173a354c",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Crumb",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        },
+        "followers": {
+          "href": null,
+          "total": 296135
+        },
+        "genres": [
+          "alternative r&b"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6HCkJzbswOIc7Qc5TJ1n5l",
+        "id": "6HCkJzbswOIc7Qc5TJ1n5l",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebab39fdc015ba78f38f5f10c0",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174ab39fdc015ba78f38f5f10c0",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178ab39fdc015ba78f38f5f10c0",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "JMSN",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:6HCkJzbswOIc7Qc5TJ1n5l"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        },
+        "followers": {
+          "href": null,
+          "total": 666572
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0ZxZlO7oWCSYMXhehpyMvE",
+        "id": "0ZxZlO7oWCSYMXhehpyMvE",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebbd991c329ced8e990ecb3b45",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174bd991c329ced8e990ecb3b45",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178bd991c329ced8e990ecb3b45",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "COIN",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:0ZxZlO7oWCSYMXhehpyMvE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        },
+        "followers": {
+          "href": null,
+          "total": 247137
+        },
+        "genres": [
+          "indie r&b"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6kmDosYCYjFQtywDq0DLPZ",
+        "id": "6kmDosYCYjFQtywDq0DLPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb6921bdf2ddc6e84970fd172e",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051746921bdf2ddc6e84970fd172e",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1786921bdf2ddc6e84970fd172e",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Khamari",
+        "popularity": 62,
+        "type": "artist",
+        "uri": "spotify:artist:6kmDosYCYjFQtywDq0DLPZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        },
+        "followers": {
+          "href": null,
+          "total": 302556
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/496w0Fyed8J7IRzn5Ffb6x",
+        "id": "496w0Fyed8J7IRzn5Ffb6x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb19246b2550d1999618a4b9bd",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000517419246b2550d1999618a4b9bd",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f17819246b2550d1999618a4b9bd",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "juju<3",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:496w0Fyed8J7IRzn5Ffb6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        },
+        "followers": {
+          "href": null,
+          "total": 411657
+        },
+        "genres": [
+          "alternative r&b",
+          "bedroom pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2efrqekWSHlvhATD50AG3m",
+        "id": "2efrqekWSHlvhATD50AG3m",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eba54e653428cded1a4791ad24",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174a54e653428cded1a4791ad24",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178a54e653428cded1a4791ad24",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Orion Sun",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:2efrqekWSHlvhATD50AG3m"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        "followers": {
+          "href": null,
+          "total": 1057781
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4ClziihVpBeFXNyDH83Lde",
+        "id": "4ClziihVpBeFXNyDH83Lde",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc8313a3a72905937b5c48819",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174c8313a3a72905937b5c48819",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178c8313a3a72905937b5c48819",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "UMI",
+        "popularity": 62,
+        "type": "artist",
+        "uri": "spotify:artist:4ClziihVpBeFXNyDH83Lde"
+      }
+    ]
+  }
+}

@@ -4,6 +4,7 @@ python-dotenv
 sqlalchemy
 lyricsgenius
 langdetect
+numpy
 # Optional:
 # pandas
 # jupyter

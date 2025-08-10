@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, Text, ForeignKey
+from sqlalchemy import Column, Integer, String, Float, Text, ForeignKey, UniqueConstraint
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
 
@@ -31,6 +31,7 @@ class Song(Base):
     tempo = Column(Float)
     valence = Column(Float)
     lyrics = relationship("Lyrics", uselist=False, back_populates="song")
+    emotion_scores = relationship("SongEmotionScore", back_populates="song", cascade="all, delete-orphan")
 
 class Lyrics(Base):
     __tablename__ = 'lyrics'
@@ -38,3 +39,12 @@ class Lyrics(Base):
     song_id = Column(Integer, ForeignKey('songs.id'), unique=True)
     cleaned_lyrics = Column(Text)
     song = relationship("Song", back_populates="lyrics")
+
+class SongEmotionScore(Base):
+    __tablename__ = 'song_emotion_scores'
+    id = Column(Integer, primary_key=True)
+    song_id = Column(Integer, ForeignKey('songs.id', ondelete='CASCADE'))
+    emotion = Column(String(32))
+    score = Column(Float)
+    song = relationship("Song", back_populates="emotion_scores")
+    __table_args__ = (UniqueConstraint('song_id', 'emotion', name='uix_song_emotion'),)

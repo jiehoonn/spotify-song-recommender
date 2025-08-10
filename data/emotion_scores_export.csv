@@ -1,0 +1,2689 @@
+song_id,spotify_title,spotify_artist,emotion,score
+2,"Good Luck, Babe!",Chappell Roan,trust,0.05949118942731282
+2,"Good Luck, Babe!",Chappell Roan,surprise,0.056262114537444965
+2,"Good Luck, Babe!",Chappell Roan,disgust,0.00780396475770925
+2,"Good Luck, Babe!",Chappell Roan,anticipation,0.0728920704845815
+2,"Good Luck, Babe!",Chappell Roan,joy,0.08019603524229073
+2,"Good Luck, Babe!",Chappell Roan,anger,0.01641409691629956
+2,"Good Luck, Babe!",Chappell Roan,fear,0.020502202643171805
+2,"Good Luck, Babe!",Chappell Roan,sadness,0.012702643171806164
+3,No One Noticed,The Marías,sadness,0.030035947712418302
+3,No One Noticed,The Marías,disgust,0.0031928104575163394
+3,No One Noticed,The Marías,trust,0.013245098039215683
+3,No One Noticed,The Marías,anger,0.0010686274509803923
+3,No One Noticed,The Marías,fear,0.0017941176470588232
+3,No One Noticed,The Marías,joy,0.014676470588235293
+3,No One Noticed,The Marías,anticipation,0.016287581699346406
+3,No One Noticed,The Marías,surprise,0.019490196078431374
+4,Illegal,PinkPantheress,anticipation,0.007224637681159421
+4,Illegal,PinkPantheress,joy,0.005659420289855072
+4,Illegal,PinkPantheress,anger,0.005710144927536232
+4,Illegal,PinkPantheress,disgust,0.01209057971014493
+4,Illegal,PinkPantheress,fear,0.014155797101449274
+4,Illegal,PinkPantheress,sadness,0.013253623188405795
+4,Illegal,PinkPantheress,trust,0.008547101449275363
+5,august,Taylor Swift,sadness,0.010682619647355163
+5,august,Taylor Swift,anticipation,0.02643828715365239
+5,august,Taylor Swift,joy,0.029929471032745597
+5,august,Taylor Swift,trust,0.026848866498740548
+5,august,Taylor Swift,surprise,0.012531486146095717
+5,august,Taylor Swift,fear,0.002916876574307305
+5,august,Taylor Swift,anger,0.001314861460957179
+5,august,Taylor Swift,disgust,0.0012594458438287153
+6,Let Down,Radiohead,anger,0.04727586206896551
+6,Let Down,Radiohead,disgust,0.034833333333333334
+6,Let Down,Radiohead,sadness,0.05302298850574712
+6,Let Down,Radiohead,fear,0.05649425287356322
+6,Let Down,Radiohead,trust,0.020862068965517244
+6,Let Down,Radiohead,surprise,0.0012126436781609196
+6,Let Down,Radiohead,anticipation,0.006379310344827587
+6,Let Down,Radiohead,joy,0.002781609195402299
+1,back to friends,sombr,joy,0.012916230366492146
+1,back to friends,sombr,trust,0.006356020942408377
+1,back to friends,sombr,anger,0.010157068062827224
+1,back to friends,sombr,anticipation,0.004335078534031414
+1,back to friends,sombr,disgust,0.004214659685863874
+1,back to friends,sombr,fear,0.009895287958115184
+1,back to friends,sombr,sadness,0.006942408376963351
+1,back to friends,sombr,surprise,0.0018795811518324606
+8,Gnarly,KATSEYE,trust,0.0216079295154185
+8,Gnarly,KATSEYE,joy,0.008030837004405286
+8,Gnarly,KATSEYE,fear,0.03318502202643171
+8,Gnarly,KATSEYE,anticipation,0.00639647577092511
+8,Gnarly,KATSEYE,anger,0.07327753303964761
+8,Gnarly,KATSEYE,disgust,0.06426431718061676
+8,Gnarly,KATSEYE,sadness,0.001788546255506608
+9,party 4 u,Charli xcx,joy,0.15296678529062877
+9,party 4 u,Charli xcx,trust,0.013677342823250296
+9,party 4 u,Charli xcx,anticipation,0.014563463819691577
+9,party 4 u,Charli xcx,fear,0.0036215895610913398
+9,party 4 u,Charli xcx,surprise,0.0040379596678529065
+9,party 4 u,Charli xcx,sadness,0.00038908659549228945
+9,party 4 u,Charli xcx,anger,0.001582443653618031
+10,Creep,Radiohead,trust,0.019640718562874252
+10,Creep,Radiohead,anticipation,0.011275449101796408
+10,Creep,Radiohead,joy,0.04458682634730538
+10,Creep,Radiohead,surprise,0.0019161676646706587
+10,Creep,Radiohead,sadness,0.01706586826347305
+10,Creep,Radiohead,fear,0.028826347305389223
+10,Creep,Radiohead,anger,0.015323353293413175
+10,Creep,Radiohead,disgust,0.012215568862275449
+11,BIRDS OF A FEATHER,Billie Eilish,fear,0.02314765100671141
+11,BIRDS OF A FEATHER,Billie Eilish,sadness,0.02998322147651006
+11,BIRDS OF A FEATHER,Billie Eilish,disgust,0.006580536912751678
+11,BIRDS OF A FEATHER,Billie Eilish,joy,0.02418456375838926
+11,BIRDS OF A FEATHER,Billie Eilish,trust,0.01206040268456376
+11,BIRDS OF A FEATHER,Billie Eilish,anger,0.0027986577181208054
+11,BIRDS OF A FEATHER,Billie Eilish,surprise,0.0041946308724832215
+11,BIRDS OF A FEATHER,Billie Eilish,anticipation,0.002724832214765101
+248,Kiss Me,Sixpence None The Richer,anticipation,0.04907317073170732
+248,Kiss Me,Sixpence None The Richer,joy,0.053103658536585364
+248,Kiss Me,Sixpence None The Richer,surprise,0.03411585365853659
+248,Kiss Me,Sixpence None The Richer,trust,0.017420731707317075
+248,Kiss Me,Sixpence None The Richer,anger,0.019256097560975613
+248,Kiss Me,Sixpence None The Richer,sadness,0.008670731707317074
+248,Kiss Me,Sixpence None The Richer,fear,0.007146341463414635
+248,Kiss Me,Sixpence None The Richer,disgust,0.0034756097560975615
+12,Love Me Not,Ravyn Lenae,sadness,0.014429435483870972
+12,Love Me Not,Ravyn Lenae,surprise,0.005366935483870967
+12,Love Me Not,Ravyn Lenae,anticipation,0.008272177419354838
+12,Love Me Not,Ravyn Lenae,trust,0.016725806451612906
+12,Love Me Not,Ravyn Lenae,joy,0.015606854838709678
+12,Love Me Not,Ravyn Lenae,anger,0.002481854838709677
+12,Love Me Not,Ravyn Lenae,disgust,0.0034173387096774195
+12,Love Me Not,Ravyn Lenae,fear,0.003338709677419355
+65,From The Start,Laufey,joy,0.03180099502487562
+65,From The Start,Laufey,sadness,0.012606965174129353
+65,From The Start,Laufey,anticipation,0.01624378109452736
+65,From The Start,Laufey,trust,0.022184079601990047
+65,From The Start,Laufey,fear,0.012278606965174129
+65,From The Start,Laufey,anger,0.007606965174129353
+65,From The Start,Laufey,disgust,0.006601990049751243
+65,From The Start,Laufey,surprise,0.005134328358208955
+15,Sparks,Coldplay,anticipation,0.007541284403669724
+15,Sparks,Coldplay,joy,0.02220183486238532
+15,Sparks,Coldplay,sadness,0.009770642201834863
+15,Sparks,Coldplay,trust,0.0148348623853211
+16,Diet Pepsi,Addison Rae,anticipation,0.01682102272727273
+16,Diet Pepsi,Addison Rae,joy,0.08697159090909089
+16,Diet Pepsi,Addison Rae,surprise,0.008099431818181816
+16,Diet Pepsi,Addison Rae,anger,0.013491477272727277
+16,Diet Pepsi,Addison Rae,fear,0.002752840909090909
+16,Diet Pepsi,Addison Rae,sadness,0.024957386363636366
+16,Diet Pepsi,Addison Rae,trust,0.06658806818181816
+17,Von dutch,Charli xcx,trust,0.030667539267015702
+17,Von dutch,Charli xcx,anger,0.010581151832460731
+17,Von dutch,Charli xcx,disgust,0.009790575916230369
+17,Von dutch,Charli xcx,fear,0.013963350785340313
+17,Von dutch,Charli xcx,sadness,0.006306282722513088
+17,Von dutch,Charli xcx,joy,0.015206806282722514
+17,Von dutch,Charli xcx,surprise,0.006913612565445026
+17,Von dutch,Charli xcx,anticipation,0.004602094240837696
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",joy,0.016682819383259915
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",anticipation,0.011240088105726872
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",trust,0.0036828193832599116
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",anger,0.01605726872246696
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",surprise,0.005740088105726872
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",fear,0.011268722466960352
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",sadness,0.010044052863436124
+18,See You Again (feat. Kali Uchis),"Tyler, The Creator",disgust,0.010563876651982378
+249,I Love You So,The Walters,joy,0.05681176470588235
+249,I Love You So,The Walters,trust,0.05028823529411765
+249,I Love You So,The Walters,anger,0.007217647058823528
+249,I Love You So,The Walters,disgust,0.010388235294117648
+249,I Love You So,The Walters,anticipation,0.009947058823529411
+249,I Love You So,The Walters,surprise,0.004870588235294118
+249,I Love You So,The Walters,sadness,0.010870588235294116
+249,I Love You So,The Walters,fear,0.003858823529411765
+13,Casual,Chappell Roan,joy,0.03287671232876713
+13,Casual,Chappell Roan,anger,0.019073972602739724
+13,Casual,Chappell Roan,disgust,0.012454794520547943
+13,Casual,Chappell Roan,fear,0.012273972602739727
+13,Casual,Chappell Roan,sadness,0.013619178082191784
+13,Casual,Chappell Roan,surprise,0.005627397260273972
+13,Casual,Chappell Roan,anticipation,0.013378082191780822
+13,Casual,Chappell Roan,trust,0.008756164383561643
+21,No Surprises,Radiohead,joy,0.07030708661417323
+21,No Surprises,Radiohead,trust,0.014385826771653542
+21,No Surprises,Radiohead,anger,0.0028661417322834643
+21,No Surprises,Radiohead,disgust,0.0016614173228346456
+21,No Surprises,Radiohead,sadness,0.008858267716535435
+21,No Surprises,Radiohead,fear,0.0028267716535433068
+21,No Surprises,Radiohead,anticipation,0.006519685039370078
+22,Duvet,bôa,disgust,0.009230392156862745
+22,Duvet,bôa,fear,0.035083333333333334
+22,Duvet,bôa,sadness,0.05761274509803921
+22,Duvet,bôa,anger,0.025823529411764704
+22,Duvet,bôa,joy,0.010352941176470589
+22,Duvet,bôa,trust,0.012985294117647057
+22,Duvet,bôa,surprise,0.0005735294117647059
+22,Duvet,bôa,anticipation,0.005936274509803922
+23,Pink Pony Club,Chappell Roan,anger,0.004893939393939393
+23,Pink Pony Club,Chappell Roan,fear,0.009994949494949494
+23,Pink Pony Club,Chappell Roan,sadness,0.005858585858585861
+23,Pink Pony Club,Chappell Roan,joy,0.06619444444444447
+23,Pink Pony Club,Chappell Roan,trust,0.014457070707070708
+23,Pink Pony Club,Chappell Roan,anticipation,0.010941919191919192
+23,Pink Pony Club,Chappell Roan,disgust,0.002429292929292929
+23,Pink Pony Club,Chappell Roan,surprise,0.004184343434343435
+24,Iris,The Goo Goo Dolls,joy,0.010827868852459016
+24,Iris,The Goo Goo Dolls,sadness,0.011290983606557376
+24,Iris,The Goo Goo Dolls,anger,0.008618852459016392
+24,Iris,The Goo Goo Dolls,fear,0.011651639344262298
+24,Iris,The Goo Goo Dolls,trust,0.007491803278688524
+24,Iris,The Goo Goo Dolls,anticipation,0.001889344262295082
+42,The Chain - 2004 Remaster,Fleetwood Mac,joy,0.06543846153846153
+42,The Chain - 2004 Remaster,Fleetwood Mac,anticipation,0.003723076923076923
+42,The Chain - 2004 Remaster,Fleetwood Mac,fear,0.005530769230769231
+42,The Chain - 2004 Remaster,Fleetwood Mac,surprise,0.020165384615384616
+42,The Chain - 2004 Remaster,Fleetwood Mac,trust,0.0454153846153846
+42,The Chain - 2004 Remaster,Fleetwood Mac,anger,0.016961538461538462
+42,The Chain - 2004 Remaster,Fleetwood Mac,disgust,0.008284615384615385
+42,The Chain - 2004 Remaster,Fleetwood Mac,sadness,0.003176923076923077
+19,HOT TO GO!,Chappell Roan,anger,0.029919220055710304
+19,HOT TO GO!,Chappell Roan,disgust,0.002044568245125348
+19,HOT TO GO!,Chappell Roan,anticipation,0.014626740947075209
+19,HOT TO GO!,Chappell Roan,joy,0.014545961002785516
+19,HOT TO GO!,Chappell Roan,trust,0.01324791086350975
+19,HOT TO GO!,Chappell Roan,sadness,0.0021949860724233983
+19,HOT TO GO!,Chappell Roan,surprise,0.0007604456824512535
+19,HOT TO GO!,Chappell Roan,fear,0.0016963788300835654
+26,Espresso,Sabrina Carpenter,anger,0.00867581047381546
+26,Espresso,Sabrina Carpenter,anticipation,0.010261845386533665
+26,Espresso,Sabrina Carpenter,joy,0.028703241895261848
+26,Espresso,Sabrina Carpenter,surprise,0.009635910224438902
+26,Espresso,Sabrina Carpenter,trust,0.012069825436408978
+26,Espresso,Sabrina Carpenter,sadness,0.007790523690773069
+26,Espresso,Sabrina Carpenter,fear,0.0036633416458852863
+26,Espresso,Sabrina Carpenter,disgust,0.00399501246882793
+27,Lovers Rock,TV Girl,disgust,0.002181132075471698
+27,Lovers Rock,TV Girl,sadness,0.009550943396226415
+27,Lovers Rock,TV Girl,trust,0.02048301886792453
+27,Lovers Rock,TV Girl,anticipation,0.01936981132075472
+27,Lovers Rock,TV Girl,joy,0.028430188679245287
+27,Lovers Rock,TV Girl,surprise,0.012483018867924528
+27,Lovers Rock,TV Girl,fear,0.0031849056603773583
+54,Nope your too late i already died,wifiskeleton,fear,0.005683257918552036
+54,Nope your too late i already died,wifiskeleton,sadness,0.008058823529411764
+54,Nope your too late i already died,wifiskeleton,anticipation,0.008945701357466062
+54,Nope your too late i already died,wifiskeleton,joy,0.012665158371040725
+54,Nope your too late i already died,wifiskeleton,surprise,0.004416289592760181
+54,Nope your too late i already died,wifiskeleton,anger,0.0012805429864253396
+54,Nope your too late i already died,wifiskeleton,disgust,0.0006380090497737556
+54,Nope your too late i already died,wifiskeleton,trust,0.009941176470588236
+25,Red Wine Supernova,Chappell Roan,sadness,0.01736120401337793
+25,Red Wine Supernova,Chappell Roan,surprise,0.0026622073578595317
+25,Red Wine Supernova,Chappell Roan,joy,0.018789297658862874
+25,Red Wine Supernova,Chappell Roan,trust,0.013163879598662206
+25,Red Wine Supernova,Chappell Roan,anticipation,0.00577257525083612
+25,Red Wine Supernova,Chappell Roan,disgust,0.003551839464882943
+25,Red Wine Supernova,Chappell Roan,fear,0.0019331103678929765
+29,Pink + White,Frank Ocean,anticipation,0.018710610932475887
+29,Pink + White,Frank Ocean,trust,0.023514469453376208
+29,Pink + White,Frank Ocean,sadness,0.012305466237942124
+29,Pink + White,Frank Ocean,joy,0.030549839228295825
+29,Pink + White,Frank Ocean,fear,0.013681672025723473
+29,Pink + White,Frank Ocean,surprise,0.002209003215434084
+29,Pink + White,Frank Ocean,anger,0.004334405144694534
+29,Pink + White,Frank Ocean,disgust,0.006954983922829583
+31,All I Need,Radiohead,anticipation,0.00909016393442623
+31,All I Need,Radiohead,fear,0.0032049180327868854
+31,All I Need,Radiohead,anger,0.011024590163934426
+31,All I Need,Radiohead,disgust,0.008704918032786885
+31,All I Need,Radiohead,joy,0.006024590163934426
+31,All I Need,Radiohead,trust,0.00480327868852459
+32,The Less I Know The Better,Tame Impala,joy,0.040428571428571425
+32,The Less I Know The Better,Tame Impala,anger,0.0006363636363636363
+32,The Less I Know The Better,Tame Impala,anticipation,0.024000000000000007
+32,The Less I Know The Better,Tame Impala,disgust,0.002303030303030303
+32,The Less I Know The Better,Tame Impala,fear,0.006636363636363636
+32,The Less I Know The Better,Tame Impala,sadness,0.002909090909090909
+32,The Less I Know The Better,Tame Impala,surprise,0.008658008658008658
+32,The Less I Know The Better,Tame Impala,trust,0.0355930735930736
+34,Taste,Sabrina Carpenter,sadness,0.0054301075268817205
+34,Taste,Sabrina Carpenter,surprise,0.0008387096774193549
+34,Taste,Sabrina Carpenter,fear,0.0028028673835125448
+34,Taste,Sabrina Carpenter,joy,0.010397849462365593
+34,Taste,Sabrina Carpenter,trust,0.012318996415770611
+34,Taste,Sabrina Carpenter,anger,0.004182795698924731
+34,Taste,Sabrina Carpenter,anticipation,0.005293906810035842
+35,Juna,Clairo,anticipation,0.0072789115646258494
+35,Juna,Clairo,joy,0.01025170068027211
+35,Juna,Clairo,trust,0.004312925170068027
+35,Juna,Clairo,anger,0.001034013605442177
+35,Juna,Clairo,surprise,0.0031360544217687077
+33,Headlock,Imogen Heap,joy,0.020166226912928756
+33,Headlock,Imogen Heap,sadness,0.029168865435356208
+33,Headlock,Imogen Heap,anticipation,0.02370712401055409
+33,Headlock,Imogen Heap,surprise,0.031472295514511854
+33,Headlock,Imogen Heap,trust,0.004944591029023746
+33,Headlock,Imogen Heap,fear,0.029870712401055412
+33,Headlock,Imogen Heap,anger,0.013773087071240109
+33,Headlock,Imogen Heap,disgust,0.013192612137203167
+37,WILDFLOWER,Billie Eilish,sadness,0.008175718849840254
+37,WILDFLOWER,Billie Eilish,anticipation,0.02030351437699681
+37,WILDFLOWER,Billie Eilish,joy,0.037891373801916935
+37,WILDFLOWER,Billie Eilish,trust,0.03421086261980831
+37,WILDFLOWER,Billie Eilish,disgust,0.0010990415335463259
+37,WILDFLOWER,Billie Eilish,fear,0.010188498402555911
+37,WILDFLOWER,Billie Eilish,anger,0.007169329073482429
+37,WILDFLOWER,Billie Eilish,surprise,0.006412140575079873
+38,Abracadabra,Lady Gaga,anticipation,0.02073333333333333
+38,Abracadabra,Lady Gaga,joy,0.045518518518518514
+38,Abracadabra,Lady Gaga,trust,0.026970370370370367
+38,Abracadabra,Lady Gaga,sadness,0.02385925925925926
+38,Abracadabra,Lady Gaga,disgust,0.015507407407407409
+38,Abracadabra,Lady Gaga,anger,0.016803703703703703
+38,Abracadabra,Lady Gaga,fear,0.02587037037037037
+38,Abracadabra,Lady Gaga,surprise,0.007751851851851852
+39,Sweater Weather,The Neighbourhood,anger,0.002379310344827586
+39,Sweater Weather,The Neighbourhood,disgust,0.0024913793103448273
+39,Sweater Weather,The Neighbourhood,fear,0.0019310344827586205
+39,Sweater Weather,The Neighbourhood,sadness,0.006833333333333334
+39,Sweater Weather,The Neighbourhood,joy,0.020307471264367816
+39,Sweater Weather,The Neighbourhood,anticipation,0.007183908045977011
+39,Sweater Weather,The Neighbourhood,trust,0.012551724137931035
+39,Sweater Weather,The Neighbourhood,surprise,0.0009885057471264367
+250,poster boy,2hollis,disgust,0.017902912621359224
+250,poster boy,2hollis,sadness,0.010844660194174757
+250,poster boy,2hollis,joy,0.020252427184466022
+250,poster boy,2hollis,anticipation,0.005009708737864078
+250,poster boy,2hollis,fear,0.0077669902912621365
+250,poster boy,2hollis,anger,0.0048543689320388345
+36,"Lover, You Should've Come Over",Jeff Buckley,sadness,0.017514534883720928
+36,"Lover, You Should've Come Over",Jeff Buckley,trust,0.03712500000000001
+36,"Lover, You Should've Come Over",Jeff Buckley,anticipation,0.041578488372093006
+36,"Lover, You Should've Come Over",Jeff Buckley,joy,0.06470930232558142
+36,"Lover, You Should've Come Over",Jeff Buckley,surprise,0.007334302325581396
+36,"Lover, You Should've Come Over",Jeff Buckley,disgust,0.0033866279069767443
+36,"Lover, You Should've Come Over",Jeff Buckley,anger,0.00472093023255814
+36,"Lover, You Should've Come Over",Jeff Buckley,fear,0.005055232558139534
+43,Ribs,Lorde,disgust,0.0055691906005221935
+43,Ribs,Lorde,fear,0.013182767624020887
+43,Ribs,Lorde,joy,0.04346475195822455
+43,Ribs,Lorde,anger,0.005067885117493473
+43,Ribs,Lorde,sadness,0.01114360313315927
+43,Ribs,Lorde,anticipation,0.014527415143603133
+43,Ribs,Lorde,surprise,0.006689295039164491
+43,Ribs,Lorde,trust,0.027180156657963448
+44,"Girl, so confusing featuring lorde",Charli xcx,trust,0.007711693548387097
+44,"Girl, so confusing featuring lorde",Charli xcx,anger,0.009127016129032257
+44,"Girl, so confusing featuring lorde",Charli xcx,disgust,0.006600806451612903
+44,"Girl, so confusing featuring lorde",Charli xcx,fear,0.011100806451612903
+44,"Girl, so confusing featuring lorde",Charli xcx,sadness,0.010508064516129033
+44,"Girl, so confusing featuring lorde",Charli xcx,joy,0.005806451612903226
+44,"Girl, so confusing featuring lorde",Charli xcx,anticipation,0.005445564516129033
+44,"Girl, so confusing featuring lorde",Charli xcx,surprise,0.0016834677419354839
+47,Guess featuring billie eilish,Charli xcx,surprise,0.044829545454545434
+47,Guess featuring billie eilish,Charli xcx,sadness,0.005411931818181819
+47,Guess featuring billie eilish,Charli xcx,anticipation,0.004815340909090909
+47,Guess featuring billie eilish,Charli xcx,joy,0.00759375
+47,Guess featuring billie eilish,Charli xcx,trust,0.0036392045454545457
+47,Guess featuring billie eilish,Charli xcx,disgust,0.015039772727272726
+47,Guess featuring billie eilish,Charli xcx,anger,0.008511363636363636
+47,Guess featuring billie eilish,Charli xcx,fear,0.0009744318181818183
+55,Sailor Song,Gigi Perez,trust,0.0171656050955414
+55,Sailor Song,Gigi Perez,joy,0.03129936305732484
+55,Sailor Song,Gigi Perez,anger,0.016624203821656053
+55,Sailor Song,Gigi Perez,anticipation,0.02073885350318471
+55,Sailor Song,Gigi Perez,surprise,0.004452229299363057
+55,Sailor Song,Gigi Perez,fear,0.014732484076433119
+55,Sailor Song,Gigi Perez,sadness,0.012312101910828026
+55,Sailor Song,Gigi Perez,disgust,0.01719108280254777
+48,Juno,Sabrina Carpenter,anger,0.004483870967741935
+48,Juno,Sabrina Carpenter,trust,0.026258064516129033
+48,Juno,Sabrina Carpenter,joy,0.03849853372434017
+48,Juno,Sabrina Carpenter,anticipation,0.009736070381231669
+48,Juno,Sabrina Carpenter,fear,0.000870967741935484
+48,Juno,Sabrina Carpenter,sadness,0.009334310850439884
+49,Please Please Please,Sabrina Carpenter,anticipation,0.004973782771535581
+49,Please Please Please,Sabrina Carpenter,joy,0.017438202247191014
+49,Please Please Please,Sabrina Carpenter,surprise,0.0032209737827715353
+49,Please Please Please,Sabrina Carpenter,trust,0.011584269662921347
+49,Please Please Please,Sabrina Carpenter,sadness,0.020677902621722845
+49,Please Please Please,Sabrina Carpenter,anger,0.003101123595505618
+49,Please Please Please,Sabrina Carpenter,disgust,0.002602996254681648
+49,Please Please Please,Sabrina Carpenter,fear,0.0018127340823970036
+50,Busy Woman,Sabrina Carpenter,anger,0.0034263322884012536
+50,Busy Woman,Sabrina Carpenter,disgust,0.002426332288401254
+50,Busy Woman,Sabrina Carpenter,fear,0.003971786833855799
+50,Busy Woman,Sabrina Carpenter,sadness,0.002642633228840126
+50,Busy Woman,Sabrina Carpenter,trust,0.024075235109717867
+50,Busy Woman,Sabrina Carpenter,joy,0.03350470219435736
+50,Busy Woman,Sabrina Carpenter,anticipation,0.007420062695924765
+51,Die With A Smile,Lady Gaga,joy,0.022893835616438356
+51,Die With A Smile,Lady Gaga,sadness,0.013506849315068495
+51,Die With A Smile,Lady Gaga,trust,0.021027397260273976
+51,Die With A Smile,Lady Gaga,anticipation,0.009739726027397262
+51,Die With A Smile,Lady Gaga,fear,0.013558219178082191
+51,Die With A Smile,Lady Gaga,surprise,0.003664383561643836
+51,Die With A Smile,Lady Gaga,anger,0.005647260273972603
+51,Die With A Smile,Lady Gaga,disgust,0.0015
+52,Tonight,PinkPantheress,trust,0.030763705103969755
+52,Tonight,PinkPantheress,anticipation,0.03202268431001891
+52,Tonight,PinkPantheress,surprise,0.0039243856332703215
+52,Tonight,PinkPantheress,joy,0.026892249527410206
+52,Tonight,PinkPantheress,sadness,0.003928166351606806
+52,Tonight,PinkPantheress,fear,0.013746691871455576
+52,Tonight,PinkPantheress,anger,0.004
+53,Sienna,The Marías,anticipation,0.016651741293532342
+53,Sienna,The Marías,joy,0.02370646766169154
+53,Sienna,The Marías,sadness,0.004905472636815921
+53,Sienna,The Marías,fear,0.004900497512437811
+53,Sienna,The Marías,trust,0.0358955223880597
+53,Sienna,The Marías,surprise,0.0016716417910447763
+53,Sienna,The Marías,anger,0.006845771144278606
+53,Sienna,The Marías,disgust,0.002407960199004975
+57,Apocalypse,Cigarettes After Sex,sadness,0.015381578947368421
+57,Apocalypse,Cigarettes After Sex,disgust,0.0012017543859649123
+57,Apocalypse,Cigarettes After Sex,joy,0.033530701754385966
+57,Apocalypse,Cigarettes After Sex,fear,0.020328947368421054
+57,Apocalypse,Cigarettes After Sex,anger,0.00243859649122807
+57,Apocalypse,Cigarettes After Sex,surprise,0.004451754385964912
+57,Apocalypse,Cigarettes After Sex,anticipation,0.0052763157894736845
+57,Apocalypse,Cigarettes After Sex,trust,0.0032982456140350875
+59,the perfect pair,beabadoobee,fear,0.010810256410256411
+59,the perfect pair,beabadoobee,surprise,0.008810256410256411
+59,the perfect pair,beabadoobee,trust,0.012097435897435895
+59,the perfect pair,beabadoobee,anger,0.008697435897435898
+59,the perfect pair,beabadoobee,joy,0.007210256410256411
+59,the perfect pair,beabadoobee,sadness,0.009851282051282051
+59,the perfect pair,beabadoobee,disgust,0.0035641025641025637
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",joy,0.07065
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",anticipation,0.00936923076923077
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",fear,0.00625
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",sadness,0.014496153846153846
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",trust,0.007507692307692307
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",anger,0.005161538461538462
+60,ARE WE STILL FRIENDS?,"Tyler, The Creator",disgust,0.005888461538461539
+61,Sextape,Deftones,joy,0.03048251748251748
+61,Sextape,Deftones,anticipation,0.014531468531468533
+61,Sextape,Deftones,fear,0.002629370629370629
+62,Linger,The Cranberries,trust,0.003931506849315069
+62,Linger,The Cranberries,joy,0.0011232876712328767
+62,Linger,The Cranberries,anticipation,0.015315068493150683
+62,Linger,The Cranberries,disgust,0.007839041095890412
+62,Linger,The Cranberries,anger,0.001191780821917808
+62,Linger,The Cranberries,sadness,0.0020034246575342464
+72,My Kink Is Karma,Chappell Roan,fear,0.020371501272264635
+72,My Kink Is Karma,Chappell Roan,sadness,0.023903307888040716
+72,My Kink Is Karma,Chappell Roan,joy,0.02574554707379135
+72,My Kink Is Karma,Chappell Roan,anger,0.03813486005089059
+72,My Kink Is Karma,Chappell Roan,disgust,0.020854961832061068
+72,My Kink Is Karma,Chappell Roan,trust,0.020122137404580152
+72,My Kink Is Karma,Chappell Roan,anticipation,0.024127226463104327
+72,My Kink Is Karma,Chappell Roan,surprise,0.0043129770992366406
+56,Heavy,The Marías,trust,0.013621004566210047
+56,Heavy,The Marías,sadness,0.02541552511415525
+56,Heavy,The Marías,joy,0.009127853881278538
+56,Heavy,The Marías,anticipation,0.001178082191780822
+56,Heavy,The Marías,disgust,0.001
+56,Heavy,The Marías,fear,0.0004977168949771689
+56,Heavy,The Marías,surprise,0.0005342465753424658
+382,"not a lot, just forever",Adrianne Lenker,joy,0.03675598086124402
+382,"not a lot, just forever",Adrianne Lenker,surprise,0.002430622009569378
+382,"not a lot, just forever",Adrianne Lenker,trust,0.016555023923444975
+382,"not a lot, just forever",Adrianne Lenker,anger,0.007320574162679425
+382,"not a lot, just forever",Adrianne Lenker,anticipation,0.010875598086124403
+382,"not a lot, just forever",Adrianne Lenker,sadness,0.006430622009569379
+382,"not a lot, just forever",Adrianne Lenker,fear,0.005832535885167464
+382,"not a lot, just forever",Adrianne Lenker,disgust,0.0031387559808612442
+64,Bed Chem,Sabrina Carpenter,fear,0.004990740740740741
+64,Bed Chem,Sabrina Carpenter,joy,0.020034722222222225
+64,Bed Chem,Sabrina Carpenter,trust,0.019233796296296297
+64,Bed Chem,Sabrina Carpenter,anger,0.006787037037037037
+64,Bed Chem,Sabrina Carpenter,anticipation,0.014668981481481482
+64,Bed Chem,Sabrina Carpenter,surprise,0.004342592592592593
+64,Bed Chem,Sabrina Carpenter,sadness,0.007761574074074075
+64,Bed Chem,Sabrina Carpenter,disgust,0.005648148148148148
+66,Sports car,Tate McRae,anger,0.0035191256830601095
+66,Sports car,Tate McRae,disgust,0.008046448087431693
+66,Sports car,Tate McRae,fear,0.00273224043715847
+66,Sports car,Tate McRae,sadness,0.0088551912568306
+66,Sports car,Tate McRae,joy,0.0073469945355191255
+66,Sports car,Tate McRae,anticipation,0.010248633879781421
+66,Sports car,Tate McRae,trust,0.017120218579234972
+66,Sports car,Tate McRae,surprise,0.000598360655737705
+67,Fade Into You,Mazzy Star,joy,0.031531468531468536
+67,Fade Into You,Mazzy Star,trust,0.03358741258741259
+67,Fade Into You,Mazzy Star,anger,0.0015874125874125874
+67,Fade Into You,Mazzy Star,fear,0.006776223776223777
+67,Fade Into You,Mazzy Star,sadness,0.0028601398601398598
+67,Fade Into You,Mazzy Star,surprise,0.023349650349650346
+91,Poker Face,Lady Gaga,trust,0.031381057268722465
+91,Poker Face,Lady Gaga,anger,0.007398678414096916
+91,Poker Face,Lady Gaga,joy,0.022909691629955944
+91,Poker Face,Lady Gaga,anticipation,0.009444933920704847
+91,Poker Face,Lady Gaga,surprise,0.0025462555066079295
+91,Poker Face,Lady Gaga,fear,0.001616740088105727
+91,Poker Face,Lady Gaga,sadness,0.00017180616740088107
+69,Beaches,beabadoobee,trust,0.014345454545454545
+69,Beaches,beabadoobee,fear,0.006581818181818183
+69,Beaches,beabadoobee,joy,0.010577272727272727
+69,Beaches,beabadoobee,anticipation,0.014554545454545454
+69,Beaches,beabadoobee,disgust,0.0009590909090909091
+69,Beaches,beabadoobee,surprise,0.0013499999999999999
+69,Beaches,beabadoobee,sadness,0.0031772727272727274
+79,Touch,KATSEYE,anticipation,0.011276881720430109
+79,Touch,KATSEYE,fear,0.0032903225806451613
+79,Touch,KATSEYE,joy,0.01971236559139785
+79,Touch,KATSEYE,trust,0.015583333333333334
+79,Touch,KATSEYE,anger,0.002282258064516129
+79,Touch,KATSEYE,sadness,0.008784946236559139
+79,Touch,KATSEYE,surprise,0.002056451612903226
+79,Touch,KATSEYE,disgust,0.003736559139784946
+130,NOKIA,Drake,anger,0.014266311584553928
+130,NOKIA,Drake,disgust,0.01295739014647137
+130,NOKIA,Drake,joy,0.03144873501997337
+130,NOKIA,Drake,trust,0.033247669773635156
+130,NOKIA,Drake,sadness,0.0037509986684420775
+130,NOKIA,Drake,fear,0.0028282290279627166
+130,NOKIA,Drake,surprise,0.0006764314247669774
+130,NOKIA,Drake,anticipation,0.004170439414114513
+112,Yellow,Coldplay,disgust,0.0019
+112,Yellow,Coldplay,joy,0.016885714285714285
+112,Yellow,Coldplay,trust,0.010976190476190476
+113,Ivy,Frank Ocean,anticipation,0.029443271767810024
+113,Ivy,Frank Ocean,joy,0.024575197889182058
+113,Ivy,Frank Ocean,trust,0.025978891820580476
+113,Ivy,Frank Ocean,surprise,0.014722955145118734
+113,Ivy,Frank Ocean,anger,0.017018469656992087
+113,Ivy,Frank Ocean,disgust,0.013625329815303431
+113,Ivy,Frank Ocean,fear,0.01874406332453826
+113,Ivy,Frank Ocean,sadness,0.02297889182058048
+114,360,Charli xcx,joy,0.022064885496183205
+114,360,Charli xcx,surprise,0.004770992366412214
+114,360,Charli xcx,trust,0.014427480916030534
+114,360,Charli xcx,anger,0.004187022900763358
+114,360,Charli xcx,disgust,0.007511450381679389
+114,360,Charli xcx,fear,0.004591603053435114
+114,360,Charli xcx,sadness,0.010251908396946566
+80,Mr. Brightside,The Killers,sadness,0.02350877192982456
+80,Mr. Brightside,The Killers,anticipation,0.027852631578947372
+80,Mr. Brightside,The Killers,joy,0.021010526315789476
+80,Mr. Brightside,The Killers,surprise,0.009417543859649123
+80,Mr. Brightside,The Killers,trust,0.011515789473684212
+80,Mr. Brightside,The Killers,disgust,0.013810526315789473
+80,Mr. Brightside,The Killers,anger,0.010385964912280702
+80,Mr. Brightside,The Killers,fear,0.008919298245614035
+129,Good Looking,Suki Waterhouse,anger,0.005352941176470588
+129,Good Looking,Suki Waterhouse,disgust,0.006149321266968326
+129,Good Looking,Suki Waterhouse,fear,0.01216289592760181
+129,Good Looking,Suki Waterhouse,sadness,0.0029276018099547514
+129,Good Looking,Suki Waterhouse,joy,0.01958823529411765
+129,Good Looking,Suki Waterhouse,surprise,0.010755656108597286
+129,Good Looking,Suki Waterhouse,anticipation,0.01775113122171946
+129,Good Looking,Suki Waterhouse,trust,0.02271945701357466
+82,Jigsaw Falling Into Place,Radiohead,sadness,0.01673949579831933
+82,Jigsaw Falling Into Place,Radiohead,joy,0.013336134453781514
+82,Jigsaw Falling Into Place,Radiohead,anticipation,0.00426890756302521
+82,Jigsaw Falling Into Place,Radiohead,anger,0.005096638655462185
+82,Jigsaw Falling Into Place,Radiohead,disgust,0.001642857142857143
+82,Jigsaw Falling Into Place,Radiohead,fear,0.01544957983193277
+82,Jigsaw Falling Into Place,Radiohead,trust,0.009873949579831932
+82,Jigsaw Falling Into Place,Radiohead,surprise,0.001411764705882353
+83,I Wanna Be Yours,Arctic Monkeys,trust,0.0040168776371308015
+83,I Wanna Be Yours,Arctic Monkeys,joy,0.008632911392405065
+83,I Wanna Be Yours,Arctic Monkeys,anger,0.0022320675105485235
+83,I Wanna Be Yours,Arctic Monkeys,fear,0.0035611814345991553
+83,I Wanna Be Yours,Arctic Monkeys,anticipation,0.003493670886075949
+83,I Wanna Be Yours,Arctic Monkeys,sadness,0.0007932489451476793
+85,Bring Me To Life,Evanescence,trust,0.03142296072507553
+85,Bring Me To Life,Evanescence,sadness,0.01486404833836858
+85,Bring Me To Life,Evanescence,joy,0.027752265861027203
+85,Bring Me To Life,Evanescence,fear,0.009338368580060423
+85,Bring Me To Life,Evanescence,surprise,0.0007069486404833838
+85,Bring Me To Life,Evanescence,anger,0.0021027190332326283
+85,Bring Me To Life,Evanescence,disgust,0.0026888217522658612
+85,Bring Me To Life,Evanescence,anticipation,0.002809667673716012
+103,we can't be friends (wait for your love),Ariana Grande,fear,0.011212996389891696
+103,we can't be friends (wait for your love),Ariana Grande,surprise,0.0032454873646209385
+103,we can't be friends (wait for your love),Ariana Grande,sadness,0.007555956678700361
+103,we can't be friends (wait for your love),Ariana Grande,joy,0.05449097472924186
+103,we can't be friends (wait for your love),Ariana Grande,trust,0.060299638989169645
+103,we can't be friends (wait for your love),Ariana Grande,anticipation,0.035368231046931396
+103,we can't be friends (wait for your love),Ariana Grande,anger,0.004945848375451264
+103,we can't be friends (wait for your love),Ariana Grande,disgust,0.0019169675090252708
+86,Flashing Lights,Kanye West,joy,0.025976676384839647
+86,Flashing Lights,Kanye West,trust,0.02346938775510204
+86,Flashing Lights,Kanye West,anticipation,0.007469387755102042
+86,Flashing Lights,Kanye West,surprise,0.0010029154518950436
+86,Flashing Lights,Kanye West,anger,0.009760932944606414
+86,Flashing Lights,Kanye West,disgust,0.007603498542274051
+86,Flashing Lights,Kanye West,fear,0.003186588921282799
+86,Flashing Lights,Kanye West,sadness,0.0019125364431486882
+87,The Only Exception,Paramore,sadness,0.014802325581395348
+87,The Only Exception,Paramore,anger,0.0026666666666666666
+87,The Only Exception,Paramore,disgust,0.0016666666666666666
+87,The Only Exception,Paramore,fear,0.0074496124031007745
+87,The Only Exception,Paramore,joy,0.023500000000000004
+87,The Only Exception,Paramore,anticipation,0.0038333333333333327
+87,The Only Exception,Paramore,trust,0.043263565891472865
+87,The Only Exception,Paramore,surprise,0.0009069767441860465
+88,Just Dance,Lady Gaga,trust,0.030227272727272724
+88,Just Dance,Lady Gaga,anticipation,0.005518595041322315
+88,Just Dance,Lady Gaga,surprise,0.004828512396694214
+88,Just Dance,Lady Gaga,fear,0.003196280991735537
+88,Just Dance,Lady Gaga,joy,0.044070247933884324
+88,Just Dance,Lady Gaga,sadness,0.009076446280991737
+88,Just Dance,Lady Gaga,disgust,0.006407024793388429
+88,Just Dance,Lady Gaga,anger,0.0028181818181818178
+89,Cigarettes out the Window,TV Girl,fear,0.0013569131832797427
+89,Cigarettes out the Window,TV Girl,anger,0.00019614147909967846
+89,Cigarettes out the Window,TV Girl,disgust,0.001707395498392283
+89,Cigarettes out the Window,TV Girl,joy,0.0029035369774919615
+89,Cigarettes out the Window,TV Girl,surprise,0.002961414790996785
+89,Cigarettes out the Window,TV Girl,sadness,0.008186495176848874
+90,Promiscuous,Nelly Furtado,anger,0.010092799999999997
+90,Promiscuous,Nelly Furtado,fear,0.009729600000000001
+90,Promiscuous,Nelly Furtado,sadness,0.0142352
+90,Promiscuous,Nelly Furtado,anticipation,0.008563199999999998
+90,Promiscuous,Nelly Furtado,disgust,0.0050224
+90,Promiscuous,Nelly Furtado,joy,0.0050912
+90,Promiscuous,Nelly Furtado,surprise,0.0023872
+90,Promiscuous,Nelly Furtado,trust,0.0118624
+92,No. 1 Party Anthem,Arctic Monkeys,fear,0.006176666666666667
+92,No. 1 Party Anthem,Arctic Monkeys,surprise,0.00391
+92,No. 1 Party Anthem,Arctic Monkeys,trust,0.020126666666666668
+92,No. 1 Party Anthem,Arctic Monkeys,joy,0.036096666666666666
+92,No. 1 Party Anthem,Arctic Monkeys,anger,0.00125
+92,No. 1 Party Anthem,Arctic Monkeys,disgust,0.003176666666666667
+92,No. 1 Party Anthem,Arctic Monkeys,anticipation,0.009426666666666668
+92,No. 1 Party Anthem,Arctic Monkeys,sadness,0.004426666666666667
+93,That’s So True,Gracie Abrams,disgust,0.004284848484848484
+93,That’s So True,Gracie Abrams,anticipation,0.01746666666666667
+93,That’s So True,Gracie Abrams,joy,0.019036363636363633
+93,That’s So True,Gracie Abrams,sadness,0.023445454545454544
+93,That’s So True,Gracie Abrams,anger,0.012457575757575758
+93,That’s So True,Gracie Abrams,fear,0.013263636363636366
+93,That’s So True,Gracie Abrams,surprise,0.003857575757575757
+93,That’s So True,Gracie Abrams,trust,0.017924242424242426
+94,Everlong,Foo Fighters,sadness,0.005441640378548896
+94,Everlong,Foo Fighters,disgust,0.0021924290220820186
+94,Everlong,Foo Fighters,joy,0.020917981072555207
+94,Everlong,Foo Fighters,surprise,0.008107255520504732
+94,Everlong,Foo Fighters,anticipation,0.010211356466876972
+94,Everlong,Foo Fighters,trust,0.023410094637223974
+95,Every Breath You Take,The Police,joy,0.024944751381215463
+95,Every Breath You Take,The Police,surprise,0.012342541436464089
+95,Every Breath You Take,The Police,trust,0.023267955801104974
+95,Every Breath You Take,The Police,anticipation,0.008174033149171272
+95,Every Breath You Take,The Police,fear,0.004674033149171271
+95,Every Breath You Take,The Police,sadness,0.005654696132596685
+96,Be Quiet and Drive (Far Away),Deftones,joy,0.0071312500000000004
+96,Be Quiet and Drive (Far Away),Deftones,anticipation,0.00239375
+96,Be Quiet and Drive (Far Away),Deftones,surprise,0.00136875
+96,Be Quiet and Drive (Far Away),Deftones,trust,0.00385625
+97,EARFQUAKE,"Tyler, The Creator",trust,0.04609620253164555
+97,EARFQUAKE,"Tyler, The Creator",anticipation,0.0064506329113924055
+97,EARFQUAKE,"Tyler, The Creator",anger,0.009934177215189873
+97,EARFQUAKE,"Tyler, The Creator",disgust,0.008384810126582279
+97,EARFQUAKE,"Tyler, The Creator",fear,0.029341772151898735
+97,EARFQUAKE,"Tyler, The Creator",sadness,0.02857721518987342
+97,EARFQUAKE,"Tyler, The Creator",joy,0.02317215189873418
+97,EARFQUAKE,"Tyler, The Creator",surprise,0.014111392405063292
+98,Cherry Waves,Deftones,joy,0.017210526315789478
+98,Cherry Waves,Deftones,sadness,0.02290225563909775
+98,Cherry Waves,Deftones,trust,0.014849624060150377
+98,Cherry Waves,Deftones,fear,0.021616541353383457
+98,Cherry Waves,Deftones,anticipation,0.020676691729323307
+99,Rock That Body,Black Eyed Peas,joy,0.012568075117370892
+99,Rock That Body,Black Eyed Peas,trust,0.012464788732394367
+99,Rock That Body,Black Eyed Peas,sadness,0.0027276995305164317
+99,Rock That Body,Black Eyed Peas,anticipation,0.0018450704225352113
+99,Rock That Body,Black Eyed Peas,fear,0.005987480438184665
+99,Rock That Body,Black Eyed Peas,anger,0.006250391236306729
+99,Rock That Body,Black Eyed Peas,surprise,0.0030203442879499216
+99,Rock That Body,Black Eyed Peas,disgust,0.0007949921752738654
+100,White Ferrari,Frank Ocean,anger,0.003845323741007194
+100,White Ferrari,Frank Ocean,disgust,0.0028992805755395684
+100,White Ferrari,Frank Ocean,fear,0.004442446043165467
+100,White Ferrari,Frank Ocean,sadness,0.004327338129496402
+100,White Ferrari,Frank Ocean,anticipation,0.01639928057553957
+100,White Ferrari,Frank Ocean,joy,0.044762589928057546
+100,White Ferrari,Frank Ocean,surprise,0.006356115107913669
+100,White Ferrari,Frank Ocean,trust,0.032910071942446044
+132,My Kind of Woman,Mac DeMarco,joy,0.03643571428571429
+132,My Kind of Woman,Mac DeMarco,anger,0.012564285714285714
+132,My Kind of Woman,Mac DeMarco,fear,0.009957142857142859
+132,My Kind of Woman,Mac DeMarco,sadness,0.017021428571428573
+132,My Kind of Woman,Mac DeMarco,disgust,0.004464285714285714
+132,My Kind of Woman,Mac DeMarco,anticipation,0.010935714285714286
+132,My Kind of Woman,Mac DeMarco,trust,0.03587857142857143
+132,My Kind of Woman,Mac DeMarco,surprise,0.0025642857142857143
+102,Picture You,Chappell Roan,joy,0.004739336492890996
+102,Picture You,Chappell Roan,surprise,0.002184834123222749
+102,Picture You,Chappell Roan,anticipation,0.001962085308056872
+102,Picture You,Chappell Roan,trust,0.00862085308056872
+102,Picture You,Chappell Roan,sadness,0.0013317535545023698
+102,Picture You,Chappell Roan,fear,0.010436018957345972
+104,Thinkin Bout You,Frank Ocean,fear,0.0023450479233226838
+104,Thinkin Bout You,Frank Ocean,disgust,0.0032428115015974445
+104,Thinkin Bout You,Frank Ocean,sadness,0.003214057507987221
+104,Thinkin Bout You,Frank Ocean,trust,0.007111821086261981
+104,Thinkin Bout You,Frank Ocean,anger,0.022603833865814695
+104,Thinkin Bout You,Frank Ocean,anticipation,0.007415335463258785
+104,Thinkin Bout You,Frank Ocean,joy,0.008865814696485622
+105,Cry,Cigarettes After Sex,sadness,0.025423728813559324
+105,Cry,Cigarettes After Sex,anticipation,0.022372881355932208
+105,Cry,Cigarettes After Sex,joy,0.04602542372881356
+105,Cry,Cigarettes After Sex,trust,0.049923728813559325
+105,Cry,Cigarettes After Sex,fear,0.003398305084745763
+105,Cry,Cigarettes After Sex,surprise,0.0018559322033898306
+106,Numb,Linkin Park,anger,0.003378839590443686
+106,Numb,Linkin Park,anticipation,0.00709556313993174
+106,Numb,Linkin Park,disgust,0.004825938566552901
+106,Numb,Linkin Park,fear,0.010136518771331057
+106,Numb,Linkin Park,joy,0.0018668941979522182
+106,Numb,Linkin Park,sadness,0.014211604095563138
+106,Numb,Linkin Park,surprise,0.0025324232081911265
+106,Numb,Linkin Park,trust,0.013331058020477815
+107,About You,The 1975,fear,0.01515929203539823
+107,About You,The 1975,sadness,0.031154867256637176
+107,About You,The 1975,anticipation,0.007774336283185841
+107,About You,The 1975,joy,0.00736283185840708
+107,About You,The 1975,trust,0.006464601769911506
+107,About You,The 1975,surprise,0.0016238938053097344
+107,About You,The 1975,anger,0.003252212389380531
+107,About You,The 1975,disgust,0.0015884955752212388
+108,All I Wanted,Paramore,sadness,0.012846153846153844
+108,All I Wanted,Paramore,trust,0.010874125874125874
+108,All I Wanted,Paramore,disgust,0.0037692307692307695
+108,All I Wanted,Paramore,fear,0.005244755244755245
+108,All I Wanted,Paramore,joy,0.008195804195804195
+108,All I Wanted,Paramore,anticipation,0.009615384615384616
+108,All I Wanted,Paramore,surprise,0.0036083916083916086
+109,The Night We Met,Lord Huron,sadness,0.01045945945945946
+109,The Night We Met,Lord Huron,trust,0.002578378378378378
+109,The Night We Met,Lord Huron,anger,0.004610810810810811
+109,The Night We Met,Lord Huron,disgust,0.0036756756756756758
+109,The Night We Met,Lord Huron,fear,0.01816216216216216
+109,The Night We Met,Lord Huron,joy,0.002027027027027027
+115,Dark Red,Steve Lacy,anger,0.013463414634146341
+115,Dark Red,Steve Lacy,disgust,0.007788617886178862
+115,Dark Red,Steve Lacy,fear,0.008207317073170732
+115,Dark Red,Steve Lacy,sadness,0.015788617886178864
+115,Dark Red,Steve Lacy,anticipation,0.01613008130081301
+115,Dark Red,Steve Lacy,surprise,0.004345528455284553
+115,Dark Red,Steve Lacy,joy,0.01752845528455284
+115,Dark Red,Steve Lacy,trust,0.014959349593495935
+110,Do I Wanna Know?,Arctic Monkeys,anger,0.003304568527918782
+110,Do I Wanna Know?,Arctic Monkeys,fear,0.003215736040609137
+110,Do I Wanna Know?,Arctic Monkeys,trust,0.004616751269035533
+110,Do I Wanna Know?,Arctic Monkeys,joy,0.008692893401015228
+110,Do I Wanna Know?,Arctic Monkeys,sadness,0.0135253807106599
+110,Do I Wanna Know?,Arctic Monkeys,anticipation,0.01431218274111675
+110,Do I Wanna Know?,Arctic Monkeys,surprise,0.0021598984771573604
+147,DENIAL IS A RIVER,Doechii,anticipation,0.011712204007285974
+147,DENIAL IS A RIVER,Doechii,trust,0.01782149362477231
+147,DENIAL IS A RIVER,Doechii,fear,0.005519125683060109
+147,DENIAL IS A RIVER,Doechii,sadness,0.006506375227686703
+147,DENIAL IS A RIVER,Doechii,joy,0.008499089253187615
+147,DENIAL IS A RIVER,Doechii,anger,0.007879781420765026
+147,DENIAL IS A RIVER,Doechii,disgust,0.003954462659380692
+147,DENIAL IS A RIVER,Doechii,surprise,0.0015081967213114752
+148,Exit Music (For A Film),Radiohead,anticipation,0.048896226415094335
+148,Exit Music (For A Film),Radiohead,fear,0.019462264150943397
+148,Exit Music (For A Film),Radiohead,trust,0.05366981132075471
+148,Exit Music (For A Film),Radiohead,anger,0.05799056603773585
+148,Exit Music (For A Film),Radiohead,disgust,0.008773584905660377
+148,Exit Music (For A Film),Radiohead,sadness,0.06226415094339624
+148,Exit Music (For A Film),Radiohead,surprise,0.022330188679245282
+148,Exit Music (For A Film),Radiohead,joy,0.06898113207547171
+149,Starboy,The Weeknd,anticipation,0.013510330578512397
+149,Starboy,The Weeknd,joy,0.021055785123966945
+149,Starboy,The Weeknd,trust,0.02103099173553719
+149,Starboy,The Weeknd,anger,0.009946280991735537
+149,Starboy,The Weeknd,fear,0.014068181818181818
+149,Starboy,The Weeknd,sadness,0.01924380165289256
+149,Starboy,The Weeknd,disgust,0.0026776859504132233
+149,Starboy,The Weeknd,surprise,0.0020020661157024795
+150,Chop Suey!,System Of A Down,anger,0.029211895910780664
+150,Chop Suey!,System Of A Down,fear,0.040468401486988846
+150,Chop Suey!,System Of A Down,sadness,0.06421933085501859
+150,Chop Suey!,System Of A Down,trust,0.05065427509293682
+150,Chop Suey!,System Of A Down,surprise,0.0034795539033457253
+150,Chop Suey!,System Of A Down,joy,0.006089219330855019
+150,Chop Suey!,System Of A Down,anticipation,0.015550185873605947
+160,I Bet on Losing Dogs,Mitski,joy,0.030136363636363635
+160,I Bet on Losing Dogs,Mitski,anger,0.017558441558441558
+160,I Bet on Losing Dogs,Mitski,sadness,0.04399350649350649
+160,I Bet on Losing Dogs,Mitski,anticipation,0.01648051948051948
+160,I Bet on Losing Dogs,Mitski,trust,0.008525974025974025
+160,I Bet on Losing Dogs,Mitski,disgust,0.002435064935064935
+160,I Bet on Losing Dogs,Mitski,fear,0.014928571428571428
+160,I Bet on Losing Dogs,Mitski,surprise,0.004415584415584415
+116,tv off (feat. lefty gunplay),Kendrick Lamar,trust,0.009519531250000001
+116,tv off (feat. lefty gunplay),Kendrick Lamar,anger,0.0212890625
+116,tv off (feat. lefty gunplay),Kendrick Lamar,disgust,0.017963541666666655
+116,tv off (feat. lefty gunplay),Kendrick Lamar,fear,0.02510677083333333
+116,tv off (feat. lefty gunplay),Kendrick Lamar,sadness,0.015274739583333335
+116,tv off (feat. lefty gunplay),Kendrick Lamar,anticipation,0.009295572916666666
+116,tv off (feat. lefty gunplay),Kendrick Lamar,joy,0.01820442708333334
+116,tv off (feat. lefty gunplay),Kendrick Lamar,surprise,0.010946614583333335
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,joy,0.008417910447761195
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,anticipation,0.008485074626865671
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,fear,0.0028768656716417905
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,disgust,0.0021007462686567164
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,trust,0.006291044776119403
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,anger,0.0016902985074626867
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,sadness,0.0015746268656716418
+117,Why'd You Only Call Me When You're High?,Arctic Monkeys,surprise,0.0019514925373134329
+118,365,Charli xcx,joy,0.02035945485519591
+118,365,Charli xcx,trust,0.007521294718909711
+118,365,Charli xcx,surprise,0.0051124361158432705
+118,365,Charli xcx,anger,0.004497444633730835
+118,365,Charli xcx,anticipation,0.006511073253833049
+119,CRAZY,LE SSERAFIM,trust,0.03847509578544061
+119,CRAZY,LE SSERAFIM,anticipation,0.012793103448275864
+119,CRAZY,LE SSERAFIM,joy,0.020659003831417624
+119,CRAZY,LE SSERAFIM,surprise,0.008551724137931035
+119,CRAZY,LE SSERAFIM,anger,0.06130268199233716
+119,CRAZY,LE SSERAFIM,fear,0.06363218390804598
+119,CRAZY,LE SSERAFIM,sadness,0.04511877394636017
+120,Stateside,PinkPantheress,anticipation,0.004295580110497238
+120,Stateside,PinkPantheress,fear,0.00474585635359116
+120,Stateside,PinkPantheress,anger,0.0017154696132596686
+120,Stateside,PinkPantheress,trust,0.0013370165745856353
+121,Borderline,Tame Impala,sadness,0.015451807228915662
+121,Borderline,Tame Impala,anticipation,0.02701807228915663
+121,Borderline,Tame Impala,fear,0.006587349397590361
+121,Borderline,Tame Impala,anger,0.005569277108433735
+121,Borderline,Tame Impala,joy,0.03254216867469879
+121,Borderline,Tame Impala,trust,0.02497590361445783
+121,Borderline,Tame Impala,surprise,0.007509036144578314
+123,Bad Habit,Steve Lacy,sadness,0.009669975186104218
+123,Bad Habit,Steve Lacy,trust,0.0064516129032258064
+123,Bad Habit,Steve Lacy,anger,0.007937965260545906
+123,Bad Habit,Steve Lacy,disgust,0.004305210918114144
+123,Bad Habit,Steve Lacy,fear,0.007997518610421837
+123,Bad Habit,Steve Lacy,surprise,0.008377171215880894
+123,Bad Habit,Steve Lacy,anticipation,0.006610421836228287
+123,Bad Habit,Steve Lacy,joy,0.007501240694789082
+124,Break Stuff,Limp Bizkit,sadness,0.0035547619047619056
+124,Break Stuff,Limp Bizkit,joy,0.0060619047619047605
+124,Break Stuff,Limp Bizkit,anger,0.01793095238095238
+124,Break Stuff,Limp Bizkit,disgust,0.02398571428571429
+124,Break Stuff,Limp Bizkit,surprise,0.011626190476190476
+124,Break Stuff,Limp Bizkit,trust,0.007847619047619048
+124,Break Stuff,Limp Bizkit,fear,0.005342857142857142
+124,Break Stuff,Limp Bizkit,anticipation,0.004926190476190476
+125,Still into You,Paramore,trust,0.010120481927710843
+125,Still into You,Paramore,joy,0.026885542168674698
+125,Still into You,Paramore,anger,0.0026385542168674697
+125,Still into You,Paramore,anticipation,0.01358433734939759
+125,Still into You,Paramore,surprise,0.010840361445783134
+125,Still into You,Paramore,sadness,0.0017319277108433734
+125,Still into You,Paramore,disgust,0.0006596385542168674
+125,Still into You,Paramore,fear,0.0003283132530120482
+126,Everybody Wants To Rule The World,Tears For Fears,joy,0.032225000000000004
+126,Everybody Wants To Rule The World,Tears For Fears,disgust,0.0008312500000000001
+126,Everybody Wants To Rule The World,Tears For Fears,anticipation,0.009843750000000002
+126,Everybody Wants To Rule The World,Tears For Fears,sadness,0.01084375
+126,Everybody Wants To Rule The World,Tears For Fears,trust,0.032037500000000003
+126,Everybody Wants To Rule The World,Tears For Fears,fear,0.009587499999999999
+128,Femininomenon,Chappell Roan,anticipation,0.008025540275049118
+128,Femininomenon,Chappell Roan,sadness,0.022766208251473484
+128,Femininomenon,Chappell Roan,joy,0.012722986247544204
+128,Femininomenon,Chappell Roan,anger,0.08716306483300595
+128,Femininomenon,Chappell Roan,trust,0.03732809430255406
+128,Femininomenon,Chappell Roan,disgust,0.03552848722986247
+128,Femininomenon,Chappell Roan,fear,0.013481335952848719
+128,Femininomenon,Chappell Roan,surprise,0.0011355599214145382
+133,Passionfruit,Drake,anger,0.01782017543859649
+133,Passionfruit,Drake,disgust,0.013771929824561402
+133,Passionfruit,Drake,anticipation,0.020868421052631578
+133,Passionfruit,Drake,surprise,0.0025350877192982456
+133,Passionfruit,Drake,joy,0.01583333333333333
+133,Passionfruit,Drake,trust,0.018364035087719298
+133,Passionfruit,Drake,fear,0.0019210526315789475
+133,Passionfruit,Drake,sadness,0.0014385964912280703
+134,End of Beginning,Djo,sadness,0.024772020725388606
+134,End of Beginning,Djo,joy,0.005652849740932642
+134,End of Beginning,Djo,trust,0.009554404145077721
+134,End of Beginning,Djo,surprise,0.0013367875647668395
+134,End of Beginning,Djo,anticipation,0.004699481865284974
+135,lacy,Olivia Rodrigo,trust,0.0194337899543379
+135,lacy,Olivia Rodrigo,joy,0.014890410958904109
+135,lacy,Olivia Rodrigo,anger,0.025242009132420088
+135,lacy,Olivia Rodrigo,disgust,0.02075799086757991
+135,lacy,Olivia Rodrigo,fear,0.015310502283105024
+135,lacy,Olivia Rodrigo,sadness,0.011831050228310502
+135,lacy,Olivia Rodrigo,anticipation,0.010319634703196348
+135,lacy,Olivia Rodrigo,surprise,0.0029223744292237444
+136,The Adults Are Talking,The Strokes,anger,0.006214076246334311
+136,The Adults Are Talking,The Strokes,disgust,0.005085043988269795
+136,The Adults Are Talking,The Strokes,fear,0.0023841642228739
+136,The Adults Are Talking,The Strokes,sadness,0.007202346041055718
+136,The Adults Are Talking,The Strokes,joy,0.002750733137829912
+138,Into You,Ariana Grande,sadness,0.0011859504132231405
+138,Into You,Ariana Grande,anger,0.005902892561983471
+138,Into You,Ariana Grande,fear,0.012132231404958676
+138,Into You,Ariana Grande,joy,0.0233099173553719
+138,Into You,Ariana Grande,anticipation,0.004146694214876033
+138,Into You,Ariana Grande,trust,0.002165289256198347
+139,Not Allowed,TV Girl,anticipation,0.033294372294372286
+139,Not Allowed,TV Girl,joy,0.038203463203463205
+139,Not Allowed,TV Girl,trust,0.040034632034632034
+139,Not Allowed,TV Girl,disgust,0.011248917748917757
+139,Not Allowed,TV Girl,fear,0.006586580086580087
+139,Not Allowed,TV Girl,sadness,0.01843506493506493
+139,Not Allowed,TV Girl,anger,0.004541125541125541
+139,Not Allowed,TV Girl,surprise,0.015396103896103895
+137,Weird Fishes / Arpeggi,Radiohead,trust,0.016918032786885244
+137,Weird Fishes / Arpeggi,Radiohead,joy,0.002344262295081967
+137,Weird Fishes / Arpeggi,Radiohead,sadness,0.015581967213114755
+137,Weird Fishes / Arpeggi,Radiohead,disgust,0.011991803278688526
+137,Weird Fishes / Arpeggi,Radiohead,anger,0.025967213114754098
+137,Weird Fishes / Arpeggi,Radiohead,fear,0.017565573770491807
+137,Weird Fishes / Arpeggi,Radiohead,surprise,0.008459016393442624
+137,Weird Fishes / Arpeggi,Radiohead,anticipation,0.020491803278688523
+143,"I Love You, I'm Sorry",Gracie Abrams,trust,0.027496835443037975
+143,"I Love You, I'm Sorry",Gracie Abrams,joy,0.0357246835443038
+143,"I Love You, I'm Sorry",Gracie Abrams,sadness,0.021025316455696202
+143,"I Love You, I'm Sorry",Gracie Abrams,anger,0.012930379746835445
+143,"I Love You, I'm Sorry",Gracie Abrams,fear,0.013474683544303794
+143,"I Love You, I'm Sorry",Gracie Abrams,surprise,0.013544303797468356
+143,"I Love You, I'm Sorry",Gracie Abrams,anticipation,0.008626582278481013
+143,"I Love You, I'm Sorry",Gracie Abrams,disgust,0.008974683544303797
+144,Not Like Us,Kendrick Lamar,joy,0.01619422863485017
+144,Not Like Us,Kendrick Lamar,sadness,0.00923085460599334
+144,Not Like Us,Kendrick Lamar,anger,0.017508324084350723
+144,Not Like Us,Kendrick Lamar,fear,0.01164705882352941
+144,Not Like Us,Kendrick Lamar,trust,0.02768923418423974
+144,Not Like Us,Kendrick Lamar,disgust,0.011537180910099889
+144,Not Like Us,Kendrick Lamar,anticipation,0.010873473917869036
+144,Not Like Us,Kendrick Lamar,surprise,0.004778024417314095
+141,For the First Time,Mac DeMarco,joy,0.017005813953488373
+141,For the First Time,Mac DeMarco,sadness,0.005866279069767441
+141,For the First Time,Mac DeMarco,anticipation,0.03681395348837209
+141,For the First Time,Mac DeMarco,trust,0.028627906976744184
+141,For the First Time,Mac DeMarco,anger,0.0017093023255813952
+141,For the First Time,Mac DeMarco,disgust,0.00163953488372093
+141,For the First Time,Mac DeMarco,fear,0.0038139534883720933
+141,For the First Time,Mac DeMarco,surprise,0.0041744186046511625
+140,Les,Childish Gambino,joy,0.0351340341655716
+140,Les,Childish Gambino,trust,0.03479894875164258
+140,Les,Childish Gambino,anticipation,0.02085413929040735
+140,Les,Childish Gambino,surprise,0.016950065703022345
+140,Les,Childish Gambino,anger,0.008947437582128778
+140,Les,Childish Gambino,disgust,0.008835742444152432
+140,Les,Childish Gambino,fear,0.00459395532194481
+140,Les,Childish Gambino,sadness,0.005768725361366624
+142,On Melancholy Hill,Gorillaz,sadness,0.008871428571428572
+142,On Melancholy Hill,Gorillaz,anger,0.0
+142,On Melancholy Hill,Gorillaz,anticipation,0.0016214285714285714
+142,On Melancholy Hill,Gorillaz,disgust,0.0002785714285714286
+142,On Melancholy Hill,Gorillaz,joy,0.0253
+142,On Melancholy Hill,Gorillaz,surprise,0.0005571428571428572
+142,On Melancholy Hill,Gorillaz,trust,0.019142857142857145
+145,Falling Behind,Laufey,sadness,0.0371069182389937
+145,Falling Behind,Laufey,disgust,0.003880503144654088
+145,Falling Behind,Laufey,anticipation,0.007767295597484276
+145,Falling Behind,Laufey,fear,0.0001949685534591195
+145,Falling Behind,Laufey,joy,0.0590503144654088
+145,Falling Behind,Laufey,surprise,0.0018176100628930817
+145,Falling Behind,Laufey,trust,0.045893081761006295
+146,B2b,Charli xcx,sadness,0.008158490566037737
+146,B2b,Charli xcx,fear,0.0042452830188679245
+146,B2b,Charli xcx,anticipation,0.003479245283018868
+167,Show Me How,Men I Trust,trust,0.0546388888888889
+167,Show Me How,Men I Trust,joy,0.05053703703703704
+167,Show Me How,Men I Trust,surprise,0.0010833333333333335
+167,Show Me How,Men I Trust,sadness,0.005935185185185186
+167,Show Me How,Men I Trust,anticipation,0.0037592592592592595
+152,PRIDE.,Kendrick Lamar,anger,0.00961111111111111
+152,PRIDE.,Kendrick Lamar,anticipation,0.022317460317460323
+152,PRIDE.,Kendrick Lamar,disgust,0.007192460317460316
+152,PRIDE.,Kendrick Lamar,fear,0.00915873015873016
+152,PRIDE.,Kendrick Lamar,sadness,0.014781746031746031
+152,PRIDE.,Kendrick Lamar,surprise,0.0011468253968253967
+152,PRIDE.,Kendrick Lamar,trust,0.04282539682539682
+152,PRIDE.,Kendrick Lamar,joy,0.03776388888888888
+154,SLOW DANCING IN THE DARK,Joji,joy,0.02548031496062992
+154,SLOW DANCING IN THE DARK,Joji,trust,0.01429527559055118
+154,SLOW DANCING IN THE DARK,Joji,anticipation,0.00784251968503937
+154,SLOW DANCING IN THE DARK,Joji,fear,0.004618110236220473
+154,SLOW DANCING IN THE DARK,Joji,sadness,0.01995669291338583
+154,SLOW DANCING IN THE DARK,Joji,disgust,0.0003385826771653543
+173,Bad Romance,Lady Gaga,anger,0.05303571428571426
+173,Bad Romance,Lady Gaga,disgust,0.03775892857142853
+173,Bad Romance,Lady Gaga,fear,0.04620892857142854
+173,Bad Romance,Lady Gaga,sadness,0.03765178571428574
+173,Bad Romance,Lady Gaga,anticipation,0.05154285714285718
+173,Bad Romance,Lady Gaga,joy,0.12110178571428583
+173,Bad Romance,Lady Gaga,surprise,0.027585714285714272
+173,Bad Romance,Lady Gaga,trust,0.08391964285714291
+303,Aquamarine,Addison Rae,fear,0.019783132530120484
+303,Aquamarine,Addison Rae,joy,0.027765060240963854
+303,Aquamarine,Addison Rae,anticipation,0.0026807228915662652
+303,Aquamarine,Addison Rae,surprise,0.0010361445783132529
+303,Aquamarine,Addison Rae,trust,0.007204819277108434
+296,Nobody New,The Marías,fear,0.008716814159292036
+296,Nobody New,The Marías,sadness,0.031818584070796456
+296,Nobody New,The Marías,joy,0.035827433628318583
+296,Nobody New,The Marías,anticipation,0.008880530973451328
+296,Nobody New,The Marías,trust,0.04692920353982301
+296,Nobody New,The Marías,anger,0.006380530973451328
+296,Nobody New,The Marías,disgust,0.006504424778761061
+340,Steeeam,Shelly,joy,0.024701612903225804
+340,Steeeam,Shelly,disgust,0.0025241935483870962
+340,Steeeam,Shelly,fear,0.01525
+340,Steeeam,Shelly,sadness,0.01878225806451613
+340,Steeeam,Shelly,anticipation,0.009830645161290324
+340,Steeeam,Shelly,trust,0.020741935483870967
+340,Steeeam,Shelly,anger,0.001185483870967742
+340,Steeeam,Shelly,surprise,0.0028951612903225805
+358,No Role Modelz,J. Cole,joy,0.020752246469833112
+358,No Role Modelz,J. Cole,anticipation,0.013014120667522465
+358,No Role Modelz,J. Cole,trust,0.030907573812580247
+358,No Role Modelz,J. Cole,anger,0.00835558408215661
+358,No Role Modelz,J. Cole,disgust,0.01418870346598203
+358,No Role Modelz,J. Cole,fear,0.005594351732991013
+358,No Role Modelz,J. Cole,sadness,0.01295378690629012
+358,No Role Modelz,J. Cole,surprise,0.0026765083440308092
+155,Supercut,Lorde,joy,0.020555269922879177
+155,Supercut,Lorde,trust,0.012475578406169665
+155,Supercut,Lorde,sadness,0.010660668380462724
+155,Supercut,Lorde,anger,0.013768637532133676
+155,Supercut,Lorde,disgust,0.003997429305912596
+155,Supercut,Lorde,fear,0.015681233933161957
+155,Supercut,Lorde,surprise,0.0093573264781491
+155,Supercut,Lorde,anticipation,0.0012056555269922878
+156,King For A Day,Pierce The Veil,anticipation,0.01345945945945946
+156,King For A Day,Pierce The Veil,trust,0.015006756756756758
+156,King For A Day,Pierce The Veil,joy,0.01691216216216216
+156,King For A Day,Pierce The Veil,anger,0.022054054054054053
+156,King For A Day,Pierce The Veil,disgust,0.01570045045045045
+156,King For A Day,Pierce The Veil,fear,0.038520270270270274
+156,King For A Day,Pierce The Veil,sadness,0.020540540540540542
+156,King For A Day,Pierce The Veil,surprise,0.014961711711711711
+159,Hard Times,Paramore,fear,0.0038418079096045193
+159,Hard Times,Paramore,sadness,0.01856497175141243
+159,Hard Times,Paramore,trust,0.009282485875706216
+159,Hard Times,Paramore,joy,0.028618644067796607
+159,Hard Times,Paramore,surprise,0.016412429378531074
+159,Hard Times,Paramore,anticipation,0.006666666666666668
+159,Hard Times,Paramore,anger,0.019375706214689262
+158,Sexy to Someone,Clairo,fear,0.004197802197802199
+158,Sexy to Someone,Clairo,anticipation,0.003032967032967033
+158,Sexy to Someone,Clairo,joy,0.007952380952380954
+157,Naked In Manhattan,Chappell Roan,joy,0.04283863080684596
+157,Naked In Manhattan,Chappell Roan,trust,0.017420537897310514
+157,Naked In Manhattan,Chappell Roan,fear,0.00726161369193154
+157,Naked In Manhattan,Chappell Roan,anger,0.006334963325183375
+157,Naked In Manhattan,Chappell Roan,sadness,0.008048899755501222
+157,Naked In Manhattan,Chappell Roan,disgust,0.003535452322738387
+157,Naked In Manhattan,Chappell Roan,anticipation,0.006388753056234719
+157,Naked In Manhattan,Chappell Roan,surprise,0.0011075794621026895
+161,Alright,Kendrick Lamar,joy,0.01389645390070922
+161,Alright,Kendrick Lamar,anger,0.013564539007092199
+161,Alright,Kendrick Lamar,fear,0.017553191489361703
+161,Alright,Kendrick Lamar,trust,0.012862411347517732
+161,Alright,Kendrick Lamar,disgust,0.007015602836879432
+161,Alright,Kendrick Lamar,sadness,0.018651063829787234
+161,Alright,Kendrick Lamar,anticipation,0.0057276595744680855
+161,Alright,Kendrick Lamar,surprise,0.0005205673758865248
+163,Aerials,System Of A Down,joy,0.032315789473684214
+163,Aerials,System Of A Down,sadness,0.021287081339712917
+163,Aerials,System Of A Down,trust,0.014947368421052635
+163,Aerials,System Of A Down,anger,0.008741626794258375
+163,Aerials,System Of A Down,disgust,0.010244019138755979
+163,Aerials,System Of A Down,fear,0.013095693779904306
+163,Aerials,System Of A Down,surprise,0.012827751196172249
+164,It's ok I'm ok,Tate McRae,anticipation,0.015800498753117207
+164,It's ok I'm ok,Tate McRae,joy,0.018713216957605985
+164,It's ok I'm ok,Tate McRae,surprise,0.0026109725685785536
+164,It's ok I'm ok,Tate McRae,trust,0.018947630922693266
+164,It's ok I'm ok,Tate McRae,sadness,0.002630922693266833
+164,It's ok I'm ok,Tate McRae,anger,0.00018453865336658353
+164,It's ok I'm ok,Tate McRae,fear,0.0035087281795511223
+166,Supermassive Black Hole,Muse,joy,0.021523437499999996
+166,Supermassive Black Hole,Muse,fear,0.0015390625
+166,Supermassive Black Hole,Muse,sadness,0.001890625
+166,Supermassive Black Hole,Muse,anticipation,0.0047890625
+166,Supermassive Black Hole,Muse,disgust,0.0036015625
+166,Supermassive Black Hole,Muse,trust,0.003296875
+165,Everybody Here Wants You,Jeff Buckley,anticipation,0.01666780821917808
+165,Everybody Here Wants You,Jeff Buckley,joy,0.04322260273972602
+165,Everybody Here Wants You,Jeff Buckley,surprise,0.005479452054794521
+165,Everybody Here Wants You,Jeff Buckley,trust,0.03452054794520549
+165,Everybody Here Wants You,Jeff Buckley,anger,0.0004178082191780822
+165,Everybody Here Wants You,Jeff Buckley,disgust,0.006205479452054795
+165,Everybody Here Wants You,Jeff Buckley,fear,0.004660958904109589
+165,Everybody Here Wants You,Jeff Buckley,sadness,0.007065068493150684
+168,Lost,Frank Ocean,joy,0.04336809815950919
+168,Lost,Frank Ocean,anticipation,0.011935582822085889
+168,Lost,Frank Ocean,disgust,0.0035245398773006134
+168,Lost,Frank Ocean,fear,0.005033742331288344
+168,Lost,Frank Ocean,sadness,0.05679447852760736
+168,Lost,Frank Ocean,surprise,0.006975460122699386
+168,Lost,Frank Ocean,trust,0.0381564417177914
+168,Lost,Frank Ocean,anger,0.0010674846625766871
+169,The Giver,Chappell Roan,anticipation,0.012769736842105263
+169,The Giver,Chappell Roan,trust,0.010453947368421052
+169,The Giver,Chappell Roan,joy,0.03339144736842105
+169,The Giver,Chappell Roan,fear,0.0020032894736842105
+169,The Giver,Chappell Roan,surprise,0.0023914473684210525
+170,Heart To Heart,Mac DeMarco,joy,0.15661016949152548
+170,Heart To Heart,Mac DeMarco,anticipation,0.020991525423728813
+170,Heart To Heart,Mac DeMarco,sadness,0.001059322033898305
+170,Heart To Heart,Mac DeMarco,surprise,0.0029152542372881353
+171,I THINK,"Tyler, The Creator",trust,0.03380637254901961
+171,I THINK,"Tyler, The Creator",fear,0.0033186274509803917
+171,I THINK,"Tyler, The Creator",anticipation,0.01153186274509804
+171,I THINK,"Tyler, The Creator",anger,0.003372549019607843
+171,I THINK,"Tyler, The Creator",disgust,0.005301470588235294
+171,I THINK,"Tyler, The Creator",surprise,0.0011862745098039215
+171,I THINK,"Tyler, The Creator",sadness,0.005178921568627451
+171,I THINK,"Tyler, The Creator",joy,0.025026960784313726
+172,Nights,Frank Ocean,anticipation,0.014051051051051054
+172,Nights,Frank Ocean,joy,0.016785285285285282
+172,Nights,Frank Ocean,anger,0.031297297297297307
+172,Nights,Frank Ocean,disgust,0.04142792792792793
+172,Nights,Frank Ocean,fear,0.00967117117117117
+172,Nights,Frank Ocean,sadness,0.007995495495495495
+172,Nights,Frank Ocean,trust,0.013076576576576576
+172,Nights,Frank Ocean,surprise,0.0038003003003002998
+174,Helena,My Chemical Romance,anticipation,0.022248979591836734
+174,Helena,My Chemical Romance,trust,0.009497959183673469
+174,Helena,My Chemical Romance,fear,0.007910204081632653
+174,Helena,My Chemical Romance,sadness,0.011877551020408161
+174,Helena,My Chemical Romance,anger,0.00523265306122449
+174,Helena,My Chemical Romance,surprise,0.011318367346938774
+174,Helena,My Chemical Romance,joy,0.013134693877551023
+174,Helena,My Chemical Romance,disgust,0.00790204081632653
+175,Feather,Sabrina Carpenter,trust,0.0365669099756691
+175,Feather,Sabrina Carpenter,joy,0.013705596107055962
+175,Feather,Sabrina Carpenter,anticipation,0.00954257907542579
+175,Feather,Sabrina Carpenter,fear,0.007564476885644769
+175,Feather,Sabrina Carpenter,surprise,0.00935279805352798
+175,Feather,Sabrina Carpenter,anger,0.01737956204379562
+175,Feather,Sabrina Carpenter,disgust,0.009253041362530414
+175,Feather,Sabrina Carpenter,sadness,0.010856447688564476
+176,Good Graces,Sabrina Carpenter,joy,0.01958567774936061
+176,Good Graces,Sabrina Carpenter,trust,0.026941176470588232
+176,Good Graces,Sabrina Carpenter,anticipation,0.008654731457800512
+176,Good Graces,Sabrina Carpenter,surprise,0.007373401534526853
+176,Good Graces,Sabrina Carpenter,sadness,0.009644501278772378
+176,Good Graces,Sabrina Carpenter,disgust,0.008734015345268544
+176,Good Graces,Sabrina Carpenter,fear,0.012265984654731459
+176,Good Graces,Sabrina Carpenter,anger,0.013186700767263429
+177,vampire,Olivia Rodrigo,anger,0.017687022900763356
+177,vampire,Olivia Rodrigo,disgust,0.016697201017811702
+177,vampire,Olivia Rodrigo,fear,0.017748091603053438
+177,vampire,Olivia Rodrigo,sadness,0.018513994910941477
+177,vampire,Olivia Rodrigo,joy,0.02141730279898219
+177,vampire,Olivia Rodrigo,anticipation,0.005465648854961831
+177,vampire,Olivia Rodrigo,surprise,0.006027989821882951
+177,vampire,Olivia Rodrigo,trust,0.021849872773536894
+178,Paparazzi,Lady Gaga,joy,0.06677083333333332
+178,Paparazzi,Lady Gaga,trust,0.052361111111111115
+178,Paparazzi,Lady Gaga,anticipation,0.007131944444444445
+178,Paparazzi,Lady Gaga,surprise,0.002875
+178,Paparazzi,Lady Gaga,sadness,0.0055312500000000014
+178,Paparazzi,Lady Gaga,disgust,0.005152777777777778
+178,Paparazzi,Lady Gaga,anger,0.0019895833333333332
+179,Fashion Killa,A$AP Rocky,trust,0.013984719864176574
+179,Fashion Killa,A$AP Rocky,anger,0.002470288624787776
+179,Fashion Killa,A$AP Rocky,disgust,0.0013259762308998303
+179,Fashion Killa,A$AP Rocky,fear,0.0014855687606112054
+179,Fashion Killa,A$AP Rocky,sadness,0.0023531409168081495
+179,Fashion Killa,A$AP Rocky,joy,0.011127334465195244
+179,Fashion Killa,A$AP Rocky,anticipation,0.0042580645161290325
+180,Somewhere I Belong,Linkin Park,sadness,0.030672680412371124
+180,Somewhere I Belong,Linkin Park,disgust,0.0017319587628865977
+180,Somewhere I Belong,Linkin Park,anger,0.001505154639175258
+180,Somewhere I Belong,Linkin Park,trust,0.031567010309278346
+180,Somewhere I Belong,Linkin Park,fear,0.01354381443298969
+180,Somewhere I Belong,Linkin Park,surprise,0.004350515463917526
+180,Somewhere I Belong,Linkin Park,joy,0.009917525773195879
+180,Somewhere I Belong,Linkin Park,anticipation,0.008030927835051547
+181,Apple,Charli xcx,surprise,0.008623728813559323
+181,Apple,Charli xcx,sadness,0.01490169491525424
+181,Apple,Charli xcx,anger,0.004786440677966101
+181,Apple,Charli xcx,anticipation,0.03403728813559322
+181,Apple,Charli xcx,disgust,0.004084745762711865
+181,Apple,Charli xcx,joy,0.006457627118644067
+181,Apple,Charli xcx,trust,0.012925423728813558
+181,Apple,Charli xcx,fear,0.007837288135593222
+187,Can't Stop,Red Hot Chili Peppers,anticipation,0.017652650822669105
+187,Can't Stop,Red Hot Chili Peppers,trust,0.02874040219378427
+187,Can't Stop,Red Hot Chili Peppers,joy,0.03484826325411334
+187,Can't Stop,Red Hot Chili Peppers,fear,0.0077422303473491765
+187,Can't Stop,Red Hot Chili Peppers,sadness,0.005274223034734918
+187,Can't Stop,Red Hot Chili Peppers,surprise,0.007480804387568555
+187,Can't Stop,Red Hot Chili Peppers,disgust,0.0019707495429616083
+187,Can't Stop,Red Hot Chili Peppers,anger,0.0033820840950639854
+183,Nonsense,Sabrina Carpenter,fear,0.002041362530413626
+183,Nonsense,Sabrina Carpenter,sadness,0.005936739659367397
+183,Nonsense,Sabrina Carpenter,surprise,0.008610705596107056
+183,Nonsense,Sabrina Carpenter,trust,0.019576642335766423
+183,Nonsense,Sabrina Carpenter,anger,0.007347931873479318
+183,Nonsense,Sabrina Carpenter,anticipation,0.006919708029197081
+183,Nonsense,Sabrina Carpenter,disgust,0.0021094890510948905
+183,Nonsense,Sabrina Carpenter,joy,0.018391727493917272
+185,Telephone,Lady Gaga,joy,0.01852058823529412
+185,Telephone,Lady Gaga,trust,0.007070588235294118
+185,Telephone,Lady Gaga,sadness,0.0028602941176470594
+185,Telephone,Lady Gaga,surprise,0.0018823529411764706
+185,Telephone,Lady Gaga,anger,0.0010602941176470588
+185,Telephone,Lady Gaga,disgust,0.0015970588235294115
+185,Telephone,Lady Gaga,fear,0.001286764705882353
+185,Telephone,Lady Gaga,anticipation,0.001976470588235294
+186,Washing Machine Heart,Mitski,disgust,0.022933333333333333
+186,Washing Machine Heart,Mitski,trust,0.011366666666666666
+186,Washing Machine Heart,Mitski,joy,0.047933333333333335
+186,Washing Machine Heart,Mitski,anger,0.009377777777777778
+186,Washing Machine Heart,Mitski,fear,0.01448888888888889
+186,Washing Machine Heart,Mitski,sadness,0.005555555555555556
+186,Washing Machine Heart,Mitski,surprise,0.02551111111111111
+186,Washing Machine Heart,Mitski,anticipation,0.020399999999999998
+201,Gimme More,Britney Spears,anger,0.003900943396226415
+201,Gimme More,Britney Spears,disgust,0.0052712264150943395
+201,Gimme More,Britney Spears,fear,0.0026981132075471702
+201,Gimme More,Britney Spears,sadness,0.005370283018867925
+201,Gimme More,Britney Spears,joy,0.0070495283018867936
+201,Gimme More,Britney Spears,trust,0.00894811320754717
+201,Gimme More,Britney Spears,anticipation,0.0035943396226415093
+201,Gimme More,Britney Spears,surprise,0.0016226415094339622
+184,The Color Violet,Tory Lanez,joy,0.06309253731343288
+184,The Color Violet,Tory Lanez,anticipation,0.01266268656716418
+184,The Color Violet,Tory Lanez,trust,0.03763582089552239
+184,The Color Violet,Tory Lanez,fear,0.009453731343283582
+184,The Color Violet,Tory Lanez,anger,0.0034835820895522387
+184,The Color Violet,Tory Lanez,sadness,0.01173731343283582
+184,The Color Violet,Tory Lanez,surprise,0.008092537313432836
+191,Amoeba,Clairo,anticipation,0.0233531746031746
+191,Amoeba,Clairo,trust,0.029682539682539685
+191,Amoeba,Clairo,joy,0.0385436507936508
+191,Amoeba,Clairo,surprise,0.008460317460317461
+191,Amoeba,Clairo,anger,0.010837301587301588
+191,Amoeba,Clairo,disgust,0.009055555555555556
+191,Amoeba,Clairo,fear,0.009698412698412697
+191,Amoeba,Clairo,sadness,0.011162698412698412
+192,Daddy Issues,The Neighbourhood,trust,0.012925558312655088
+192,Daddy Issues,The Neighbourhood,anger,0.0024813895781637717
+192,Daddy Issues,The Neighbourhood,fear,0.008004962779156329
+192,Daddy Issues,The Neighbourhood,sadness,0.011940446650124068
+192,Daddy Issues,The Neighbourhood,joy,0.002997518610421836
+192,Daddy Issues,The Neighbourhood,anticipation,0.0023846153846153848
+192,Daddy Issues,The Neighbourhood,surprise,0.0004267990074441687
+193,APT.,ROSÉ,anticipation,0.014356617647058825
+193,APT.,ROSÉ,surprise,0.002411764705882353
+193,APT.,ROSÉ,joy,0.017169117647058824
+193,APT.,ROSÉ,trust,0.01613235294117647
+193,APT.,ROSÉ,anger,0.0055147058823529415
+193,APT.,ROSÉ,fear,0.007790441176470589
+193,APT.,ROSÉ,sadness,0.004058823529411765
+193,APT.,ROSÉ,disgust,0.0004889705882352942
+189,Tek It,Cafuné,anticipation,0.022918454935622317
+189,Tek It,Cafuné,anger,0.004969957081545064
+189,Tek It,Cafuné,sadness,0.009416309012875537
+189,Tek It,Cafuné,fear,0.009600858369098714
+189,Tek It,Cafuné,trust,0.026587982832618026
+189,Tek It,Cafuné,joy,0.002347639484978541
+190,Romantic Homicide,d4vd,fear,0.014457446808510637
+190,Romantic Homicide,d4vd,trust,0.019861702127659576
+190,Romantic Homicide,d4vd,joy,0.011553191489361703
+190,Romantic Homicide,d4vd,disgust,0.015372340425531913
+190,Romantic Homicide,d4vd,sadness,0.04387234042553192
+190,Romantic Homicide,d4vd,anticipation,0.013382978723404255
+190,Romantic Homicide,d4vd,anger,0.008808510638297871
+188,No One Noticed (Extended Spanish),The Marías,sadness,0.02743582089552239
+188,No One Noticed (Extended Spanish),The Marías,disgust,0.0029164179104477607
+188,No One Noticed (Extended Spanish),The Marías,trust,0.012098507462686564
+188,No One Noticed (Extended Spanish),The Marías,anger,0.0009761194029850747
+188,No One Noticed (Extended Spanish),The Marías,fear,0.0016388059701492536
+188,No One Noticed (Extended Spanish),The Marías,joy,0.01424776119402985
+188,No One Noticed (Extended Spanish),The Marías,anticipation,0.014877611940298508
+188,No One Noticed (Extended Spanish),The Marías,surprise,0.017802985074626868
+194,HUMBLE.,Kendrick Lamar,anticipation,0.0024297658862876257
+194,HUMBLE.,Kendrick Lamar,fear,0.023071906354515063
+194,HUMBLE.,Kendrick Lamar,joy,0.013403010033444816
+194,HUMBLE.,Kendrick Lamar,surprise,0.0026789297658862876
+194,HUMBLE.,Kendrick Lamar,trust,0.027377926421404682
+194,HUMBLE.,Kendrick Lamar,anger,0.04810869565217395
+194,HUMBLE.,Kendrick Lamar,sadness,0.04455685618729092
+194,HUMBLE.,Kendrick Lamar,disgust,0.039433110367892966
+195,Eyes Without A Face,Billy Idol,anticipation,0.009148026315789473
+195,Eyes Without A Face,Billy Idol,joy,0.02526315789473684
+195,Eyes Without A Face,Billy Idol,surprise,0.008914473684210528
+195,Eyes Without A Face,Billy Idol,trust,0.015296052631578948
+195,Eyes Without A Face,Billy Idol,anger,0.015453947368421053
+195,Eyes Without A Face,Billy Idol,disgust,0.0130625
+195,Eyes Without A Face,Billy Idol,fear,0.011101973684210526
+195,Eyes Without A Face,Billy Idol,sadness,0.023407894736842103
+196,Garden Of Eden,Lady Gaga,joy,0.03396895787139691
+196,Garden Of Eden,Lady Gaga,anticipation,0.006600886917960089
+196,Garden Of Eden,Lady Gaga,surprise,0.0031507760532150774
+196,Garden Of Eden,Lady Gaga,anger,0.030811529933481147
+196,Garden Of Eden,Lady Gaga,disgust,0.007902439024390246
+196,Garden Of Eden,Lady Gaga,fear,0.009977827050997782
+196,Garden Of Eden,Lady Gaga,sadness,0.008456762749445677
+196,Garden Of Eden,Lady Gaga,trust,0.01412860310421286
+198,Cruel Summer,Taylor Swift,fear,0.02640362811791383
+198,Cruel Summer,Taylor Swift,joy,0.03263492063492063
+198,Cruel Summer,Taylor Swift,sadness,0.02450340136054422
+198,Cruel Summer,Taylor Swift,anger,0.021315192743764172
+198,Cruel Summer,Taylor Swift,disgust,0.018045351473922902
+198,Cruel Summer,Taylor Swift,anticipation,0.012510204081632652
+198,Cruel Summer,Taylor Swift,surprise,0.0057029478458049876
+198,Cruel Summer,Taylor Swift,trust,0.022723356009070297
+199,"New Person, Same Old Mistakes",Tame Impala,sadness,0.007247747747747747
+199,"New Person, Same Old Mistakes",Tame Impala,joy,0.008468468468468469
+199,"New Person, Same Old Mistakes",Tame Impala,trust,0.02631981981981982
+199,"New Person, Same Old Mistakes",Tame Impala,anger,0.003698198198198198
+199,"New Person, Same Old Mistakes",Tame Impala,anticipation,0.007126126126126125
+199,"New Person, Same Old Mistakes",Tame Impala,disgust,0.002727477477477477
+199,"New Person, Same Old Mistakes",Tame Impala,fear,0.004400900900900901
+199,"New Person, Same Old Mistakes",Tame Impala,surprise,0.004204954954954955
+200,Sunsetz,Cigarettes After Sex,trust,0.01794074074074074
+200,Sunsetz,Cigarettes After Sex,anticipation,0.0061333333333333335
+200,Sunsetz,Cigarettes After Sex,joy,0.013659259259259258
+200,Sunsetz,Cigarettes After Sex,surprise,0.002488888888888889
+200,Sunsetz,Cigarettes After Sex,fear,0.002659259259259259
+197,So Far So Fake,Pierce The Veil,anticipation,0.01888118811881188
+197,So Far So Fake,Pierce The Veil,fear,0.012303630363036304
+197,So Far So Fake,Pierce The Veil,sadness,0.006943894389438945
+197,So Far So Fake,Pierce The Veil,joy,0.009171617161716173
+197,So Far So Fake,Pierce The Veil,trust,0.012554455445544555
+197,So Far So Fake,Pierce The Veil,disgust,0.007478547854785479
+197,So Far So Fake,Pierce The Veil,surprise,0.004306930693069306
+197,So Far So Fake,Pierce The Veil,anger,0.0015478547854785479
+204,Take Me Out,Franz Ferdinand,anger,0.008962655601659751
+204,Take Me Out,Franz Ferdinand,disgust,0.0030788381742738588
+204,Take Me Out,Franz Ferdinand,fear,0.031887966804979254
+204,Take Me Out,Franz Ferdinand,sadness,0.051767634854771774
+204,Take Me Out,Franz Ferdinand,anticipation,0.007066390041493777
+204,Take Me Out,Franz Ferdinand,surprise,0.007842323651452283
+204,Take Me Out,Franz Ferdinand,trust,0.0014605809128630705
+205,Novacane,Frank Ocean,anger,0.0033359683794466403
+205,Novacane,Frank Ocean,disgust,0.007517786561264821
+205,Novacane,Frank Ocean,joy,0.04074308300395258
+205,Novacane,Frank Ocean,surprise,0.0020375494071146246
+205,Novacane,Frank Ocean,trust,0.03594268774703557
+205,Novacane,Frank Ocean,sadness,0.02327470355731226
+205,Novacane,Frank Ocean,anticipation,0.011193675889328061
+205,Novacane,Frank Ocean,fear,0.012454545454545456
+206,Teenagers,My Chemical Romance,joy,0.011937293729372935
+206,Teenagers,My Chemical Romance,trust,0.005567656765676567
+206,Teenagers,My Chemical Romance,anger,0.05304620462046205
+206,Teenagers,My Chemical Romance,fear,0.048376237623762364
+206,Teenagers,My Chemical Romance,anticipation,0.017686468646864687
+206,Teenagers,My Chemical Romance,sadness,0.03052475247524752
+206,Teenagers,My Chemical Romance,disgust,0.02988778877887789
+206,Teenagers,My Chemical Romance,surprise,0.04121122112211221
+202,We Are The People,Empire Of The Sun,joy,0.017011267605633804
+202,We Are The People,Empire Of The Sun,disgust,0.003014084507042254
+202,We Are The People,Empire Of The Sun,fear,0.005507042253521126
+202,We Are The People,Empire Of The Sun,trust,0.008614084507042255
+202,We Are The People,Empire Of The Sun,anger,0.0063859154929577465
+202,We Are The People,Empire Of The Sun,anticipation,0.008056338028169015
+202,We Are The People,Empire Of The Sun,surprise,0.01635774647887324
+202,We Are The People,Empire Of The Sun,sadness,0.016828169014084512
+207,NISSAN ALTIMA,Doechii,sadness,0.012790196078431373
+207,NISSAN ALTIMA,Doechii,joy,0.012543137254901962
+207,NISSAN ALTIMA,Doechii,anger,0.022050980392156867
+207,NISSAN ALTIMA,Doechii,anticipation,0.006241176470588236
+207,NISSAN ALTIMA,Doechii,trust,0.01277843137254902
+207,NISSAN ALTIMA,Doechii,surprise,0.0018529411764705885
+207,NISSAN ALTIMA,Doechii,disgust,0.01224705882352941
+207,NISSAN ALTIMA,Doechii,fear,0.00937843137254902
+208,deja vu,Olivia Rodrigo,anticipation,0.0017727272727272728
+208,deja vu,Olivia Rodrigo,joy,0.022535714285714284
+208,deja vu,Olivia Rodrigo,surprise,0.0023376623376623377
+208,deja vu,Olivia Rodrigo,anger,0.00798051948051948
+208,deja vu,Olivia Rodrigo,trust,0.01831168831168831
+208,deja vu,Olivia Rodrigo,disgust,0.005097402597402597
+208,deja vu,Olivia Rodrigo,fear,0.0017240259740259741
+208,deja vu,Olivia Rodrigo,sadness,0.002331168831168831
+209,my tears ricochet,Taylor Swift,fear,0.027261290322580647
+209,my tears ricochet,Taylor Swift,sadness,0.014929032258064516
+209,my tears ricochet,Taylor Swift,anger,0.020719354838709677
+209,my tears ricochet,Taylor Swift,anticipation,0.004790322580645161
+209,my tears ricochet,Taylor Swift,trust,0.010206451612903227
+209,my tears ricochet,Taylor Swift,disgust,0.01255483870967742
+209,my tears ricochet,Taylor Swift,joy,0.02597096774193548
+209,my tears ricochet,Taylor Swift,surprise,0.0018161290322580644
+210,I Hate Everything About You,Three Days Grace,anticipation,0.011769230769230771
+210,I Hate Everything About You,Three Days Grace,anger,0.06221428571428571
+210,I Hate Everything About You,Three Days Grace,disgust,0.047032967032967034
+210,I Hate Everything About You,Three Days Grace,sadness,0.048653846153846145
+210,I Hate Everything About You,Three Days Grace,fear,0.03414835164835165
+210,I Hate Everything About You,Three Days Grace,joy,0.04034065934065934
+210,I Hate Everything About You,Three Days Grace,surprise,0.007895604395604395
+210,I Hate Everything About You,Three Days Grace,trust,0.03901098901098901
+211,West Coast,Lana Del Rey,sadness,0.012033163265306124
+211,West Coast,Lana Del Rey,joy,0.08380102040816326
+211,West Coast,Lana Del Rey,anger,0.005926020408163266
+211,West Coast,Lana Del Rey,anticipation,0.008647959183673469
+211,West Coast,Lana Del Rey,disgust,0.0011989795918367345
+211,West Coast,Lana Del Rey,fear,0.012135204081632654
+211,West Coast,Lana Del Rey,surprise,0.0044005102040816325
+211,West Coast,Lana Del Rey,trust,0.045596938775510194
+212,LUNCH,Billie Eilish,trust,0.015271565495207666
+212,LUNCH,Billie Eilish,anticipation,0.00863258785942492
+212,LUNCH,Billie Eilish,joy,0.008277955271565496
+212,LUNCH,Billie Eilish,sadness,0.0012619808306709266
+212,LUNCH,Billie Eilish,surprise,0.002121405750798722
+212,LUNCH,Billie Eilish,fear,0.0018466453674121407
+212,LUNCH,Billie Eilish,disgust,0.00024920127795527154
+213,Good Days,SZA,anticipation,0.029361797752808984
+213,Good Days,SZA,joy,0.030591011235955062
+213,Good Days,SZA,surprise,0.014678651685393262
+213,Good Days,SZA,trust,0.027328089887640458
+213,Good Days,SZA,disgust,0.018397752808988775
+213,Good Days,SZA,sadness,0.015164044943820225
+213,Good Days,SZA,anger,0.012305617977528088
+213,Good Days,SZA,fear,0.020905617977528088
+214,Kill Bill,SZA,anger,0.012493074792243767
+214,Kill Bill,SZA,disgust,0.006728531855955678
+214,Kill Bill,SZA,fear,0.02531024930747922
+214,Kill Bill,SZA,sadness,0.026963988919667586
+214,Kill Bill,SZA,anticipation,0.006060941828254848
+214,Kill Bill,SZA,joy,0.027925207756232685
+214,Kill Bill,SZA,trust,0.022963988919667586
+215,greedy,Tate McRae,surprise,0.0013440860215053765
+215,greedy,Tate McRae,joy,0.015960573476702506
+215,greedy,Tate McRae,anger,0.020093189964157706
+215,greedy,Tate McRae,disgust,0.026430107526881724
+215,greedy,Tate McRae,fear,0.014297491039426524
+215,greedy,Tate McRae,sadness,0.012204301075268818
+215,greedy,Tate McRae,trust,0.012150537634408603
+215,greedy,Tate McRae,anticipation,0.0061039426523297495
+216,Revolving door,Tate McRae,sadness,0.008973039215686276
+216,Revolving door,Tate McRae,joy,0.009656862745098041
+216,Revolving door,Tate McRae,anticipation,0.005610294117647058
+216,Revolving door,Tate McRae,disgust,0.0048676470588235295
+216,Revolving door,Tate McRae,surprise,0.0030661764705882354
+216,Revolving door,Tate McRae,trust,0.019404411764705885
+216,Revolving door,Tate McRae,anger,0.007041666666666667
+216,Revolving door,Tate McRae,fear,0.009156862745098039
+218,Scar Tissue,Red Hot Chili Peppers,anger,0.016763440860215053
+218,Scar Tissue,Red Hot Chili Peppers,disgust,0.03041935483870967
+218,Scar Tissue,Red Hot Chili Peppers,fear,0.02500716845878135
+218,Scar Tissue,Red Hot Chili Peppers,sadness,0.06429749103942653
+218,Scar Tissue,Red Hot Chili Peppers,anticipation,0.04975627240143371
+218,Scar Tissue,Red Hot Chili Peppers,joy,0.052727598566308265
+218,Scar Tissue,Red Hot Chili Peppers,surprise,0.00296415770609319
+218,Scar Tissue,Red Hot Chili Peppers,trust,0.05844444444444446
+219,Let It Happen,Tame Impala,anticipation,0.03927358490566038
+219,Let It Happen,Tame Impala,joy,0.016429245283018867
+219,Let It Happen,Tame Impala,surprise,0.00505188679245283
+219,Let It Happen,Tame Impala,trust,0.007995283018867923
+219,Let It Happen,Tame Impala,sadness,0.004183962264150944
+219,Let It Happen,Tame Impala,fear,0.008108490566037735
+219,Let It Happen,Tame Impala,anger,0.0047688679245283016
+220,Chamber Of Reflection,Mac DeMarco,anticipation,0.028589041095890413
+220,Chamber Of Reflection,Mac DeMarco,sadness,0.13912328767123283
+220,Chamber Of Reflection,Mac DeMarco,fear,0.010424657534246576
+220,Chamber Of Reflection,Mac DeMarco,anger,0.0035068493150684932
+220,Chamber Of Reflection,Mac DeMarco,disgust,0.005999999999999999
+220,Chamber Of Reflection,Mac DeMarco,joy,0.004917808219178082
+220,Chamber Of Reflection,Mac DeMarco,surprise,0.008123287671232876
+220,Chamber Of Reflection,Mac DeMarco,trust,0.007095890410958905
+222,Rock Your Body,Justin Timberlake,joy,0.02475732899022801
+222,Rock Your Body,Justin Timberlake,trust,0.021677524429967426
+222,Rock Your Body,Justin Timberlake,surprise,0.004314332247557002
+222,Rock Your Body,Justin Timberlake,anticipation,0.007822475570032574
+222,Rock Your Body,Justin Timberlake,disgust,0.00014006514657980454
+222,Rock Your Body,Justin Timberlake,anger,0.0059983713355048875
+222,Rock Your Body,Justin Timberlake,fear,0.0042247557003257325
+222,Rock Your Body,Justin Timberlake,sadness,0.0
+223,I Must Apologise,PinkPantheress,fear,0.013008547008547009
+223,I Must Apologise,PinkPantheress,sadness,0.012927350427350425
+223,I Must Apologise,PinkPantheress,trust,0.006542735042735043
+223,I Must Apologise,PinkPantheress,disgust,0.0039743589743589745
+223,I Must Apologise,PinkPantheress,anticipation,0.002205128205128205
+223,I Must Apologise,PinkPantheress,joy,0.002564102564102564
+223,I Must Apologise,PinkPantheress,anger,0.001487179487179487
+223,I Must Apologise,PinkPantheress,surprise,0.0016367521367521367
+224,Beauty And A Beat,Justin Bieber,anger,0.009955621301775148
+224,Beauty And A Beat,Justin Bieber,anticipation,0.01227810650887574
+224,Beauty And A Beat,Justin Bieber,joy,0.044798816568047344
+224,Beauty And A Beat,Justin Bieber,surprise,0.0006005917159763314
+224,Beauty And A Beat,Justin Bieber,trust,0.017357988165680474
+224,Beauty And A Beat,Justin Bieber,sadness,0.00277810650887574
+224,Beauty And A Beat,Justin Bieber,fear,0.004434911242603551
+359,Runaway,Kanye West,anger,0.013071932299012694
+359,Runaway,Kanye West,disgust,0.008394922425952045
+359,Runaway,Kanye West,anticipation,0.01136953455571227
+359,Runaway,Kanye West,trust,0.009748942172073343
+359,Runaway,Kanye West,joy,0.016236953455571232
+359,Runaway,Kanye West,fear,0.008736248236953455
+359,Runaway,Kanye West,sadness,0.004959097320169252
+359,Runaway,Kanye West,surprise,0.0024781382228490833
+225,One Step Closer,Linkin Park,anger,0.00021016949152542373
+225,One Step Closer,Linkin Park,joy,0.014149152542372883
+225,One Step Closer,Linkin Park,trust,0.006562711864406779
+225,One Step Closer,Linkin Park,fear,0.0025627118644067797
+225,One Step Closer,Linkin Park,surprise,0.017189830508474578
+226,Maneater,Nelly Furtado,anticipation,0.004036777583187391
+226,Maneater,Nelly Furtado,surprise,0.0014098073555166373
+226,Maneater,Nelly Furtado,anger,0.0030507880910683014
+226,Maneater,Nelly Furtado,disgust,0.0008756567425569177
+226,Maneater,Nelly Furtado,fear,0.0031856392294220665
+226,Maneater,Nelly Furtado,trust,0.027267950963222418
+226,Maneater,Nelly Furtado,sadness,0.003485113835376532
+226,Maneater,Nelly Furtado,joy,0.018607705779334502
+229,Viva La Vida,Coldplay,fear,0.006102484472049689
+229,Viva La Vida,Coldplay,trust,0.024167701863354037
+229,Viva La Vida,Coldplay,sadness,0.008767080745341615
+229,Viva La Vida,Coldplay,anger,0.0027018633540372666
+229,Viva La Vida,Coldplay,anticipation,0.006881987577639751
+229,Viva La Vida,Coldplay,joy,0.009062111801242235
+229,Viva La Vida,Coldplay,disgust,0.0014347826086956522
+229,Viva La Vida,Coldplay,surprise,0.0037577639751552793
+228,Here With Me,d4vd,anticipation,0.02911834319526627
+228,Here With Me,d4vd,fear,0.005
+228,Here With Me,d4vd,joy,0.031171597633136098
+228,Here With Me,d4vd,anger,0.0008698224852071005
+228,Here With Me,d4vd,disgust,0.0008343195266272189
+228,Here With Me,d4vd,sadness,0.0010177514792899408
+228,Here With Me,d4vd,surprise,0.00350887573964497
+228,Here With Me,d4vd,trust,0.01655621301775148
+233,20 Min,Lil Uzi Vert,anger,0.009054054054054054
+233,20 Min,Lil Uzi Vert,disgust,0.004336609336609337
+233,20 Min,Lil Uzi Vert,fear,0.00626044226044226
+233,20 Min,Lil Uzi Vert,sadness,0.004733415233415234
+233,20 Min,Lil Uzi Vert,surprise,0.006235872235872236
+233,20 Min,Lil Uzi Vert,trust,0.02144471744471745
+233,20 Min,Lil Uzi Vert,joy,0.012255528255528255
+233,20 Min,Lil Uzi Vert,anticipation,0.009299754299754302
+230,Don’t Smile,Sabrina Carpenter,joy,0.035878787878787885
+230,Don’t Smile,Sabrina Carpenter,surprise,0.0036666666666666666
+230,Don’t Smile,Sabrina Carpenter,trust,0.017958333333333333
+230,Don’t Smile,Sabrina Carpenter,sadness,0.030265151515151516
+230,Don’t Smile,Sabrina Carpenter,anticipation,0.011875
+230,Don’t Smile,Sabrina Carpenter,anger,0.0009886363636363636
+230,Don’t Smile,Sabrina Carpenter,disgust,0.000946969696969697
+230,Don’t Smile,Sabrina Carpenter,fear,0.0014810606060606062
+232,Ordinary,Alex Warren,sadness,0.02243181818181818
+232,Ordinary,Alex Warren,anticipation,0.015650568181818182
+232,Ordinary,Alex Warren,joy,0.030832386363636367
+232,Ordinary,Alex Warren,trust,0.04057670454545454
+232,Ordinary,Alex Warren,fear,0.014693181818181817
+232,Ordinary,Alex Warren,anger,0.012792613636363635
+232,Ordinary,Alex Warren,disgust,0.010252840909090911
+232,Ordinary,Alex Warren,surprise,0.0057017045454545445
+234,High and Dry,Radiohead,anticipation,0.00207
+234,High and Dry,Radiohead,joy,0.008515
+234,High and Dry,Radiohead,trust,0.007615
+234,High and Dry,Radiohead,fear,0.019540000000000002
+234,High and Dry,Radiohead,sadness,0.04262500000000001
+234,High and Dry,Radiohead,surprise,0.01755
+234,High and Dry,Radiohead,anger,0.00785
+234,High and Dry,Radiohead,disgust,0.008825
+235,I Wonder,Kanye West,joy,0.058362903225806465
+235,I Wonder,Kanye West,trust,0.013107526881720429
+235,I Wonder,Kanye West,surprise,0.031916666666666656
+235,I Wonder,Kanye West,fear,0.0036720430107526876
+235,I Wonder,Kanye West,anticipation,0.007346774193548388
+235,I Wonder,Kanye West,anger,0.0029623655913978493
+235,I Wonder,Kanye West,disgust,0.002204301075268817
+238,Heart-Shaped Box,Nirvana,trust,0.046419354838709695
+238,Heart-Shaped Box,Nirvana,sadness,0.028745967741935483
+238,Heart-Shaped Box,Nirvana,anger,0.023701612903225807
+238,Heart-Shaped Box,Nirvana,disgust,0.006991935483870968
+238,Heart-Shaped Box,Nirvana,fear,0.008818548387096774
+238,Heart-Shaped Box,Nirvana,anticipation,0.020745967741935482
+238,Heart-Shaped Box,Nirvana,joy,0.025657258064516127
+238,Heart-Shaped Box,Nirvana,surprise,0.0012903225806451613
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,joy,0.0026720588235294115
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,anticipation,0.002827941176470588
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,trust,0.0017691176470588234
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,sadness,0.005120588235294119
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,anger,0.005669117647058823
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,disgust,0.005041176470588235
+247,Rollin' (Air Raid Vehicle),Limp Bizkit,fear,0.0009882352941176472
+237,ETA,NewJeans,trust,0.0191078431372549
+237,ETA,NewJeans,anger,0.0062499999999999995
+237,ETA,NewJeans,disgust,0.004367647058823529
+237,ETA,NewJeans,fear,0.00567156862745098
+237,ETA,NewJeans,sadness,0.009813725490196079
+237,ETA,NewJeans,anticipation,0.0048676470588235295
+237,ETA,NewJeans,joy,0.004901960784313725
+237,ETA,NewJeans,surprise,0.003754901960784314
+236,Apple Cider,beabadoobee,trust,0.011388235294117647
+236,Apple Cider,beabadoobee,disgust,0.002988235294117647
+236,Apple Cider,beabadoobee,anger,0.008388235294117646
+236,Apple Cider,beabadoobee,fear,0.006823529411764706
+236,Apple Cider,beabadoobee,sadness,0.0046
+236,Apple Cider,beabadoobee,surprise,0.0063411764705882355
+236,Apple Cider,beabadoobee,anticipation,0.0030764705882352942
+236,Apple Cider,beabadoobee,joy,0.0058823529411764705
+241,Heartbeat,Childish Gambino,anticipation,0.015755927475592745
+241,Heartbeat,Childish Gambino,trust,0.011723849372384939
+241,Heartbeat,Childish Gambino,joy,0.009264993026499302
+241,Heartbeat,Childish Gambino,disgust,0.0038242677824267776
+241,Heartbeat,Childish Gambino,sadness,0.006677824267782427
+241,Heartbeat,Childish Gambino,surprise,0.0036485355648535568
+241,Heartbeat,Childish Gambino,anger,0.004953974895397489
+241,Heartbeat,Childish Gambino,fear,0.005344490934449094
+242,Sweet,Cigarettes After Sex,sadness,0.00034821428571428574
+242,Sweet,Cigarettes After Sex,joy,0.07264285714285716
+242,Sweet,Cigarettes After Sex,surprise,0.02514285714285715
+242,Sweet,Cigarettes After Sex,trust,0.04473660714285714
+242,Sweet,Cigarettes After Sex,anticipation,0.01986607142857143
+242,Sweet,Cigarettes After Sex,anger,0.0018214285714285713
+242,Sweet,Cigarettes After Sex,disgust,0.0023705357142857143
+243,Locked out of Heaven,Bruno Mars,anticipation,0.02916613418530352
+243,Locked out of Heaven,Bruno Mars,joy,0.045571884984025555
+243,Locked out of Heaven,Bruno Mars,trust,0.02098402555910543
+243,Locked out of Heaven,Bruno Mars,anger,0.0010575079872204474
+243,Locked out of Heaven,Bruno Mars,disgust,0.0018977635782747603
+243,Locked out of Heaven,Bruno Mars,fear,0.0021757188498402556
+243,Locked out of Heaven,Bruno Mars,sadness,0.0019456869009584663
+245,bad idea right?,Olivia Rodrigo,sadness,0.017058548009367683
+245,bad idea right?,Olivia Rodrigo,joy,0.009969555035128804
+245,bad idea right?,Olivia Rodrigo,anticipation,0.0011334894613583139
+245,bad idea right?,Olivia Rodrigo,fear,0.005489461358313817
+245,bad idea right?,Olivia Rodrigo,trust,0.010737704918032788
+245,bad idea right?,Olivia Rodrigo,anger,0.009625292740046837
+245,bad idea right?,Olivia Rodrigo,disgust,0.009662763466042156
+246,Dark Thoughts,Lil Tecca,anger,0.026940092165898617
+246,Dark Thoughts,Lil Tecca,disgust,0.022205069124423965
+246,Dark Thoughts,Lil Tecca,fear,0.011016129032258064
+246,Dark Thoughts,Lil Tecca,sadness,0.016679723502304143
+246,Dark Thoughts,Lil Tecca,anticipation,0.006444700460829492
+246,Dark Thoughts,Lil Tecca,joy,0.015933179723502302
+246,Dark Thoughts,Lil Tecca,trust,0.010188940092165899
+251,Super Shy,NewJeans,joy,0.06655792682926835
+251,Super Shy,NewJeans,fear,0.011951219512195129
+251,Super Shy,NewJeans,anticipation,0.023054878048780487
+251,Super Shy,NewJeans,disgust,0.0018353658536585363
+251,Super Shy,NewJeans,trust,0.005478658536585365
+252,Faint,Linkin Park,fear,0.003584045584045584
+252,Faint,Linkin Park,sadness,0.009595441595441593
+252,Faint,Linkin Park,trust,0.025746438746438748
+252,Faint,Linkin Park,anticipation,0.007971509971509971
+252,Faint,Linkin Park,disgust,0.00750997150997151
+252,Faint,Linkin Park,joy,0.004626780626780627
+252,Faint,Linkin Park,anger,0.005475783475783475
+253,K.,Cigarettes After Sex,sadness,0.006542553191489361
+253,K.,Cigarettes After Sex,anticipation,0.016164893617021277
+253,K.,Cigarettes After Sex,fear,0.0029999999999999996
+253,K.,Cigarettes After Sex,joy,0.022186170212765963
+253,K.,Cigarettes After Sex,trust,0.012462765957446808
+253,K.,Cigarettes After Sex,surprise,0.00976595744680851
+253,K.,Cigarettes After Sex,anger,0.0021702127659574467
+253,K.,Cigarettes After Sex,disgust,0.002824468085106383
+254,Guilty as Sin?,Taylor Swift,sadness,0.0330028328611898
+254,Guilty as Sin?,Taylor Swift,joy,0.013716713881019832
+254,Guilty as Sin?,Taylor Swift,anger,0.01693484419263456
+254,Guilty as Sin?,Taylor Swift,disgust,0.012858356940509914
+254,Guilty as Sin?,Taylor Swift,fear,0.020518413597733712
+254,Guilty as Sin?,Taylor Swift,surprise,0.005685552407932012
+254,Guilty as Sin?,Taylor Swift,anticipation,0.00769971671388102
+254,Guilty as Sin?,Taylor Swift,trust,0.006790368271954675
+256,Cinnamon Girl,Lana Del Rey,anticipation,0.0022288401253918494
+256,Cinnamon Girl,Lana Del Rey,joy,0.019680250783699057
+256,Cinnamon Girl,Lana Del Rey,surprise,0.0009780564263322884
+256,Cinnamon Girl,Lana Del Rey,sadness,0.0170846394984326
+256,Cinnamon Girl,Lana Del Rey,trust,0.018949843260188087
+256,Cinnamon Girl,Lana Del Rey,anger,0.015548589341692787
+256,Cinnamon Girl,Lana Del Rey,fear,0.017523510971786834
+256,Cinnamon Girl,Lana Del Rey,disgust,0.0015172413793103448
+257,Like a Tattoo,Sade,anticipation,0.021637037037037038
+257,Like a Tattoo,Sade,joy,0.030355555555555563
+257,Like a Tattoo,Sade,surprise,0.010822222222222221
+257,Like a Tattoo,Sade,trust,0.0434962962962963
+257,Like a Tattoo,Sade,anger,0.02465925925925926
+257,Like a Tattoo,Sade,fear,0.03648148148148149
+257,Like a Tattoo,Sade,sadness,0.020029629629629626
+257,Like a Tattoo,Sade,disgust,0.010992592592592592
+258,Only Girl (In The World),Rihanna,joy,0.022395465994962217
+258,Only Girl (In The World),Rihanna,trust,0.03695717884130983
+258,Only Girl (In The World),Rihanna,anger,0.004045340050377834
+258,Only Girl (In The World),Rihanna,sadness,0.004289672544080604
+258,Only Girl (In The World),Rihanna,disgust,0.0026574307304785896
+258,Only Girl (In The World),Rihanna,fear,0.0027934508816120905
+258,Only Girl (In The World),Rihanna,surprise,0.0015340050377833753
+259,Animal I Have Become,Three Days Grace,anticipation,0.01037344398340249
+259,Animal I Have Become,Three Days Grace,fear,0.039348547717842325
+259,Animal I Have Become,Three Days Grace,anger,0.010858921161825727
+259,Animal I Have Become,Three Days Grace,disgust,0.005643153526970954
+259,Animal I Have Become,Three Days Grace,sadness,0.0058091286307053935
+259,Animal I Have Become,Three Days Grace,trust,0.01728215767634855
+260,The Hills,The Weeknd,trust,0.037201773835920174
+260,The Hills,The Weeknd,joy,0.02166962305986696
+260,The Hills,The Weeknd,fear,0.0037782705099778263
+260,The Hills,The Weeknd,anticipation,0.007731707317073171
+260,The Hills,The Weeknd,sadness,0.0011751662971175166
+261,MUTT,Leon Thomas,anticipation,0.020362126245847174
+261,MUTT,Leon Thomas,fear,0.011880398671096347
+261,MUTT,Leon Thomas,joy,0.017388704318936878
+261,MUTT,Leon Thomas,trust,0.016355481727574752
+261,MUTT,Leon Thomas,sadness,0.004305647840531562
+261,MUTT,Leon Thomas,surprise,0.005943521594684386
+261,MUTT,Leon Thomas,anger,0.0004883720930232558
+261,MUTT,Leon Thomas,disgust,0.00046843853820598
+263,Ditto,NewJeans,trust,0.009877551020408163
+263,Ditto,NewJeans,surprise,0.012321428571428572
+263,Ditto,NewJeans,anticipation,0.013163265306122449
+263,Ditto,NewJeans,anger,0.003994897959183673
+263,Ditto,NewJeans,disgust,0.003826530612244898
+263,Ditto,NewJeans,fear,0.005984693877551021
+263,Ditto,NewJeans,sadness,0.007790816326530613
+264,TiK ToK,Kesha,trust,0.005729896907216495
+264,TiK ToK,Kesha,anger,0.015977319587628866
+264,TiK ToK,Kesha,sadness,0.004828865979381445
+264,TiK ToK,Kesha,surprise,0.010278350515463918
+264,TiK ToK,Kesha,joy,0.017420618556701028
+264,TiK ToK,Kesha,fear,0.010247422680412371
+264,TiK ToK,Kesha,anticipation,0.00739381443298969
+265,Pyramids,Frank Ocean,anger,0.00817190082644628
+265,Pyramids,Frank Ocean,disgust,0.0030479338842975207
+265,Pyramids,Frank Ocean,fear,0.0123801652892562
+265,Pyramids,Frank Ocean,sadness,0.006692561983471073
+265,Pyramids,Frank Ocean,surprise,0.00472396694214876
+265,Pyramids,Frank Ocean,anticipation,0.007256198347107438
+265,Pyramids,Frank Ocean,joy,0.01603801652892562
+265,Pyramids,Frank Ocean,trust,0.016550413223140492
+266,NEW MAGIC WAND,"Tyler, The Creator",joy,0.04939419087136927
+266,NEW MAGIC WAND,"Tyler, The Creator",trust,0.0271804979253112
+266,NEW MAGIC WAND,"Tyler, The Creator",sadness,0.021902489626556016
+266,NEW MAGIC WAND,"Tyler, The Creator",anger,0.009512448132780084
+266,NEW MAGIC WAND,"Tyler, The Creator",disgust,0.006132780082987552
+266,NEW MAGIC WAND,"Tyler, The Creator",fear,0.012865145228215769
+266,NEW MAGIC WAND,"Tyler, The Creator",anticipation,0.009062240663900413
+266,NEW MAGIC WAND,"Tyler, The Creator",surprise,0.010960580912863071
+267,Black Hole Sun,Soundgarden,disgust,0.0070185185185185186
+267,Black Hole Sun,Soundgarden,fear,0.0181820987654321
+267,Black Hole Sun,Soundgarden,anticipation,0.05337345679012347
+267,Black Hole Sun,Soundgarden,joy,0.04020679012345679
+267,Black Hole Sun,Soundgarden,surprise,0.022320987654320973
+267,Black Hole Sun,Soundgarden,trust,0.055320987654320995
+267,Black Hole Sun,Soundgarden,anger,0.009743827160493827
+267,Black Hole Sun,Soundgarden,sadness,0.013354938271604938
+262,Back To Me,The Marías,joy,0.024737254901960784
+262,Back To Me,The Marías,trust,0.0128
+262,Back To Me,The Marías,sadness,0.007082352941176473
+262,Back To Me,The Marías,anticipation,0.010901960784313726
+262,Back To Me,The Marías,fear,0.004164705882352941
+262,Back To Me,The Marías,surprise,0.002023529411764706
+269,Stargirl Interlude,The Weeknd,anticipation,0.010377049180327868
+269,Stargirl Interlude,The Weeknd,trust,0.0350327868852459
+269,Stargirl Interlude,The Weeknd,sadness,0.02459016393442623
+269,Stargirl Interlude,The Weeknd,joy,0.033934426229508194
+270,15 Minutes,Sabrina Carpenter,anticipation,0.01583734939759036
+270,15 Minutes,Sabrina Carpenter,surprise,0.0023042168674698798
+270,15 Minutes,Sabrina Carpenter,joy,0.01833132530120482
+270,15 Minutes,Sabrina Carpenter,trust,0.01967168674698795
+270,15 Minutes,Sabrina Carpenter,anger,0.00803313253012048
+270,15 Minutes,Sabrina Carpenter,disgust,0.0008012048192771085
+270,15 Minutes,Sabrina Carpenter,fear,0.0077409638554216875
+270,15 Minutes,Sabrina Carpenter,sadness,0.0068734939759036145
+271,Decode,Paramore,disgust,0.004540650406504065
+271,Decode,Paramore,joy,0.013483739837398373
+271,Decode,Paramore,anger,0.00973170731707317
+271,Decode,Paramore,sadness,0.0115609756097561
+271,Decode,Paramore,fear,0.016878048780487806
+271,Decode,Paramore,anticipation,0.006292682926829269
+271,Decode,Paramore,trust,0.016577235772357726
+272,Bound 2,Kanye West,sadness,0.014851485148514854
+272,Bound 2,Kanye West,joy,0.03599257425742574
+272,Bound 2,Kanye West,trust,0.028819306930693064
+272,Bound 2,Kanye West,fear,0.008551980198019803
+272,Bound 2,Kanye West,anticipation,0.011655940594059402
+272,Bound 2,Kanye West,surprise,0.0034628712871287125
+272,Bound 2,Kanye West,anger,0.015903465346534654
+272,Bound 2,Kanye West,disgust,0.01268069306930693
+273,Breathe (In the Air),Pink Floyd,fear,0.0179811320754717
+273,Breathe (In the Air),Pink Floyd,sadness,0.02277358490566038
+273,Breathe (In the Air),Pink Floyd,surprise,0.0060377358490566035
+273,Breathe (In the Air),Pink Floyd,trust,0.00788679245283019
+273,Breathe (In the Air),Pink Floyd,anticipation,0.016726415094339624
+273,Breathe (In the Air),Pink Floyd,joy,0.02152830188679245
+274,Paranoia,The Marías,disgust,0.000722689075630252
+274,Paranoia,The Marías,anticipation,0.0043361344537815125
+274,Paranoia,The Marías,sadness,0.0063025210084033615
+274,Paranoia,The Marías,surprise,0.0011470588235294118
+274,Paranoia,The Marías,joy,0.005512605042016807
+274,Paranoia,The Marías,fear,0.007092436974789916
+274,Paranoia,The Marías,anger,0.003949579831932773
+268,Kingston,Faye Webster,sadness,0.009577981651376147
+268,Kingston,Faye Webster,anticipation,0.006633027522935779
+268,Kingston,Faye Webster,trust,0.007885321100917431
+268,Kingston,Faye Webster,surprise,0.001073394495412844
+268,Kingston,Faye Webster,joy,0.023509174311926607
+268,Kingston,Faye Webster,anger,0.0005
+268,Kingston,Faye Webster,disgust,0.0013623853211009174
+268,Kingston,Faye Webster,fear,0.00386697247706422
+277,Devil In A New Dress,Kanye West,joy,0.02666614420062697
+277,Devil In A New Dress,Kanye West,trust,0.028191222570532918
+277,Devil In A New Dress,Kanye West,anger,0.017523510971786834
+277,Devil In A New Dress,Kanye West,disgust,0.01115360501567398
+277,Devil In A New Dress,Kanye West,fear,0.009517241379310344
+277,Devil In A New Dress,Kanye West,sadness,0.0115564263322884
+277,Devil In A New Dress,Kanye West,surprise,0.008495297805642635
+277,Devil In A New Dress,Kanye West,anticipation,0.011816614420062696
+278,Don't,Bryson Tiller,anger,0.004603174603174603
+278,Don't,Bryson Tiller,disgust,0.009711640211640211
+278,Don't,Bryson Tiller,sadness,0.009272486772486774
+278,Don't,Bryson Tiller,fear,0.010957671957671958
+278,Don't,Bryson Tiller,joy,0.019465608465608464
+278,Don't,Bryson Tiller,surprise,0.003841269841269841
+278,Don't,Bryson Tiller,trust,0.01323015873015873
+278,Don't,Bryson Tiller,anticipation,0.006367724867724868
+279,Brooklyn Baby,Lana Del Rey,joy,0.03363372093023256
+279,Brooklyn Baby,Lana Del Rey,trust,0.025177325581395342
+279,Brooklyn Baby,Lana Del Rey,disgust,0.0011569767441860467
+279,Brooklyn Baby,Lana Del Rey,anticipation,0.004787790697674418
+279,Brooklyn Baby,Lana Del Rey,sadness,0.004232558139534884
+279,Brooklyn Baby,Lana Del Rey,fear,0.0018488372093023256
+279,Brooklyn Baby,Lana Del Rey,anger,0.0029069767441860465
+361,Love Me,Lil Wayne,anticipation,0.015913342503438795
+361,Love Me,Lil Wayne,joy,0.04147592847317742
+361,Love Me,Lil Wayne,surprise,0.00415818431911967
+361,Love Me,Lil Wayne,trust,0.041042640990371373
+361,Love Me,Lil Wayne,sadness,0.0104828060522696
+361,Love Me,Lil Wayne,anger,0.012591471801925724
+361,Love Me,Lil Wayne,fear,0.004679504814305365
+361,Love Me,Lil Wayne,disgust,0.005661623108665749
+281,I'm Not Okay (I Promise),My Chemical Romance,trust,0.021748917748917747
+281,I'm Not Okay (I Promise),My Chemical Romance,sadness,0.00848051948051948
+281,I'm Not Okay (I Promise),My Chemical Romance,disgust,0.006294372294372294
+281,I'm Not Okay (I Promise),My Chemical Romance,joy,0.011575757575757576
+281,I'm Not Okay (I Promise),My Chemical Romance,fear,0.001896103896103896
+281,I'm Not Okay (I Promise),My Chemical Romance,anticipation,0.011831168831168831
+281,I'm Not Okay (I Promise),My Chemical Romance,anger,0.0002683982683982684
+281,I'm Not Okay (I Promise),My Chemical Romance,surprise,0.000948051948051948
+350,What I've Done,Linkin Park,sadness,0.012857142857142857
+350,What I've Done,Linkin Park,fear,0.015068571428571426
+350,What I've Done,Linkin Park,trust,0.013394285714285713
+350,What I've Done,Linkin Park,anger,0.009617142857142859
+350,What I've Done,Linkin Park,joy,0.004165714285714286
+350,What I've Done,Linkin Park,anticipation,0.006651428571428571
+350,What I've Done,Linkin Park,surprise,0.0019657142857142855
+280,São Paulo (feat. Anitta),The Weeknd,surprise,0.0067975460122699375
+280,São Paulo (feat. Anitta),The Weeknd,anticipation,0.009395705521472394
+280,São Paulo (feat. Anitta),The Weeknd,fear,0.006099693251533742
+280,São Paulo (feat. Anitta),The Weeknd,anger,0.004503067484662577
+280,São Paulo (feat. Anitta),The Weeknd,disgust,0.004943251533742331
+280,São Paulo (feat. Anitta),The Weeknd,sadness,0.004866564417177914
+280,São Paulo (feat. Anitta),The Weeknd,trust,0.020443251533742327
+280,São Paulo (feat. Anitta),The Weeknd,joy,0.024226993865030667
+282,Disease,Lady Gaga,sadness,0.06472151898734176
+282,Disease,Lady Gaga,joy,0.021778481012658227
+282,Disease,Lady Gaga,fear,0.06755379746835442
+282,Disease,Lady Gaga,anger,0.03399999999999999
+282,Disease,Lady Gaga,disgust,0.05846202531645569
+282,Disease,Lady Gaga,trust,0.025825949367088607
+282,Disease,Lady Gaga,anticipation,0.013231012658227848
+284,this is me trying,Taylor Swift,anticipation,0.004326923076923077
+284,this is me trying,Taylor Swift,trust,0.005884615384615385
+284,this is me trying,Taylor Swift,fear,0.016953846153846153
+284,this is me trying,Taylor Swift,sadness,0.010215384615384616
+284,this is me trying,Taylor Swift,anger,0.009611538461538461
+284,this is me trying,Taylor Swift,disgust,0.003573076923076923
+284,this is me trying,Taylor Swift,joy,0.005046153846153846
+288,Redbone,Childish Gambino,trust,0.0048892733564013845
+288,Redbone,Childish Gambino,anger,0.009927335640138406
+288,Redbone,Childish Gambino,disgust,0.005242214532871972
+288,Redbone,Childish Gambino,joy,0.007948096885813149
+288,Redbone,Childish Gambino,anticipation,0.008190311418685122
+288,Redbone,Childish Gambino,surprise,0.006643598615916955
+288,Redbone,Childish Gambino,sadness,0.002069204152249135
+289,Just,Radiohead,disgust,0.010855769230769233
+289,Just,Radiohead,anger,0.010216346153846154
+289,Just,Radiohead,fear,0.010298076923076922
+289,Just,Radiohead,sadness,0.010427884615384615
+289,Just,Radiohead,trust,0.008259615384615384
+289,Just,Radiohead,joy,0.004442307692307692
+289,Just,Radiohead,surprise,0.001201923076923077
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,anger,0.038002262443438906
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,joy,0.012185520361990951
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,sadness,0.033787330316742074
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,disgust,0.01873303167420815
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,fear,0.021782805429864254
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,trust,0.00720814479638009
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,anticipation,0.009013574660633484
+287,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),A$AP Rocky,surprise,0.008411764705882351
+290,Vienna,Billy Joel,sadness,0.008900709219858156
+290,Vienna,Billy Joel,anger,0.010808510638297873
+290,Vienna,Billy Joel,fear,0.013861702127659576
+290,Vienna,Billy Joel,anticipation,0.012021276595744682
+290,Vienna,Billy Joel,joy,0.016138297872340425
+290,Vienna,Billy Joel,trust,0.012219858156028367
+290,Vienna,Billy Joel,disgust,0.002273049645390071
+290,Vienna,Billy Joel,surprise,0.0013581560283687944
+291,Heartless,Kanye West,sadness,0.02956709956709956
+291,Heartless,Kanye West,joy,0.0075346320346320345
+291,Heartless,Kanye West,anticipation,0.0022640692640692643
+291,Heartless,Kanye West,fear,0.004331168831168831
+291,Heartless,Kanye West,trust,0.004279220779220779
+291,Heartless,Kanye West,anger,0.005480519480519481
+291,Heartless,Kanye West,disgust,0.004378787878787878
+291,Heartless,Kanye West,surprise,0.0005064935064935065
+403,Basket Case,Green Day,anticipation,0.01032748538011696
+403,Basket Case,Green Day,disgust,0.011011695906432748
+403,Basket Case,Green Day,sadness,0.010491228070175438
+403,Basket Case,Green Day,fear,0.019011695906432747
+403,Basket Case,Green Day,trust,0.003380116959064328
+403,Basket Case,Green Day,joy,0.006906432748538012
+294,New Jeans,NewJeans,joy,0.002988505747126437
+294,New Jeans,NewJeans,trust,0.011126436781609196
+294,New Jeans,NewJeans,anticipation,0.005839080459770115
+363,Selfless,The Strokes,sadness,0.011876543209876543
+363,Selfless,The Strokes,joy,0.0365
+363,Selfless,The Strokes,anticipation,0.014895061728395064
+363,Selfless,The Strokes,trust,0.017604938271604937
+363,Selfless,The Strokes,disgust,0.009401234567901236
+363,Selfless,The Strokes,anger,0.004117283950617284
+363,Selfless,The Strokes,fear,0.008388888888888888
+293,Your face,Wisp,trust,0.006284313725490196
+293,Your face,Wisp,sadness,0.004137254901960784
+293,Your face,Wisp,disgust,0.0008431372549019607
+293,Your face,Wisp,joy,0.002911764705882353
+292,Image,Magdalena Bay,anticipation,0.0391
+292,Image,Magdalena Bay,surprise,0.002293333333333333
+292,Image,Magdalena Bay,trust,0.0375
+292,Image,Magdalena Bay,fear,0.007713333333333333
+292,Image,Magdalena Bay,joy,0.027646666666666667
+292,Image,Magdalena Bay,anger,0.017633333333333334
+295,The Blonde,TV Girl,anticipation,0.01258371040723982
+295,The Blonde,TV Girl,joy,0.01672398190045249
+295,The Blonde,TV Girl,trust,0.00957918552036199
+295,The Blonde,TV Girl,sadness,0.017886877828054298
+295,The Blonde,TV Girl,surprise,0.004945701357466063
+295,The Blonde,TV Girl,disgust,0.009298642533936653
+295,The Blonde,TV Girl,fear,0.005235294117647059
+295,The Blonde,TV Girl,anger,0.00385972850678733
+297,You Get Me So High,The Neighbourhood,anticipation,0.02988813559322034
+297,You Get Me So High,The Neighbourhood,joy,0.009315254237288136
+297,You Get Me So High,The Neighbourhood,surprise,0.00203728813559322
+297,You Get Me So High,The Neighbourhood,trust,0.013033898305084746
+297,You Get Me So High,The Neighbourhood,sadness,0.009003389830508475
+297,You Get Me So High,The Neighbourhood,fear,0.0038
+297,You Get Me So High,The Neighbourhood,anger,0.0035898305084745767
+297,You Get Me So High,The Neighbourhood,disgust,0.001006779661016949
+298,Like That,Future,fear,0.01744183168316832
+298,Like That,Future,anger,0.015579207920792076
+298,Like That,Future,disgust,0.011784653465346533
+298,Like That,Future,sadness,0.013236386138613864
+298,Like That,Future,surprise,0.006342821782178218
+298,Like That,Future,trust,0.029965346534653495
+298,Like That,Future,anticipation,0.0057735148514851484
+298,Like That,Future,joy,0.005954207920792078
+299,anything,Adrianne Lenker,sadness,0.012636363636363637
+299,anything,Adrianne Lenker,anger,0.01176883116883117
+299,anything,Adrianne Lenker,anticipation,0.02000779220779221
+299,anything,Adrianne Lenker,joy,0.023685714285714286
+299,anything,Adrianne Lenker,surprise,0.005755844155844157
+299,anything,Adrianne Lenker,trust,0.01690649350649351
+299,anything,Adrianne Lenker,disgust,0.0013792207792207793
+299,anything,Adrianne Lenker,fear,0.01358181818181818
+300,Blinding Lights,The Weeknd,anticipation,0.01028957528957529
+300,Blinding Lights,The Weeknd,trust,0.020393822393822394
+300,Blinding Lights,The Weeknd,joy,0.013362934362934361
+300,Blinding Lights,The Weeknd,fear,0.004521235521235521
+300,Blinding Lights,The Weeknd,disgust,0.0029266409266409266
+300,Blinding Lights,The Weeknd,anger,0.004687258687258687
+300,Blinding Lights,The Weeknd,sadness,0.009752895752895752
+300,Blinding Lights,The Weeknd,surprise,0.000664092664092664
+302,Breakin' Dishes,Rihanna,sadness,0.0030592783505154642
+302,Breakin' Dishes,Rihanna,anticipation,0.002961340206185567
+302,Breakin' Dishes,Rihanna,joy,0.007309278350515464
+302,Breakin' Dishes,Rihanna,disgust,0.0028170103092783503
+302,Breakin' Dishes,Rihanna,anger,0.021657216494845363
+302,Breakin' Dishes,Rihanna,fear,0.024884020618556706
+302,Breakin' Dishes,Rihanna,trust,0.004407216494845361
+304,Crazy Train,Ozzy Osbourne,anger,0.03572959183673469
+304,Crazy Train,Ozzy Osbourne,fear,0.04716326530612245
+304,Crazy Train,Ozzy Osbourne,sadness,0.025382653061224492
+304,Crazy Train,Ozzy Osbourne,joy,0.013142857142857144
+304,Crazy Train,Ozzy Osbourne,trust,0.012918367346938776
+304,Crazy Train,Ozzy Osbourne,disgust,0.010760204081632653
+304,Crazy Train,Ozzy Osbourne,anticipation,0.005897959183673469
+307,American Idiot,Green Day,disgust,0.01445
+307,American Idiot,Green Day,trust,0.02548888888888889
+307,American Idiot,Green Day,fear,0.022305555555555558
+307,American Idiot,Green Day,joy,0.023716666666666667
+307,American Idiot,Green Day,anger,0.03188333333333333
+307,American Idiot,Green Day,sadness,0.01151111111111111
+307,American Idiot,Green Day,anticipation,0.013083333333333334
+308,squabble up,Kendrick Lamar,anticipation,0.012791015625
+308,squabble up,Kendrick Lamar,fear,0.011134765625000001
+308,squabble up,Kendrick Lamar,joy,0.02026953125
+308,squabble up,Kendrick Lamar,trust,0.020761718749999998
+308,squabble up,Kendrick Lamar,sadness,0.007660156250000002
+308,squabble up,Kendrick Lamar,surprise,0.00451953125
+308,squabble up,Kendrick Lamar,anger,0.013564453125
+308,squabble up,Kendrick Lamar,disgust,0.009638671875000001
+405,Dancing Queen,ABBA,joy,0.06284037558685447
+405,Dancing Queen,ABBA,trust,0.012971830985915492
+405,Dancing Queen,ABBA,anticipation,0.01881220657276995
+405,Dancing Queen,ABBA,fear,0.002647887323943662
+405,Dancing Queen,ABBA,sadness,0.003816901408450704
+405,Dancing Queen,ABBA,surprise,0.007849765258215962
+405,Dancing Queen,ABBA,disgust,0.0006244131455399062
+306,Super Graphic Ultra Modern Girl,Chappell Roan,disgust,0.002450310559006211
+306,Super Graphic Ultra Modern Girl,Chappell Roan,sadness,0.005481366459627329
+306,Super Graphic Ultra Modern Girl,Chappell Roan,joy,0.02750310559006211
+306,Super Graphic Ultra Modern Girl,Chappell Roan,trust,0.01956832298136646
+306,Super Graphic Ultra Modern Girl,Chappell Roan,fear,0.0016490683229813665
+306,Super Graphic Ultra Modern Girl,Chappell Roan,anticipation,0.0014565217391304347
+309,RUNNING OUT OF TIME,"Tyler, The Creator",anticipation,0.03641444866920152
+309,RUNNING OUT OF TIME,"Tyler, The Creator",joy,0.02555513307984791
+309,RUNNING OUT OF TIME,"Tyler, The Creator",trust,0.035577946768060836
+309,RUNNING OUT OF TIME,"Tyler, The Creator",fear,0.002376425855513308
+309,RUNNING OUT OF TIME,"Tyler, The Creator",surprise,0.0029125475285171104
+309,RUNNING OUT OF TIME,"Tyler, The Creator",anger,0.0009923954372623575
+309,RUNNING OUT OF TIME,"Tyler, The Creator",disgust,0.0027034220532319393
+309,RUNNING OUT OF TIME,"Tyler, The Creator",sadness,0.001935361216730038
+310,R U Mine?,Arctic Monkeys,joy,0.036094915254237296
+310,R U Mine?,Arctic Monkeys,sadness,0.011776271186440678
+310,R U Mine?,Arctic Monkeys,trust,0.008203389830508475
+310,R U Mine?,Arctic Monkeys,disgust,0.001535593220338983
+310,R U Mine?,Arctic Monkeys,anger,0.0070203389830508466
+310,R U Mine?,Arctic Monkeys,fear,0.01220677966101695
+310,R U Mine?,Arctic Monkeys,surprise,0.005640677966101695
+310,R U Mine?,Arctic Monkeys,anticipation,0.01601694915254237
+311,THE GREATEST,Billie Eilish,joy,0.03942982456140351
+311,THE GREATEST,Billie Eilish,sadness,0.0074956140350877195
+311,THE GREATEST,Billie Eilish,trust,0.033517543859649127
+311,THE GREATEST,Billie Eilish,anticipation,0.013328947368421053
+311,THE GREATEST,Billie Eilish,surprise,0.00880263157894737
+311,THE GREATEST,Billie Eilish,anger,0.014171052631578947
+311,THE GREATEST,Billie Eilish,fear,0.00781140350877193
+311,THE GREATEST,Billie Eilish,disgust,0.0030482456140350873
+313,Glue Song,beabadoobee,trust,0.025586206896551725
+313,Glue Song,beabadoobee,joy,0.01953448275862069
+313,Glue Song,beabadoobee,anticipation,0.013198275862068965
+313,Glue Song,beabadoobee,surprise,0.006120689655172413
+313,Glue Song,beabadoobee,sadness,0.003267241379310345
+313,Glue Song,beabadoobee,anger,0.004051724137931034
+313,Glue Song,beabadoobee,disgust,0.005318965517241379
+314,Crazy In Love (feat. JAY-Z),Beyoncé,anger,0.023905118601747814
+314,Crazy In Love (feat. JAY-Z),Beyoncé,fear,0.04030087390761543
+314,Crazy In Love (feat. JAY-Z),Beyoncé,sadness,0.016826466916354567
+314,Crazy In Love (feat. JAY-Z),Beyoncé,anticipation,0.006434456928838951
+314,Crazy In Love (feat. JAY-Z),Beyoncé,surprise,0.0021910112359550564
+314,Crazy In Love (feat. JAY-Z),Beyoncé,trust,0.02112359550561798
+314,Crazy In Love (feat. JAY-Z),Beyoncé,joy,0.02373408239700374
+314,Crazy In Love (feat. JAY-Z),Beyoncé,disgust,0.0027403245942571783
+315,LVL,A$AP Rocky,anger,0.01173012048192771
+315,LVL,A$AP Rocky,disgust,0.005474698795180723
+315,LVL,A$AP Rocky,fear,0.006732530120481928
+315,LVL,A$AP Rocky,sadness,0.004816867469879518
+315,LVL,A$AP Rocky,surprise,0.003310843373493976
+315,LVL,A$AP Rocky,trust,0.02155421686746988
+315,LVL,A$AP Rocky,joy,0.01724096385542169
+315,LVL,A$AP Rocky,anticipation,0.010506024096385541
+316,That's What I Like,Bruno Mars,joy,0.03713246268656716
+316,That's What I Like,Bruno Mars,surprise,0.01641044776119403
+316,That's What I Like,Bruno Mars,disgust,0.0005690298507462687
+316,That's What I Like,Bruno Mars,trust,0.0383600746268657
+316,That's What I Like,Bruno Mars,anger,0.0013134328358208954
+316,That's What I Like,Bruno Mars,anticipation,0.010059701492537312
+316,That's What I Like,Bruno Mars,fear,0.003559701492537313
+316,That's What I Like,Bruno Mars,sadness,0.0006119402985074627
+317,twilight zone,Ariana Grande,joy,0.008420494699646642
+317,twilight zone,Ariana Grande,fear,0.005318021201413427
+317,twilight zone,Ariana Grande,disgust,0.0004699646643109541
+317,twilight zone,Ariana Grande,sadness,0.006307420494699647
+317,twilight zone,Ariana Grande,anticipation,0.005462897526501767
+317,twilight zone,Ariana Grande,surprise,0.007650176678445229
+317,twilight zone,Ariana Grande,trust,0.01476325088339223
+318,I Love It (feat. Charli XCX),Icona Pop,joy,0.049211221122112195
+318,I Love It (feat. Charli XCX),Icona Pop,sadness,0.018198019801980197
+318,I Love It (feat. Charli XCX),Icona Pop,anger,0.016795379537953795
+318,I Love It (feat. Charli XCX),Icona Pop,disgust,0.015696369636963695
+318,I Love It (feat. Charli XCX),Icona Pop,trust,0.04094389438943893
+318,I Love It (feat. Charli XCX),Icona Pop,anticipation,0.0036633663366336636
+318,I Love It (feat. Charli XCX),Icona Pop,fear,0.010475247524752476
+318,I Love It (feat. Charli XCX),Icona Pop,surprise,0.0023696369636963697
+319,Telephones,Vacations,joy,0.010620000000000001
+319,Telephones,Vacations,sadness,0.00418
+320,Young And Beautiful,Lana Del Rey,anticipation,0.006022875816993464
+320,Young And Beautiful,Lana Del Rey,joy,0.07556535947712416
+320,Young And Beautiful,Lana Del Rey,trust,0.03955228758169934
+320,Young And Beautiful,Lana Del Rey,anger,0.005091503267973856
+320,Young And Beautiful,Lana Del Rey,surprise,0.004366013071895425
+320,Young And Beautiful,Lana Del Rey,fear,0.0016960784313725492
+320,Young And Beautiful,Lana Del Rey,sadness,0.006535947712418301
+320,Young And Beautiful,Lana Del Rey,disgust,0.0004084967320261438
+322,Brain Stew,Green Day,anticipation,0.006649253731343284
+322,Brain Stew,Green Day,joy,0.0034999999999999996
+322,Brain Stew,Green Day,disgust,0.005074626865671642
+322,Brain Stew,Green Day,trust,0.007223880597014926
+322,Brain Stew,Green Day,surprise,0.0025671641791044776
+322,Brain Stew,Green Day,fear,0.001746268656716418
+322,Brain Stew,Green Day,anger,0.0021492537313432835
+322,Brain Stew,Green Day,sadness,0.004298507462686567
+321,Slow Dance,Clairo,fear,0.0012746781115879828
+321,Slow Dance,Clairo,joy,0.012390557939914164
+321,Slow Dance,Clairo,sadness,0.01807296137339056
+321,Slow Dance,Clairo,disgust,0.003424892703862661
+321,Slow Dance,Clairo,trust,0.004858369098712446
+323,Lovefool,The Cardigans,anger,0.007347682119205299
+323,Lovefool,The Cardigans,fear,0.005274834437086093
+323,Lovefool,The Cardigans,sadness,0.029456953642384102
+323,Lovefool,The Cardigans,joy,0.0709139072847682
+323,Lovefool,The Cardigans,trust,0.06365562913907281
+323,Lovefool,The Cardigans,anticipation,0.004966887417218543
+323,Lovefool,The Cardigans,surprise,0.009122516556291392
+323,Lovefool,The Cardigans,disgust,0.01373841059602649
+325,The Scientist,Coldplay,anticipation,0.022770053475935827
+325,The Scientist,Coldplay,joy,0.013320855614973263
+325,The Scientist,Coldplay,sadness,0.006401069518716578
+325,The Scientist,Coldplay,surprise,0.008320855614973262
+325,The Scientist,Coldplay,trust,0.008438502673796791
+325,The Scientist,Coldplay,disgust,0.005764705882352942
+325,The Scientist,Coldplay,fear,0.008609625668449198
+328,3005,Childish Gambino,trust,0.020757396449704146
+328,3005,Childish Gambino,sadness,0.012220414201183433
+328,3005,Childish Gambino,anticipation,0.012112426035502957
+328,3005,Childish Gambino,joy,0.01846449704142012
+328,3005,Childish Gambino,surprise,0.0033402366863905324
+328,3005,Childish Gambino,fear,0.0059452662721893495
+328,3005,Childish Gambino,anger,0.0029082840236686392
+328,3005,Childish Gambino,disgust,0.003801775147928994
+84,cardigan,Taylor Swift,joy,0.025020833333333332
+84,cardigan,Taylor Swift,surprise,0.0073898809523809525
+84,cardigan,Taylor Swift,trust,0.023657738095238096
+84,cardigan,Taylor Swift,anticipation,0.013952380952380952
+84,cardigan,Taylor Swift,anger,0.004741071428571429
+84,cardigan,Taylor Swift,disgust,0.0033482142857142855
+84,cardigan,Taylor Swift,fear,0.0060327380952380945
+84,cardigan,Taylor Swift,sadness,0.006220238095238095
+326,Messy,Lola Young,anticipation,0.010721568627450983
+326,Messy,Lola Young,fear,0.022858823529411765
+326,Messy,Lola Young,sadness,0.0312686274509804
+326,Messy,Lola Young,surprise,0.002527450980392157
+326,Messy,Lola Young,trust,0.015315686274509804
+326,Messy,Lola Young,joy,0.013601960784313728
+326,Messy,Lola Young,anger,0.031115686274509793
+326,Messy,Lola Young,disgust,0.029156862745098044
+330,mirrorball,Taylor Swift,trust,0.018748062015503875
+330,mirrorball,Taylor Swift,joy,0.04010077519379845
+330,mirrorball,Taylor Swift,surprise,0.007120155038759689
+330,mirrorball,Taylor Swift,anticipation,0.016786821705426357
+330,mirrorball,Taylor Swift,fear,0.005957364341085271
+330,mirrorball,Taylor Swift,sadness,0.0035310077519379846
+334,Meet Me Halfway,Black Eyed Peas,sadness,0.01341052631578947
+334,Meet Me Halfway,Black Eyed Peas,anticipation,0.005475789473684212
+334,Meet Me Halfway,Black Eyed Peas,anger,0.008054736842105262
+334,Meet Me Halfway,Black Eyed Peas,fear,0.009978947368421053
+334,Meet Me Halfway,Black Eyed Peas,joy,0.007781052631578948
+334,Meet Me Halfway,Black Eyed Peas,disgust,0.004115789473684211
+334,Meet Me Halfway,Black Eyed Peas,trust,0.00528
+331,Glimpse of Us,Joji,disgust,0.0020902777777777777
+331,Glimpse of Us,Joji,sadness,0.008586805555555556
+331,Glimpse of Us,Joji,joy,0.013996527777777776
+331,Glimpse of Us,Joji,anticipation,0.012968750000000001
+331,Glimpse of Us,Joji,trust,0.0053993055555555565
+331,Glimpse of Us,Joji,surprise,0.0020902777777777777
+331,Glimpse of Us,Joji,anger,0.0003784722222222222
+331,Glimpse of Us,Joji,fear,0.0006354166666666666
+333,Run Your Mouth,The Marías,anticipation,0.012314685314685315
+333,Run Your Mouth,The Marías,trust,0.006447552447552448
+333,Run Your Mouth,The Marías,fear,0.0038251748251748245
+333,Run Your Mouth,The Marías,surprise,0.004181818181818181
+333,Run Your Mouth,The Marías,sadness,0.0007972027972027973
+333,Run Your Mouth,The Marías,joy,0.0032237762237762235
+333,Run Your Mouth,The Marías,anger,0.007503496503496503
+333,Run Your Mouth,The Marías,disgust,0.006664335664335664
+335,Pink Matter,Frank Ocean,disgust,0.013437974683544303
+335,Pink Matter,Frank Ocean,sadness,0.01999746835443038
+335,Pink Matter,Frank Ocean,trust,0.026546835443037983
+335,Pink Matter,Frank Ocean,anticipation,0.010541772151898733
+335,Pink Matter,Frank Ocean,joy,0.03517721518987343
+335,Pink Matter,Frank Ocean,fear,0.021134177215189877
+335,Pink Matter,Frank Ocean,anger,0.01690379746835443
+335,Pink Matter,Frank Ocean,surprise,0.006787341772151898
+336,Teenage Dirtbag,Wheatus,joy,0.020077235772357725
+336,Teenage Dirtbag,Wheatus,anger,0.014459349593495935
+336,Teenage Dirtbag,Wheatus,disgust,0.005585365853658536
+336,Teenage Dirtbag,Wheatus,trust,0.014378048780487806
+336,Teenage Dirtbag,Wheatus,fear,0.003727642276422764
+336,Teenage Dirtbag,Wheatus,sadness,0.0026666666666666666
+337,supernatural,Ariana Grande,disgust,0.0034797687861271675
+337,supernatural,Ariana Grande,anger,0.007710982658959538
+337,supernatural,Ariana Grande,fear,0.009127167630057803
+337,supernatural,Ariana Grande,sadness,0.004832369942196531
+337,supernatural,Ariana Grande,trust,0.020982658959537572
+337,supernatural,Ariana Grande,anticipation,0.003838150289017341
+338,Happier Than Ever,Billie Eilish,joy,0.01938123167155425
+338,Happier Than Ever,Billie Eilish,trust,0.013237536656891495
+338,Happier Than Ever,Billie Eilish,anticipation,0.010953079178885631
+338,Happier Than Ever,Billie Eilish,fear,0.01246041055718475
+338,Happier Than Ever,Billie Eilish,anger,0.010560117302052785
+338,Happier Than Ever,Billie Eilish,disgust,0.012736070381231668
+338,Happier Than Ever,Billie Eilish,sadness,0.018604105571847506
+338,Happier Than Ever,Billie Eilish,surprise,0.00393841642228739
+339,LoveGame,Lady Gaga,anticipation,0.007596396396396397
+339,LoveGame,Lady Gaga,joy,0.07231711711711714
+339,LoveGame,Lady Gaga,disgust,0.006616216216216215
+339,LoveGame,Lady Gaga,sadness,0.006987387387387388
+339,LoveGame,Lady Gaga,surprise,0.0017999999999999997
+339,LoveGame,Lady Gaga,trust,0.0563477477477477
+339,LoveGame,Lady Gaga,anger,0.005237837837837838
+339,LoveGame,Lady Gaga,fear,0.0013513513513513514
+341,Welcome to the Black Parade,My Chemical Romance,trust,0.015065708418891169
+341,Welcome to the Black Parade,My Chemical Romance,anticipation,0.008560574948665299
+341,Welcome to the Black Parade,My Chemical Romance,joy,0.01869815195071869
+341,Welcome to the Black Parade,My Chemical Romance,anger,0.010948665297741272
+341,Welcome to the Black Parade,My Chemical Romance,fear,0.01892607802874743
+341,Welcome to the Black Parade,My Chemical Romance,sadness,0.03148254620123202
+341,Welcome to the Black Parade,My Chemical Romance,surprise,0.008726899383983572
+341,Welcome to the Black Parade,My Chemical Romance,disgust,0.0045564681724846
+342,Unwritten,Natasha Bedingfield,disgust,0.004917570498915401
+342,Unwritten,Natasha Bedingfield,anticipation,0.0067613882863340555
+342,Unwritten,Natasha Bedingfield,joy,0.020750542299349233
+342,Unwritten,Natasha Bedingfield,surprise,0.005678958785249459
+342,Unwritten,Natasha Bedingfield,trust,0.0031388286334056398
+342,Unwritten,Natasha Bedingfield,anger,0.0017483731019522783
+342,Unwritten,Natasha Bedingfield,sadness,0.001767895878524946
+342,Unwritten,Natasha Bedingfield,fear,6.724511930585683e-05
+349,Headlines,Drake,anticipation,0.015552062868369352
+349,Headlines,Drake,fear,0.0007367387033398821
+349,Headlines,Drake,joy,0.009927308447937131
+349,Headlines,Drake,trust,0.023125736738703342
+349,Headlines,Drake,anger,0.005946954813359528
+349,Headlines,Drake,disgust,0.005339882121807465
+349,Headlines,Drake,sadness,0.0059214145383104135
+349,Headlines,Drake,surprise,0.007257367387033399
+345,Location,Playboi Carti,anger,0.012556776556776554
+345,Location,Playboi Carti,sadness,0.006305860805860804
+345,Location,Playboi Carti,trust,0.01369047619047619
+345,Location,Playboi Carti,fear,0.006155677655677656
+345,Location,Playboi Carti,anticipation,0.0031318681318681318
+345,Location,Playboi Carti,disgust,0.005205128205128205
+345,Location,Playboi Carti,joy,0.0028003663003663003
+345,Location,Playboi Carti,surprise,0.0005714285714285715
+346,Ghost Town,Kanye West,trust,0.02291008174386921
+346,Ghost Town,Kanye West,anticipation,0.0054277929155313355
+346,Ghost Town,Kanye West,joy,0.01889645776566758
+346,Ghost Town,Kanye West,sadness,0.002
+346,Ghost Town,Kanye West,fear,0.0002561307901907357
+346,Ghost Town,Kanye West,anger,0.0018174386920980928
+346,Ghost Town,Kanye West,disgust,0.00023433242506811988
+347,TV,Billie Eilish,anticipation,0.009062717770034843
+347,TV,Billie Eilish,fear,0.023797909407665505
+347,TV,Billie Eilish,sadness,0.03881533101045297
+347,TV,Billie Eilish,surprise,0.006585365853658537
+347,TV,Billie Eilish,anger,0.004574912891986063
+347,TV,Billie Eilish,disgust,0.003484320557491289
+347,TV,Billie Eilish,joy,0.04115679442508711
+347,TV,Billie Eilish,trust,0.011407665505226481
+348,Mascara,Deftones,fear,0.04164556962025316
+348,Mascara,Deftones,anticipation,0.013936708860759494
+348,Mascara,Deftones,anger,0.027683544303797467
+348,Mascara,Deftones,disgust,0.023645569620253163
+348,Mascara,Deftones,sadness,0.028088607594936706
+344,Hey Mama,Black Eyed Peas,anger,0.016028831562974206
+344,Hey Mama,Black Eyed Peas,disgust,0.011449165402124432
+344,Hey Mama,Black Eyed Peas,fear,0.015924127465857363
+344,Hey Mama,Black Eyed Peas,surprise,0.011801213960546285
+344,Hey Mama,Black Eyed Peas,joy,0.01743550834597876
+344,Hey Mama,Black Eyed Peas,sadness,0.004464339908952959
+344,Hey Mama,Black Eyed Peas,trust,0.01788619119878604
+344,Hey Mama,Black Eyed Peas,anticipation,0.006127465857359636
+351,the 1,Taylor Swift,anticipation,0.021195439739413683
+351,the 1,Taylor Swift,joy,0.026345276872964174
+351,the 1,Taylor Swift,surprise,0.003967426710097721
+351,the 1,Taylor Swift,trust,0.013026058631921826
+351,the 1,Taylor Swift,anger,0.012231270358306187
+351,the 1,Taylor Swift,disgust,0.005342019543973941
+351,the 1,Taylor Swift,fear,0.004351791530944626
+351,the 1,Taylor Swift,sadness,0.009964169381107491
+353,traitor,Olivia Rodrigo,anger,0.022099447513812154
+353,traitor,Olivia Rodrigo,sadness,0.028787292817679555
+353,traitor,Olivia Rodrigo,fear,0.01990331491712707
+353,traitor,Olivia Rodrigo,joy,0.024878453038674034
+353,traitor,Olivia Rodrigo,disgust,0.014251381215469615
+353,traitor,Olivia Rodrigo,trust,0.022621546961325966
+353,traitor,Olivia Rodrigo,surprise,0.00394475138121547
+353,traitor,Olivia Rodrigo,anticipation,0.00808839779005525
+354,First Love/Late Spring,Mitski,joy,0.037966480446927374
+354,First Love/Late Spring,Mitski,anticipation,0.02346927374301676
+354,First Love/Late Spring,Mitski,surprise,0.00876536312849162
+354,First Love/Late Spring,Mitski,trust,0.02675977653631285
+354,First Love/Late Spring,Mitski,anger,0.0
+354,First Love/Late Spring,Mitski,disgust,0.004675977653631285
+354,First Love/Late Spring,Mitski,fear,0.004625698324022346
+354,First Love/Late Spring,Mitski,sadness,0.012307262569832405
+355,The Spins,Mac Miller,anger,0.00899548532731377
+355,The Spins,Mac Miller,disgust,0.005869074492099323
+355,The Spins,Mac Miller,trust,0.023293453724604965
+355,The Spins,Mac Miller,joy,0.02503160270880361
+355,The Spins,Mac Miller,anticipation,0.009257336343115125
+355,The Spins,Mac Miller,fear,0.0058555304740406326
+355,The Spins,Mac Miller,surprise,0.002979683972911964
+355,The Spins,Mac Miller,sadness,0.00810609480812641
+362,Saturn,SZA,joy,0.017826415094339625
+362,Saturn,SZA,anger,0.01863396226415094
+362,Saturn,SZA,sadness,0.021064150943396226
+362,Saturn,SZA,trust,0.017037735849056605
+362,Saturn,SZA,fear,0.021762264150943397
+362,Saturn,SZA,disgust,0.016739622641509435
+362,Saturn,SZA,surprise,0.01190943396226415
+362,Saturn,SZA,anticipation,0.005366037735849057
+356,Summerboy,Lady Gaga,anticipation,0.018208588957055218
+356,Summerboy,Lady Gaga,joy,0.039840490797546
+356,Summerboy,Lady Gaga,anger,0.00404601226993865
+356,Summerboy,Lady Gaga,fear,0.005794478527607362
+356,Summerboy,Lady Gaga,sadness,0.029963190184049075
+356,Summerboy,Lady Gaga,surprise,0.0031656441717791404
+356,Summerboy,Lady Gaga,trust,0.009493865030674847
+356,Summerboy,Lady Gaga,disgust,0.00026380368098159507
+357,Moonlight,Kali Uchis,anticipation,0.03722469135802469
+357,Moonlight,Kali Uchis,joy,0.04764938271604937
+357,Moonlight,Kali Uchis,trust,0.01694567901234568
+357,Moonlight,Kali Uchis,surprise,0.010496296296296295
+357,Moonlight,Kali Uchis,anger,0.002106172839506173
+357,Moonlight,Kali Uchis,disgust,0.001891358024691358
+357,Moonlight,Kali Uchis,fear,0.004209876543209877
+357,Moonlight,Kali Uchis,sadness,0.0025382716049382717
+404,Don't Dream It's Over,Crowded House,joy,0.03438152610441767
+404,Don't Dream It's Over,Crowded House,trust,0.011710843373493977
+404,Don't Dream It's Over,Crowded House,surprise,0.00680722891566265
+404,Don't Dream It's Over,Crowded House,fear,0.007823293172690763
+404,Don't Dream It's Over,Crowded House,sadness,0.00621285140562249
+404,Don't Dream It's Over,Crowded House,anger,0.003389558232931727
+404,Don't Dream It's Over,Crowded House,disgust,0.003891566265060241
+404,Don't Dream It's Over,Crowded House,anticipation,0.00514859437751004
+227,Debut,KATSEYE,joy,0.04615476190476189
+227,Debut,KATSEYE,trust,0.0485238095238095
+227,Debut,KATSEYE,anticipation,0.008511904761904762
+227,Debut,KATSEYE,fear,0.010744047619047618
+227,Debut,KATSEYE,anger,0.00399702380952381
+227,Debut,KATSEYE,disgust,0.0003958333333333334
+227,Debut,KATSEYE,sadness,0.0023005952380952383
+364,Kids,MGMT,anticipation,0.010778280542986426
+364,Kids,MGMT,joy,0.03472850678733032
+364,Kids,MGMT,trust,0.008479638009049774
+364,Kids,MGMT,fear,0.02227149321266968
+364,Kids,MGMT,sadness,0.017257918552036202
+364,Kids,MGMT,anger,0.002538461538461539
+364,Kids,MGMT,surprise,0.0018009049773755658
+365,Snooze,SZA,fear,0.016776255707762557
+365,Snooze,SZA,anger,0.020381278538812775
+365,Snooze,SZA,disgust,0.015031963470319635
+365,Snooze,SZA,sadness,0.021938356164383565
+365,Snooze,SZA,anticipation,0.004707762557077626
+365,Snooze,SZA,trust,0.026942922374429225
+365,Snooze,SZA,surprise,0.007189497716894977
+365,Snooze,SZA,joy,0.004874429223744293
+366,illicit affairs,Taylor Swift,sadness,0.017866108786610876
+366,illicit affairs,Taylor Swift,surprise,0.005945606694560669
+366,illicit affairs,Taylor Swift,anger,0.01925941422594142
+366,illicit affairs,Taylor Swift,disgust,0.020527196652719668
+366,illicit affairs,Taylor Swift,fear,0.012690376569037659
+366,illicit affairs,Taylor Swift,joy,0.013853556485355651
+366,illicit affairs,Taylor Swift,trust,0.011866108786610879
+366,illicit affairs,Taylor Swift,anticipation,0.004677824267782426
+368,Something About You,Eyedress,joy,0.030416289592760184
+368,Something About You,Eyedress,anger,0.009230769230769232
+368,Something About You,Eyedress,anticipation,0.020782805429864253
+368,Something About You,Eyedress,fear,0.005914027149321268
+368,Something About You,Eyedress,sadness,0.0014841628959276019
+368,Something About You,Eyedress,surprise,0.006895927601809955
+368,Something About You,Eyedress,trust,0.014773755656108596
+369,It Almost Worked,TV Girl,joy,0.005224299065420561
+369,It Almost Worked,TV Girl,anger,0.008495327102803738
+369,It Almost Worked,TV Girl,fear,0.010953271028037382
+369,It Almost Worked,TV Girl,sadness,0.023140186915887845
+369,It Almost Worked,TV Girl,disgust,0.004158878504672898
+369,It Almost Worked,TV Girl,anticipation,0.0069345794392523365
+369,It Almost Worked,TV Girl,surprise,0.0013831775700934579
+369,It Almost Worked,TV Girl,trust,0.004457943925233645
+370,Self Control,Frank Ocean,joy,0.013902208201892745
+370,Self Control,Frank Ocean,fear,0.0016750788643533124
+370,Self Control,Frank Ocean,anticipation,0.003993690851735016
+370,Self Control,Frank Ocean,sadness,0.020946372239747636
+370,Self Control,Frank Ocean,anger,0.00210410094637224
+370,Self Control,Frank Ocean,trust,0.007735015772870662
+370,Self Control,Frank Ocean,disgust,0.0007886435331230284
+370,Self Control,Frank Ocean,surprise,0.00785173501577287
+371,Walking On A Dream,Empire Of The Sun,joy,0.0299484126984127
+371,Walking On A Dream,Empire Of The Sun,trust,0.02207936507936508
+371,Walking On A Dream,Empire Of The Sun,anticipation,0.02042857142857143
+371,Walking On A Dream,Empire Of The Sun,fear,0.005214285714285715
+371,Walking On A Dream,Empire Of The Sun,surprise,0.024436507936507937
+371,Walking On A Dream,Empire Of The Sun,sadness,0.00780952380952381
+372,This Love,Maroon 5,fear,0.010845029239766083
+372,This Love,Maroon 5,anger,0.004049707602339182
+372,This Love,Maroon 5,sadness,0.019327485380116957
+372,This Love,Maroon 5,disgust,0.0006403508771929825
+372,This Love,Maroon 5,joy,0.029605263157894735
+372,This Love,Maroon 5,trust,0.01692982456140351
+372,This Love,Maroon 5,anticipation,0.001850877192982456
+372,This Love,Maroon 5,surprise,0.0006842105263157895
+373,goosebumps,Travis Scott,anticipation,0.014623636363636363
+373,goosebumps,Travis Scott,joy,0.011438181818181818
+373,goosebumps,Travis Scott,disgust,0.0016472727272727273
+373,goosebumps,Travis Scott,fear,0.01147090909090909
+373,goosebumps,Travis Scott,sadness,0.009116363636363636
+373,goosebumps,Travis Scott,anger,0.006630909090909091
+373,goosebumps,Travis Scott,surprise,0.002216363636363636
+373,goosebumps,Travis Scott,trust,0.0096
+374,Stars,PinkPantheress,joy,0.00895010395010395
+374,Stars,PinkPantheress,sadness,0.0024365904365904363
+374,Stars,PinkPantheress,surprise,0.0004864864864864865
+374,Stars,PinkPantheress,trust,0.007047817047817048
+374,Stars,PinkPantheress,anger,0.003688149688149688
+374,Stars,PinkPantheress,disgust,0.002746361746361747
+374,Stars,PinkPantheress,fear,0.0024365904365904363
+374,Stars,PinkPantheress,anticipation,0.00401039501039501
+375,Duality,Slipknot,sadness,0.018858288770053477
+375,Duality,Slipknot,joy,0.013473262032085563
+375,Duality,Slipknot,fear,0.02646524064171123
+375,Duality,Slipknot,anticipation,0.0030294117647058825
+375,Duality,Slipknot,trust,0.01144385026737968
+375,Duality,Slipknot,surprise,0.0023155080213903743
+375,Duality,Slipknot,anger,0.01660427807486631
+379,get him back!,Olivia Rodrigo,anticipation,0.011943019943019944
+379,get him back!,Olivia Rodrigo,joy,0.020514245014245015
+379,get him back!,Olivia Rodrigo,anger,0.014131054131054128
+379,get him back!,Olivia Rodrigo,trust,0.013813390313390317
+379,get him back!,Olivia Rodrigo,disgust,0.009103988603988604
+379,get him back!,Olivia Rodrigo,sadness,0.015135327635327638
+379,get him back!,Olivia Rodrigo,fear,0.0079002849002849
+379,get him back!,Olivia Rodrigo,surprise,0.007887464387464389
+381,Knockin' On Heaven's Door,Bob Dylan,trust,0.04764814814814815
+381,Knockin' On Heaven's Door,Bob Dylan,sadness,0.012694444444444444
+381,Knockin' On Heaven's Door,Bob Dylan,joy,0.05770370370370371
+381,Knockin' On Heaven's Door,Bob Dylan,anger,0.006222222222222223
+381,Knockin' On Heaven's Door,Bob Dylan,fear,0.006796296296296296
+381,Knockin' On Heaven's Door,Bob Dylan,anticipation,0.009620370370370371
+377,Sweet Boy,Malcolm Todd,joy,0.033513043478260875
+377,Sweet Boy,Malcolm Todd,anticipation,0.02163913043478261
+377,Sweet Boy,Malcolm Todd,anger,0.019347826086956524
+377,Sweet Boy,Malcolm Todd,fear,0.02066521739130435
+377,Sweet Boy,Malcolm Todd,sadness,0.02479130434782609
+377,Sweet Boy,Malcolm Todd,trust,0.006656521739130434
+377,Sweet Boy,Malcolm Todd,disgust,0.010117391304347826
+377,Sweet Boy,Malcolm Todd,surprise,0.004043478260869565
+384,the boy is mine,Ariana Grande,joy,0.03165625
+384,the boy is mine,Ariana Grande,trust,0.017947916666666668
+384,the boy is mine,Ariana Grande,anticipation,0.02179861111111111
+384,the boy is mine,Ariana Grande,fear,0.002611111111111111
+384,the boy is mine,Ariana Grande,disgust,0.005263888888888889
+384,the boy is mine,Ariana Grande,anger,0.0019895833333333332
+385,Wicked Game,Chris Isaak,fear,0.0170561797752809
+385,Wicked Game,Chris Isaak,joy,0.05678651685393259
+385,Wicked Game,Chris Isaak,trust,0.03133333333333333
+385,Wicked Game,Chris Isaak,surprise,0.02370786516853933
+385,Wicked Game,Chris Isaak,anger,0.001955056179775281
+385,Wicked Game,Chris Isaak,disgust,0.0018726591760299626
+385,Wicked Game,Chris Isaak,sadness,0.013205992509363296
+386,"You're On Your Own, Kid",Taylor Swift,joy,0.034848484848484844
+386,"You're On Your Own, Kid",Taylor Swift,anticipation,0.01349158249158249
+386,"You're On Your Own, Kid",Taylor Swift,trust,0.008441077441077442
+386,"You're On Your Own, Kid",Taylor Swift,sadness,0.0055218855218855225
+386,"You're On Your Own, Kid",Taylor Swift,fear,0.008872053872053873
+386,"You're On Your Own, Kid",Taylor Swift,surprise,0.0030235690235690237
+386,"You're On Your Own, Kid",Taylor Swift,anger,0.001127946127946128
+386,"You're On Your Own, Kid",Taylor Swift,disgust,0.0008417508417508417
+388,all-american bitch,Olivia Rodrigo,joy,0.04638188976377953
+388,all-american bitch,Olivia Rodrigo,anticipation,0.029999999999999995
+388,all-american bitch,Olivia Rodrigo,trust,0.05287007874015747
+388,all-american bitch,Olivia Rodrigo,anger,0.02006692913385827
+388,all-american bitch,Olivia Rodrigo,disgust,0.010673228346456695
+388,all-american bitch,Olivia Rodrigo,fear,0.010830708661417322
+388,all-american bitch,Olivia Rodrigo,sadness,0.013480314960629921
+388,all-american bitch,Olivia Rodrigo,surprise,0.006125984251968504
+389,Friends,Chase Atlantic,anticipation,0.028396825396825393
+389,Friends,Chase Atlantic,trust,0.009095238095238094
+389,Friends,Chase Atlantic,sadness,0.00801058201058201
+389,Friends,Chase Atlantic,anger,0.0059867724867724865
+389,Friends,Chase Atlantic,disgust,0.004380952380952381
+389,Friends,Chase Atlantic,joy,0.0184973544973545
+389,Friends,Chase Atlantic,fear,0.007198412698412698
+392,Eventually,Tame Impala,trust,0.034976744186046516
+392,Eventually,Tame Impala,anger,0.008476744186046513
+392,Eventually,Tame Impala,disgust,0.005651162790697674
+392,Eventually,Tame Impala,fear,0.013052325581395347
+392,Eventually,Tame Impala,sadness,0.008813953488372094
+392,Eventually,Tame Impala,surprise,0.0035872093023255813
+392,Eventually,Tame Impala,joy,0.0288953488372093
+392,Eventually,Tame Impala,anticipation,0.003
+393,drivers license,Olivia Rodrigo,trust,0.016760989010989012
+393,drivers license,Olivia Rodrigo,anticipation,0.008923076923076922
+393,drivers license,Olivia Rodrigo,joy,0.02276648351648352
+393,drivers license,Olivia Rodrigo,surprise,0.005813186813186814
+393,drivers license,Olivia Rodrigo,disgust,0.00034340659340659343
+393,drivers license,Olivia Rodrigo,sadness,0.016997252747252747
+393,drivers license,Olivia Rodrigo,fear,0.00264010989010989
+393,drivers license,Olivia Rodrigo,anger,0.0005164835164835165
+394,Blue Hair,TV Girl,joy,0.016440251572327043
+394,Blue Hair,TV Girl,surprise,0.008641509433962264
+394,Blue Hair,TV Girl,trust,0.014779874213836478
+394,Blue Hair,TV Girl,sadness,0.024534591194968553
+394,Blue Hair,TV Girl,anticipation,0.009333333333333334
+394,Blue Hair,TV Girl,anger,0.005528301886792453
+394,Blue Hair,TV Girl,disgust,0.00289937106918239
+394,Blue Hair,TV Girl,fear,0.0030440251572327044
+395,Hey Ya!,Outkast,joy,0.013144989339019189
+395,Hey Ya!,Outkast,disgust,0.0015671641791044778
+395,Hey Ya!,Outkast,anger,0.004010660980810234
+395,Hey Ya!,Outkast,fear,0.01855223880597015
+395,Hey Ya!,Outkast,anticipation,0.004880597014925374
+395,Hey Ya!,Outkast,sadness,0.0056417910447761205
+395,Hey Ya!,Outkast,surprise,0.00273134328358209
+395,Hey Ya!,Outkast,trust,0.014927505330490405
+391,Will I See You Again?,Thee Sacred Souls,joy,0.033777003484320556
+391,Will I See You Again?,Thee Sacred Souls,trust,0.014397212543554005
+391,Will I See You Again?,Thee Sacred Souls,sadness,0.0012439024390243905
+391,Will I See You Again?,Thee Sacred Souls,anger,0.0006097560975609756
+391,Will I See You Again?,Thee Sacred Souls,anticipation,0.008142857142857143
+391,Will I See You Again?,Thee Sacred Souls,disgust,0.00027177700348432054
+391,Will I See You Again?,Thee Sacred Souls,fear,0.0003275261324041812
+391,Will I See You Again?,Thee Sacred Souls,surprise,0.0077351916376306624
+390,the way things go,beabadoobee,surprise,0.01925806451612903
+390,the way things go,beabadoobee,disgust,0.002774193548387096
+390,the way things go,beabadoobee,joy,0.012067741935483869
+390,the way things go,beabadoobee,trust,0.011870967741935483
+390,the way things go,beabadoobee,sadness,0.0032451612903225805
+390,the way things go,beabadoobee,anticipation,0.0031258064516129034
+396,Riptide,Vance Joy,fear,0.0060679886685552405
+396,Riptide,Vance Joy,sadness,0.01353257790368272
+396,Riptide,Vance Joy,anticipation,0.01129745042492918
+396,Riptide,Vance Joy,joy,0.030297450424929175
+396,Riptide,Vance Joy,trust,0.0238385269121813
+396,Riptide,Vance Joy,anger,0.0010538243626062322
+396,Riptide,Vance Joy,surprise,0.0009745042492917846
+397,Kiss of Life,Sade,anticipation,0.05996057347670252
+397,Kiss of Life,Sade,joy,0.1173691756272401
+397,Kiss of Life,Sade,surprise,0.025921146953405024
+397,Kiss of Life,Sade,trust,0.04337275985663082
+397,Kiss of Life,Sade,sadness,0.0020143369175627244
+398,favorite crime,Olivia Rodrigo,joy,0.04756221198156683
+398,favorite crime,Olivia Rodrigo,anger,0.028456221198156675
+398,favorite crime,Olivia Rodrigo,disgust,0.009723502304147464
+398,favorite crime,Olivia Rodrigo,fear,0.036023041474654384
+398,favorite crime,Olivia Rodrigo,sadness,0.022778801843317972
+398,favorite crime,Olivia Rodrigo,anticipation,0.015442396313364058
+398,favorite crime,Olivia Rodrigo,surprise,0.0070506912442396315
+398,favorite crime,Olivia Rodrigo,trust,0.0304147465437788
+399,Californication,Red Hot Chili Peppers,anger,0.004096085409252669
+399,Californication,Red Hot Chili Peppers,fear,0.008135231316725978
+399,Californication,Red Hot Chili Peppers,sadness,0.0023345195729537367
+399,Californication,Red Hot Chili Peppers,joy,0.059302491103202855
+399,Californication,Red Hot Chili Peppers,trust,0.027466192170818502
+399,Californication,Red Hot Chili Peppers,anticipation,0.02572241992882562
+399,Californication,Red Hot Chili Peppers,surprise,0.006758007117437723
+399,Californication,Red Hot Chili Peppers,disgust,0.008174377224199288
+400,Get You (feat. Kali Uchis),Daniel Caesar,sadness,0.0074671532846715336
+400,Get You (feat. Kali Uchis),Daniel Caesar,joy,0.02467153284671533
+400,Get You (feat. Kali Uchis),Daniel Caesar,surprise,0.000854014598540146
+400,Get You (feat. Kali Uchis),Daniel Caesar,anticipation,0.022215328467153288
+400,Get You (feat. Kali Uchis),Daniel Caesar,trust,0.01893065693430657
+401,good 4 u,Olivia Rodrigo,anticipation,0.020731051344743276
+401,good 4 u,Olivia Rodrigo,joy,0.03832029339853302
+401,good 4 u,Olivia Rodrigo,surprise,0.015281173594132032
+401,good 4 u,Olivia Rodrigo,trust,0.038396088019559904
+401,good 4 u,Olivia Rodrigo,fear,0.005926650366748166
+401,good 4 u,Olivia Rodrigo,sadness,0.014293398533007335
+401,good 4 u,Olivia Rodrigo,disgust,0.0015085574572127136
+401,good 4 u,Olivia Rodrigo,anger,0.006278728606356968
+402,What You Know,Two Door Cinema Club,anticipation,0.020415178571428574
+402,What You Know,Two Door Cinema Club,sadness,0.01725892857142857
+402,What You Know,Two Door Cinema Club,trust,0.0043214285714285715
+402,What You Know,Two Door Cinema Club,joy,0.0027901785714285715
+402,What You Know,Two Door Cinema Club,surprise,0.00090625
+402,What You Know,Two Door Cinema Club,fear,0.0028392857142857143
+406,Your Love Is My Drug,Kesha,disgust,0.0018292682926829265
+406,Your Love Is My Drug,Kesha,sadness,0.011602439024390242
+406,Your Love Is My Drug,Kesha,joy,0.11809512195121963
+406,Your Love Is My Drug,Kesha,anticipation,0.007339024390243902
+406,Your Love Is My Drug,Kesha,trust,0.10680487804878053
+406,Your Love Is My Drug,Kesha,fear,0.005609756097560976
+406,Your Love Is My Drug,Kesha,anger,0.0012195121951219512
+406,Your Love Is My Drug,Kesha,surprise,0.0063560975609756095
+409,Girl Like Me,PinkPantheress,joy,0.008215469613259668
+409,Girl Like Me,PinkPantheress,surprise,0.0003232044198895028
+409,Girl Like Me,PinkPantheress,trust,0.010806629834254143
+409,Girl Like Me,PinkPantheress,fear,0.0018563535911602209
+409,Girl Like Me,PinkPantheress,anger,0.0009696132596685082
+409,Girl Like Me,PinkPantheress,sadness,0.0018232044198895029
+409,Girl Like Me,PinkPantheress,anticipation,0.0012734806629834255
+46,Feel Good Inc.,Gorillaz,anticipation,0.02973019801980196
+46,Feel Good Inc.,Gorillaz,joy,0.04661633663366338
+46,Feel Good Inc.,Gorillaz,surprise,0.01213861386138614
+46,Feel Good Inc.,Gorillaz,trust,0.04882178217821785
+46,Feel Good Inc.,Gorillaz,fear,0.014876237623762374
+46,Feel Good Inc.,Gorillaz,sadness,0.007685643564356436
+46,Feel Good Inc.,Gorillaz,disgust,0.003346534653465346
+46,Feel Good Inc.,Gorillaz,anger,0.005839108910891089
+71,In the End,Linkin Park,trust,0.019742268041237115
+71,In the End,Linkin Park,disgust,0.00352319587628866
+71,In the End,Linkin Park,anticipation,0.015023195876288661
+71,In the End,Linkin Park,fear,0.004961340206185567
+71,In the End,Linkin Park,sadness,0.01022680412371134
+71,In the End,Linkin Park,joy,0.0011288659793814433
+71,In the End,Linkin Park,anger,0.004701030927835052
+71,In the End,Linkin Park,surprise,0.005195876288659793
+408,Club classics,Charli xcx,trust,0.048845433255269355
+408,Club classics,Charli xcx,joy,0.03494145199063232
+408,Club classics,Charli xcx,anticipation,0.0008782201405152225
+408,Club classics,Charli xcx,fear,0.00051288056206089
+407,Freaks,Surf Curse,fear,0.04115730337078652
+407,Freaks,Surf Curse,sadness,0.017382022471910116
+407,Freaks,Surf Curse,trust,0.008426966292134831
+407,Freaks,Surf Curse,joy,0.005438202247191011
+407,Freaks,Surf Curse,anticipation,0.02319101123595506
+127,Billie Jean,Michael Jackson,trust,0.022935540069686414
+127,Billie Jean,Michael Jackson,joy,0.03998606271777005
+127,Billie Jean,Michael Jackson,disgust,0.001700348432055749
+127,Billie Jean,Michael Jackson,anticipation,0.010294425087108016
+127,Billie Jean,Michael Jackson,sadness,0.0010470383275261324
+127,Billie Jean,Michael Jackson,anger,0.001557491289198606
+127,Billie Jean,Michael Jackson,surprise,0.0011567944250871081
+153,Toxic,Britney Spears,joy,0.021539568345323744
+153,Toxic,Britney Spears,trust,0.008374100719424462
+153,Toxic,Britney Spears,fear,0.018323741007194246
+153,Toxic,Britney Spears,anticipation,0.009525179856115108
+153,Toxic,Britney Spears,anger,0.013683453237410072
+153,Toxic,Britney Spears,sadness,0.01427697841726619
+153,Toxic,Britney Spears,disgust,0.042805755395683445
+240,One Dance,Drake,joy,0.023886917960088686
+240,One Dance,Drake,trust,0.024161862527716186
+240,One Dance,Drake,fear,0.002146341463414634
+240,One Dance,Drake,anticipation,0.021886917960088688
+240,One Dance,Drake,surprise,0.0022549889135254986
+240,One Dance,Drake,anger,0.0025033259423503326
+240,One Dance,Drake,disgust,0.0034634146341463415
+240,One Dance,Drake,sadness,0.008747228381374723
+383,Take on Me,a-ha,joy,0.010791878172588832
+383,Take on Me,a-ha,trust,0.007258883248730965
+383,Take on Me,a-ha,sadness,0.009197969543147208
+383,Take on Me,a-ha,fear,0.0028527918781725893
+387,Father Stretch My Hands Pt. 1,Kanye West,trust,0.011547752808988763
+387,Father Stretch My Hands Pt. 1,Kanye West,anticipation,0.006098314606741574
+387,Father Stretch My Hands Pt. 1,Kanye West,anger,0.005292134831460674
+387,Father Stretch My Hands Pt. 1,Kanye West,fear,0.005651685393258427
+387,Father Stretch My Hands Pt. 1,Kanye West,joy,0.013957865168539326
+387,Father Stretch My Hands Pt. 1,Kanye West,surprise,0.0019325842696629211
+387,Father Stretch My Hands Pt. 1,Kanye West,disgust,0.009179775280898876
+387,Father Stretch My Hands Pt. 1,Kanye West,sadness,0.0025337078651685393
+275,Shut up My Moms Calling,Hotel Ugly,anticipation,0.017292134831460675
+275,Shut up My Moms Calling,Hotel Ugly,anger,0.008119850187265918
+275,Shut up My Moms Calling,Hotel Ugly,disgust,0.011089887640449438
+275,Shut up My Moms Calling,Hotel Ugly,fear,0.009677902621722847
+275,Shut up My Moms Calling,Hotel Ugly,joy,0.0829737827715356
+275,Shut up My Moms Calling,Hotel Ugly,sadness,0.016677902621722848
+275,Shut up My Moms Calling,Hotel Ugly,surprise,0.005584269662921349
+275,Shut up My Moms Calling,Hotel Ugly,trust,0.01935580524344569
+305,Real Man,beabadoobee,joy,0.04044444444444444
+305,Real Man,beabadoobee,anticipation,0.029373737373737375
+305,Real Man,beabadoobee,trust,0.04576767676767676
+305,Real Man,beabadoobee,sadness,0.014925925925925926
+305,Real Man,beabadoobee,surprise,0.025057239057239056
+305,Real Man,beabadoobee,fear,0.0004175084175084175
+305,Real Man,beabadoobee,anger,0.0035151515151515154
+305,Real Man,beabadoobee,disgust,0.003313131313131313
+367,Killshot,Magdalena Bay,sadness,0.02503513513513514
+367,Killshot,Magdalena Bay,anger,0.016845945945945944
+367,Killshot,Magdalena Bay,disgust,0.009756756756756756
+367,Killshot,Magdalena Bay,fear,0.015318918918918921
+367,Killshot,Magdalena Bay,joy,0.05418378378378378
+367,Killshot,Magdalena Bay,trust,0.04119729729729729
+367,Killshot,Magdalena Bay,anticipation,0.021783783783783785
+367,Killshot,Magdalena Bay,surprise,0.010613513513513511
+131,NIGHTS LIKE THIS,The Kid LAROI,disgust,0.0009851851851851853
+131,NIGHTS LIKE THIS,The Kid LAROI,sadness,0.0076518518518518515
+131,NIGHTS LIKE THIS,The Kid LAROI,joy,0.03128148148148148
+131,NIGHTS LIKE THIS,The Kid LAROI,trust,0.05715555555555556
+131,NIGHTS LIKE THIS,The Kid LAROI,fear,0.004399999999999999
+101,No Pole,Don Toliver,sadness,0.007427553444180521
+101,No Pole,Don Toliver,anger,0.01901425178147268
+101,No Pole,Don Toliver,anticipation,0.013548693586698338
+101,No Pole,Don Toliver,joy,0.012798099762470306
+101,No Pole,Don Toliver,trust,0.013828978622327789
+101,No Pole,Don Toliver,disgust,0.00454394299287411
+101,No Pole,Don Toliver,surprise,0.0041733966745843235
+101,No Pole,Don Toliver,fear,0.006726840855106889
+7,undressed,sombr,joy,0.021240458015267177
+7,undressed,sombr,disgust,0.0022061068702290076
+7,undressed,sombr,sadness,0.0074465648854961835
+7,undressed,sombr,anticipation,0.020187022900763366
+7,undressed,sombr,surprise,0.009419847328244274
+7,undressed,sombr,trust,0.00450381679389313
+7,undressed,sombr,fear,0.001847328244274809
+73,CHIHIRO,Billie Eilish,joy,0.011556430446194227
+73,CHIHIRO,Billie Eilish,trust,0.012656167979002625
+73,CHIHIRO,Billie Eilish,anticipation,0.010968503937007875
+73,CHIHIRO,Billie Eilish,surprise,0.004388451443569553
+73,CHIHIRO,Billie Eilish,fear,0.0063674540682414705
+73,CHIHIRO,Billie Eilish,sadness,0.005060367454068241
+73,CHIHIRO,Billie Eilish,disgust,0.00034908136482939635
+74,Fake Plastic Trees,Radiohead,joy,0.010173652694610777
+74,Fake Plastic Trees,Radiohead,trust,0.023263473053892213
+74,Fake Plastic Trees,Radiohead,anger,0.00555688622754491
+74,Fake Plastic Trees,Radiohead,fear,0.01421556886227545
+74,Fake Plastic Trees,Radiohead,sadness,0.006646706586826347
+74,Fake Plastic Trees,Radiohead,anticipation,0.00950299401197605
+74,Fake Plastic Trees,Radiohead,disgust,0.0016407185628742515
+74,Fake Plastic Trees,Radiohead,surprise,0.0021497005988023953
+76,When the Sun Hits,Slowdive,anticipation,0.06151879699248121
+76,When the Sun Hits,Slowdive,joy,0.049150375939849625
+76,When the Sun Hits,Slowdive,surprise,0.020616541353383457
+76,When the Sun Hits,Slowdive,trust,0.03864661654135338
+76,When the Sun Hits,Slowdive,fear,0.027932330827067677
+76,When the Sun Hits,Slowdive,disgust,0.006932330827067668
+76,When the Sun Hits,Slowdive,sadness,0.013947368421052632
+76,When the Sun Hits,Slowdive,anger,0.005887218045112782
+77,Change (In the House of Flies),Deftones,fear,0.01973125
+77,Change (In the House of Flies),Deftones,trust,0.033875
+77,Change (In the House of Flies),Deftones,anticipation,0.0172875
+77,Change (In the House of Flies),Deftones,joy,0.023406250000000003
+77,Change (In the House of Flies),Deftones,anger,0.00710625
+77,Change (In the House of Flies),Deftones,sadness,0.000975
+78,My Own Summer (Shove It),Deftones,anticipation,0.02074242424242424
+78,My Own Summer (Shove It),Deftones,joy,0.027313131313131313
+78,My Own Summer (Shove It),Deftones,trust,0.027277777777777776
+78,My Own Summer (Shove It),Deftones,anger,0.150439393939394
+78,My Own Summer (Shove It),Deftones,surprise,0.005212121212121211
+78,My Own Summer (Shove It),Deftones,fear,0.0022929292929292928
+78,My Own Summer (Shove It),Deftones,sadness,0.0029797979797979795
+111,Karma Police,Radiohead,fear,0.01426241134751773
+111,Karma Police,Radiohead,trust,0.017163120567375886
+111,Karma Police,Radiohead,anger,0.0023617021276595746
+111,Karma Police,Radiohead,disgust,0.010354609929078013
+111,Karma Police,Radiohead,sadness,0.039673758865248224
+111,Karma Police,Radiohead,joy,0.005425531914893617

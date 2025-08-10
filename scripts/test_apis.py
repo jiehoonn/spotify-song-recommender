@@ -3,6 +3,7 @@ import json
 from dotenv import load_dotenv
 import os
 import lyricsgenius
+import re
 # import musicbrainzngs
 
 load_dotenv() # Load environment variables from .env.
@@ -231,8 +232,32 @@ def search_spotify_track_artist(song_title, artist_name):
         print(f"Error response exported to: {output_file}")
         return None
 
+# Next step is to go through all the tracks in our database
+# Use the genius api to pull lyrics for each track
+# If lyrics don't exist, delete track and entire row from database
+# Perform some sort of data cleaning on lyrics
+# Perform sentiment analysis on cleaned lyrics data
+def clean_lyrics_for_nrc(text):
+    # Remove everything up to and including "read more" (case-insensitive)
+    text = re.sub(r'^.*?read more', '', text, flags=re.IGNORECASE | re.DOTALL)
+    # Remove contributor/translation lines (lines with "contributor" or "translation" or language names)
+    text = re.sub(r'^(.*contributor.*|.*translation.*|.*fran[çc]ais.*|.*italiano.*|.*deutsch.*|.*espa[ñn]ol.*|.*bahasa.*|.*hrvatski.*|.*t[üu]rk[çc]e.*|.*slovensk[yá].*)\n?', '', text, flags=re.IGNORECASE | re.MULTILINE)
+    # Lowercase
+    text = text.lower()
+    # Remove section headers like [Chorus], [Verse 1], etc.
+    text = re.sub(r'\[.*?\]', '', text)
+    # Remove punctuation and special characters (except apostrophes and newlines)
+    text = re.sub(r"[^a-zA-Z0-9'\s\n]", '', text)
+    # Remove extra spaces but preserve newlines
+    text = re.sub(r'[ \t]+', ' ', text)
+    # Remove spaces at the start/end of lines
+    text = re.sub(r' *\n *', '\n', text)
+    # Remove empty lines
+    text = re.sub(r'\n+', '\n', text)
+    return text.strip()
+
 def test_genius_lyrics_api():
-    """Test the Genius Lyrics API endpoint."""
+    """Test the Genius Lyrics API endpoint and export cleaned lyrics for NRC lexicon scoring."""
     api_key = os.getenv("GENIUS_API_KEY")
     base_url = os.getenv("GENIUS_API_URL")
     access_token = os.getenv("GENIUS_ACCESS_TOKEN")
@@ -241,9 +266,20 @@ def test_genius_lyrics_api():
     
     genius = lyricsgenius.Genius(access_token)
     
-    song = genius.search_song("No One Noticed", "The Marias")
+    song = genius.search_song("No One Noticed", "The Marías")
     if song:
-        print(song.lyrics)
+        cleaned = clean_lyrics_for_nrc(song.lyrics)
+        # Split into lines, then split each line into words
+        lines = cleaned.split('\n')
+        words_per_line = [line.strip().split() for line in lines if line.strip()]
+        # Flatten to one word per line for NRC lexicon use
+        all_words = [word for line in words_per_line for word in line]
+        data_dir = ensure_data_directory()
+        cleaned_output_file = os.path.join(data_dir, 'no_one_noticed_lyrics_nrc_ready.txt')
+        with open(cleaned_output_file, 'w') as f:
+            for word in all_words:
+                f.write(word + '\n')
+        print(f"NRC-ready lyrics exported to: {cleaned_output_file}")
     else:
         print("Song not found on Genius.")
 

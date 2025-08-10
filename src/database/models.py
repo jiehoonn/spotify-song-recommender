@@ -1,4 +1,5 @@
-from sqlalchemy import Column, Integer, String, Float
+from sqlalchemy import Column, Integer, String, Float, Text, ForeignKey
+from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
@@ -29,3 +30,11 @@ class Song(Base):
     speechiness = Column(Float)
     tempo = Column(Float)
     valence = Column(Float)
+    lyrics = relationship("Lyrics", uselist=False, back_populates="song")
+
+class Lyrics(Base):
+    __tablename__ = 'lyrics'
+    id = Column(Integer, primary_key=True)
+    song_id = Column(Integer, ForeignKey('songs.id'), unique=True)
+    cleaned_lyrics = Column(Text)
+    song = relationship("Song", back_populates="lyrics")

@@ -1,6 +1,8 @@
-from sqlalchemy import Column, Integer, String, Float, Text, ForeignKey, UniqueConstraint
+from sqlalchemy import Column, Integer, String, Float, ForeignKey, DateTime, ARRAY, Text, UniqueConstraint
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.dialects.postgresql import JSONB
+import datetime
 
 Base = declarative_base()
 
@@ -30,6 +32,9 @@ class Song(Base):
     speechiness = Column(Float)
     tempo = Column(Float)
     valence = Column(Float)
+    popularity = Column(Integer)
+    lastfm_tag_counts = Column(JSONB)
+    lyric_embedding = relationship("SongLyricEmbedding", uselist=False, back_populates="song")
     lyrics = relationship("Lyrics", uselist=False, back_populates="song")
     emotion_scores = relationship("SongEmotionScore", back_populates="song", cascade="all, delete-orphan")
 
@@ -50,3 +55,12 @@ class SongEmotionScore(Base):
     total_words = Column(Integer)
     matched_words = Column(Integer)
     __table_args__ = (UniqueConstraint('song_id', 'emotion', name='uix_song_emotion'),)
+    
+class SongLyricEmbedding(Base):
+    __tablename__ = 'song_lyric_embeddings'
+    id = Column(Integer, primary_key=True)
+    song_id = Column(Integer, ForeignKey('songs.id', ondelete='CASCADE'), unique=True, nullable=False)
+    embedding = Column(ARRAY(Float))  # Stores the vector as a float array
+    model_name = Column(String(128))  # e.g., 'all-mpnet-base-v2'
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
+    song = relationship("Song", back_populates="lyric_embedding")

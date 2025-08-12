@@ -90,6 +90,37 @@ This project aims to build a song recommender system using a combination of lyri
 
 ---
 
+## Baseline Model v2: Hybrid Song Recommender
+
+**New in v2.0:**
+
+- **Lyric Embeddings:**  
+  Each song’s lyrics are embedded using Sentence-BERT (`all-mpnet-base-v2`), capturing semantic and thematic meaning beyond simple word counts.
+- **Popularity Integration:**  
+  Spotify’s popularity score (0–100, normalized) is now included as a feature, so more popular songs have a slight influence on similarity.
+- **Last.fm Tag Integration:**  
+  Top tags for each track are fetched from Last.fm, including tag counts (how many users applied each tag). Tag similarity is computed using a weighted Jaccard index.
+- **Weighted Hybrid Similarity:**  
+  The similarity score is now a weighted sum of:
+  - Lyrics embedding similarity (**0.42**)
+  - Audio feature similarity (**0.25**)
+  - Emotion score similarity (**0.17**)
+  - Popularity similarity (**0.08**)
+  - Tag similarity (**0.08**)
+    All weights sum to 1.0 for interpretability.
+- **Robust to Missing Data:**  
+  If a song is missing a feature (e.g., no tags or popularity), the similarity calculation automatically adjusts the weights to use only available features.
+
+**How it works:**
+
+- Loads all songs and their feature vectors (lyrics embedding, audio, emotion, popularity, tags).
+- User enters a song title in the terminal.
+- The script computes a hybrid similarity score between the selected song and all others, using a weighted sum of cosine similarities (for vectors) and weighted Jaccard (for tags).
+- Returns the top 5 most similar songs, displaying their titles, artists, and similarity scores.
+- Users can also browse available songs in the database.
+
+---
+
 ## Update Log
 
 - **v1.0:**

@@ -47,4 +47,6 @@ class SongEmotionScore(Base):
     emotion = Column(String(32))
     score = Column(Float)
     song = relationship("Song", back_populates="emotion_scores")
+    total_words = Column(Integer)
+    matched_words = Column(Integer)
     __table_args__ = (UniqueConstraint('song_id', 'emotion', name='uix_song_emotion'),)

@@ -4,6 +4,7 @@ def load_nrc_lexicon(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f:
             word, emotion, intensity = line.strip().split('\t')
+            word = word.strip()  # <-- Add this line
             if word not in lexicon:
                 lexicon[word] = {}
             lexicon[word][emotion] = float(intensity)
@@ -36,15 +37,25 @@ for lyrics_entry in session.query(Lyrics).all():
         # Tokenize
         words = re.findall(r"\b[a-zA-Z0-9']+\b", lyrics_entry.cleaned_lyrics.lower())
         emotion_scores = defaultdict(float)
+        emotion_matches = defaultdict(int)
         for word in words:
             if word in lexicon:
                 for emotion, intensity in lexicon[word].items():
                     emotion_scores[emotion] += intensity
-        # Insert scores
+                    emotion_matches[emotion] += 1
         total_words = len(words)
+        # Remove old scores for this song
+        session.query(SongEmotionScore).filter_by(song_id=lyrics_entry.song_id).delete()
+        # Insert new scores
         for emotion, score in emotion_scores.items():
             normalized_score = score / total_words if total_words else 0.0
-            ses = SongEmotionScore(song_id=lyrics_entry.song_id, emotion=emotion, score=normalized_score)
+            ses = SongEmotionScore(
+                song_id=lyrics_entry.song_id,
+                emotion=emotion,
+                score=normalized_score,
+                total_words=total_words,
+                matched_words=emotion_matches[emotion]
+            )
             session.add(ses)
         session.commit()
     except Exception as e:

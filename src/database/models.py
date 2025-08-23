@@ -64,3 +64,12 @@ class SongLyricEmbedding(Base):
     model_name = Column(String(128))  # e.g., 'all-mpnet-base-v2'
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
     song = relationship("Song", back_populates="lyric_embedding")
+
+class UserFeedback(Base):
+    __tablename__ = "user_feedback"
+    id = Column(Integer, primary_key=True)
+    user_id = Column(String, nullable=True)  # Optional for future multi-user support
+    source_song_id = Column(Integer, ForeignKey("songs.id", ondelete="CASCADE"))
+    recommended_song_id = Column(Integer, ForeignKey("songs.id", ondelete="CASCADE"))
+    feedback = Column(String)  # e.g., "like", "dislike", "skip", or rating
+    timestamp = Column(DateTime, default=datetime.datetime.utcnow)

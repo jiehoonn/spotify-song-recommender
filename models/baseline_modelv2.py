@@ -1,18 +1,7 @@
 import numpy as np
-from sqlalchemy.orm import sessionmaker
-from src.database.models import Song, SongEmotionScore, SongLyricEmbedding
-from sqlalchemy import create_engine
-import os
-from dotenv import load_dotenv
+from src.database.models import Song, SongEmotionScore, SongLyricEmbedding, UserFeedback
+from src.database.connection import SessionLocal
 
-# --- Setup ---
-load_dotenv()
-DATABASE_URL = (
-    f"postgresql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}"
-    f"@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
-)
-engine = create_engine(DATABASE_URL)
-SessionLocal = sessionmaker(bind=engine)
 session = SessionLocal()
 
 AUDIO_FEATURES = [
@@ -151,6 +140,16 @@ def browse_songs(songs, page_size=10):
         else:
             break
 
+def log_feedback(source_song_id, recommended_song_id, feedback, user_id=None):
+    fb = UserFeedback(
+        user_id=user_id,
+        source_song_id=source_song_id,
+        recommended_song_id=recommended_song_id,
+        feedback=feedback
+    )
+    session.add(fb)
+    session.commit()
+
 def main():
     songs = load_songs()
     print("Welcome to the Hybrid Song Recommender!")
@@ -190,6 +189,15 @@ def main():
                 similarities.sort(reverse=True)
                 for i, (sim, title, artist) in enumerate(similarities[:5], 1):
                     print(f"{i}. \"{title}\" by {artist} (hybrid similarity: {sim:.2f})")
+                    # Find recommended song_id
+                    recommended_id = None
+                    for other_id, other_info in songs.items():
+                        if other_info['title'] == title and other_info['artist'] == artist:
+                            recommended_id = other_id
+                            break
+                    feedback = input(f"Did you like this recommendation? (like/dislike/skip): ").strip().lower()
+                    if recommended_id:
+                        log_feedback(song_id, recommended_id, feedback)
                 print()
             else:
                 print("Invalid option. Please try again.")

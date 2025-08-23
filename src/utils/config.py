@@ -25,4 +25,9 @@ def get_config() -> Dict[str, Any]:
         # Spotify API
         'SPOTIFY_CLIENT_ID': os.getenv('SPOTIFY_CLIENT_ID'),
         'SPOTIFY_CLIENT_SECRET': os.getenv('SPOTIFY_CLIENT_SECRET'),
+        
+        # Genius API
+        'GENIUS_CLIENT_ID': os.getenv('GENIUS_CLIENT_ID'),
+        'GENIUS_CLIENT_SECRET': os.getenv('GENIUS_CLIENT_SECRET'),
+        'GENIUS_ACCESS_TOKEN': os.getenv('GENIUS_ACCESS_TOKEN')
     }

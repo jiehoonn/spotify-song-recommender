@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard - Song Recommender</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .card { border: 1px solid #ddd; padding: 20px; margin: 20px 0; border-radius: 8px; }
+        .metric { display: inline-block; margin: 10px; padding: 10px; background: #f5f5f5; border-radius: 4px; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+        .success { color: green; }
+        .error { color: red; }
+        .loading { color: orange; }
+        #trainHistoryChart { width: 100%; height: 300px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>Admin Dashboard</h1>
+    <a href="/">← Back to App</a>
+
+    <div class="card">
+        <h2>System Statistics</h2>
+        <div id="stats">Loading...</div>
+        <button onclick="loadStats()">Refresh Stats</button>
+    </div>
+
+    <div class="card">
+        <h2>Model Management</h2>
+        <div id="modelStatus">Loading...</div>
+        <button onclick="retrainModel()">Retrain Model</button>
+        <div id="retrainResult"></div>
+    </div>
+
+    <div class="card">
+        <h2>Training History</h2>
+        <canvas id="trainHistoryChart"></canvas>
+        <div id="trainingMetrics"></div>
+    </div>
+
+    <div class="card">
+        <h2>Analyze Similarity</h2>
+        <input type="number" id="song1Id" placeholder="Song 1 ID" min="1">
+        <input type="number" id="song2Id" placeholder="Song 2 ID" min="1">
+        <button onclick="analyzeSimilarity()">Analyze</button>
+        <div id="analysisResult"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        let trainingChart = null;
+
+        async function loadStats() {
+            document.getElementById('stats').innerHTML = 'Loading...';
+            try {
+                const response = await fetch('/admin/stats');
+                const stats = await response.json();
+                
+                document.getElementById('stats').innerHTML = `
+                    <div class="metric"><strong>Total Songs:</strong> ${stats.total_songs}</div>
+                    <div class="metric"><strong>Total Feedback:</strong> ${stats.total_feedback}</div>
+                    <div class="metric"><strong>Likes:</strong> ${stats.likes}</div>
+                    <div class="metric"><strong>Dislikes:</strong> ${stats.dislikes}</div>
+                    <div class="metric"><strong>Skips:</strong> ${stats.skips}</div>
+                    <div class="metric"><strong>Like Ratio:</strong> ${(stats.like_ratio * 100).toFixed(1)}%</div>
+                    <div class="metric"><strong>Model Trained:</strong> ${stats.model_trained ? '✅ Yes' : '❌ No'}</div>
+                    <div class="metric"><strong>Feedback Needed:</strong> ${stats.feedback_needed}</div>
+                `;
+
+                document.getElementById('modelStatus').innerHTML = stats.model_trained ? 
+                    '<span class="success">✅ Model is trained and active</span>' : 
+                    `<span class="error">❌ Model not trained (need ${stats.feedback_needed} more feedback samples)</span>`;
+
+                // Update training history chart
+                if (stats.training_history && stats.training_history.length > 0) {
+                    updateTrainingChart(stats.training_history);
+                    displayTrainingMetrics(stats.training_history);
+                }
+            } catch (error) {
+                document.getElementById('stats').innerHTML = `<span class="error">Error loading stats: ${error}</span>`;
+            }
+        }
+
+        async function retrainModel() {
+            document.getElementById('retrainResult').innerHTML = '<span class="loading">Training model...</span>';
+            try {
+                const response = await fetch('/admin/retrain', { method: 'POST' });
+                const result = await response.json();
+                
+                if (result.status === 'success') {
+                    document.getElementById('retrainResult').innerHTML = `
+                        <span class="success">✅ ${result.message}</span>
+                        ${result.metrics ? `<br>Accuracy: ${(result.metrics.accuracy * 100).toFixed(1)}%, F1: ${(result.metrics.f1 * 100).toFixed(1)}%` : ''}
+                    `;
+                    loadStats(); // Refresh stats
+                } else {
+                    document.getElementById('retrainResult').innerHTML = `<span class="error">❌ ${result.message}</span>`;
+                }
+            } catch (error) {
+                document.getElementById('retrainResult').innerHTML = `<span class="error">Error: ${error}</span>`;
+            }
+        }
+
+        async function analyzeSimilarity() {
+            const song1Id = document.getElementById('song1Id').value;
+            const song2Id = document.getElementById('song2Id').value;
+            
+            if (!song1Id || !song2Id) {
+                alert('Please enter both song IDs');
+                return;
+            }
+
+            document.getElementById('analysisResult').innerHTML = 'Analyzing...';
+            try {
+                const response = await fetch(`/admin/analyze/${song1Id}/${song2Id}`);
+                const result = await response.json();
+                
+                if (result.error) {
+                    document.getElementById('analysisResult').innerHTML = `<span class="error">${result.error}</span>`;
+                } else {
+                    const analysis = result.analysis;
+                    document.getElementById('analysisResult').innerHTML = `
+                        <h4>${result.song1.title} vs ${result.song2.title}</h4>
+                        <div class="metric"><strong>ML Similarity:</strong> ${(analysis.ml_similarity * 100).toFixed(1)}%</div>
+                        <div class="metric"><strong>Lyric Similarity:</strong> ${(analysis.lyric_similarity * 100).toFixed(1)}%</div>
+                        <div class="metric"><strong>Audio Similarity:</strong> ${(analysis.audio_similarity * 100).toFixed(1)}%</div>
+                        <div class="metric"><strong>Emotion Similarity:</strong> ${(analysis.emotion_similarity * 100).toFixed(1)}%</div>
+                        <div class="metric"><strong>Popularity Difference:</strong> ${(analysis.popularity_difference * 100).toFixed(1)}%</div>
+                    `;
+                }
+            } catch (error) {
+                document.getElementById('analysisResult').innerHTML = `<span class="error">Error: ${error}</span>`;
+            }
+        }
+
+        function updateTrainingChart(history) {
+            const ctx = document.getElementById('trainHistoryChart').getContext('2d');
+            
+            if (trainingChart) {
+                trainingChart.destroy();
+            }
+
+            trainingChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: history.map((_, i) => `Training ${i + 1}`),
+                    datasets: [
+                        {
+                            label: 'Accuracy',
+                            data: history.map(h => h.accuracy * 100),
+                            borderColor: 'rgb(75, 192, 192)',
+                            tension: 0.1
+                        },
+                        {
+                            label: 'F1 Score',
+                            data: history.map(h => h.f1 * 100),
+                            borderColor: 'rgb(255, 99, 132)',
+                            tension: 0.1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            title: {
+                                display: true,
+                                text: 'Percentage'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function displayTrainingMetrics(history) {
+            const latest = history[history.length - 1];
+            document.getElementById('trainingMetrics').innerHTML = `
+                <h4>Latest Training Session</h4>
+                <div class="metric"><strong>Accuracy:</strong> ${(latest.accuracy * 100).toFixed(1)}%</div>
+                <div class="metric"><strong>Precision:</strong> ${(latest.precision * 100).toFixed(1)}%</div>
+                <div class="metric"><strong>Recall:</strong> ${(latest.recall * 100).toFixed(1)}%</div>
+                <div class="metric"><strong>F1 Score:</strong> ${(latest.f1 * 100).toFixed(1)}%</div>
+                <div class="metric"><strong>Training Samples:</strong> ${latest.train_samples}</div>
+                <div class="metric"><strong>Validation Samples:</strong> ${latest.val_samples}</div>
+                <div class="metric"><strong>Epochs:</strong> ${latest.epochs_trained}</div>
+            `;
+        }
+
+        // Load stats on page load
+        loadStats();
+        
+        // Auto-refresh every 30 seconds
+        setInterval(loadStats, 30000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+  "name": "Spotify Song Recommender",
+  "description": "Active learning song recommendation system",
+  "keywords": ["python", "flask", "machine-learning", "recommendations"],
+  "website": "",
+  "repository": "",
+  "env": {
+    "DB_HOST": {
+      "description": "Database host"
+    },
+    "DB_NAME": {
+      "description": "Database name"
+    },
+    "DB_USER": {
+      "description": "Database user"
+    },
+    "DB_PASSWORD": {
+      "description": "Database password"
+    },
+    "DB_PORT": {
+      "description": "Database port",
+      "value": "5432"
+    },
+    "FLASK_ENV": {
+      "description": "Flask environment",
+      "value": "production"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    },
+    "scheduler": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": ["heroku-postgresql:mini"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

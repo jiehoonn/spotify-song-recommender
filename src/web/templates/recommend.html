@@ -1,0 +1,19 @@
+<!-- recommend.html -->
+<h2>Recommendations for "{{ song.spotify_title }}" by {{ song.spotify_artist }}</h2>
+<p><strong>Model Used:</strong> {{ model_used }}</p>
+<a href="{{ url_for('home') }}"><button>Back to Song List</button></a>
+{% if success %}
+<p style="color: green;">Feedback submitted successfully!</p>
+{% endif %}
+{% for sim, rec, title, artist in recommendations %}
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
+    <p><strong>{{ title }}</strong> by {{ artist }}</p>
+    <p>Similarity Score: {{ "%.3f"|format(sim) }}</p>
+    <form method="post" style="display: inline;">
+        <input type="hidden" name="recommended_song_id" value="{{ rec.id }}">
+        <button name="feedback" value="like" style="background: green; color: white;">👍 Like</button>
+        <button name="feedback" value="dislike" style="background: red; color: white;">👎 Dislike</button>
+        <button name="feedback" value="skip" style="background: gray; color: white;">⏭️ Skip</button>
+    </form>
+</div>
+{% endfor %}

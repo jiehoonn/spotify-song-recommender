@@ -1,0 +1,5 @@
+[phases.build]
+aptPkgs = ["postgresql-dev", "gcc", "python3-dev"]
+
+[phases.start]
+cmd = "gunicorn --bind 0.0.0.0:$PORT src.web.app:app"
